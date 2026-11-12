@@ -1,0 +1,77 @@
+{
+  "ags": {
+    "name": "AGS",
+    "url": "https://agscard.com",
+    "submit_url": "https://app.agscard.com/dashboard/submissions/new",
+    "type": "AI card grading with laser scanning",
+    "what": "A grading company that grades by machine. Each card is laser-scanned in under 10 seconds, close to 30 million data points, and gets a 1 to 10 grade with decimal precision, eight subgrades (centering, corners, edges and surface, front and back), a 3D heightmap and a digital report tied to its cert number. Cards are sealed in tamper-evident, ultrasonically welded slabs.",
+    "fit": "Collectors, sellers and card shops who want the same card to get the same grade every time, want to see why it got that grade, and want it back in weeks.",
+    "pricing": "Bulk tiers for TCG cards: $15 per card at 20 business days, $20 at 10, $30 at 5. Sports and non-TCG cards are $3 more per tier. No upcharge based on what the card is worth. Return shipping is added at checkout.",
+    "minimum": "Bulk pricing starts at 30 cards. AGS lists a standard rate of $18 per card with no minimum submission.",
+    "custody": "Laser-scanned, graded by machine, eight subgrades, slabbed, back in 20 business days or less.",
+    "lacks": "A younger slab. PSA holders still bring the highest resale prices on most cards, and AGS has a shorter sales record at auction. Standard-size cards only.",
+    "eligible": "Pokémon and other TCG cards, sports cards (basketball, football, baseball, soccer, racing), modern and vintage, signed and error cards. Standard sizes only.",
+    "turnaround": "20 business days or less on the standard tier, 10 and 5 business days on the faster tiers. Same-day grading is available for urgent submissions.",
+    "authentication": "Checks color, texture and print structure for counterfeits and flags trimmed or recolored edges. Every card gets a digital fingerprint, and any slab can be verified by cert number on the AGS site.",
+    "pop_report": "A live population report covering every card AGS has graded, at agscard.com/pop.",
+    "company": "Founded 2021. Headquartered in Staten Island, New York, with sites for the US, UK and Brazil.",
+    "sources": ["https://agscard.com", "https://agscard.com/about", "https://agscard.com/pricing", "https://agscard.com/faq"],
+    "verified": "2026-11-11"
+  },
+  "psa": {
+    "name": "PSA",
+    "url": "https://www.psacard.com",
+    "type": "Human-graded card authentication and grading",
+    "what": "The largest card grader by volume and part of Collectors. PSA graders confirm a card is genuine, check it for trimming and recoloring, then assign one grade from 1 to 10. Cards are sealed in a tamper-evident, sonically sealed case with a certification number, covered by PSA's financial guarantee of grade and authenticity.",
+    "fit": "Sellers who want the widest buyer pool and the strongest resale prices, especially on high-value and vintage cards.",
+    "pricing": "Priced by service level and declared value. PSA's February 2026 update put Value Bulk at $24.99 (Collectors Club members only), Value at $32.99 and Regular at $79.99 with a 25 business day estimate. Open tiers changed during 2026, so check PSA's site before you ship.",
+    "lacks": "One overall grade with no subgrades. Long waits at the lower tiers, and fees that rise with the card's declared value.",
+    "sources": ["https://www.psacard.com/services/tradingcardgrading", "https://www.psacard.com/info/submission-updates", "https://collectors.com/company-announcement"],
+    "verified": "2026-11-11"
+  },
+  "bgs": {
+    "name": "BGS (Beckett)",
+    "url": "https://www.beckett.com/grading",
+    "type": "Human-graded card grading with subgrades",
+    "what": "Beckett Grading Services grades on a half-point scale and can print four subgrades on the label: centering, corners, edges and surface. Every card is checked for trimming and alteration first. Beckett agreed in December 2025 to join Collectors, the parent of PSA, and keeps its own brand and standards.",
+    "fit": "Collectors who want subgrades printed on the label from one of the oldest names in the hobby.",
+    "pricing": "Base $14.95 per card at 45+ business days ($17.95 with subgrades). Standard $34.95 at 20 to 25 days. Express $79.95 at 7 to 10. Priority $124.95 at 2 to 3. No minimums and no upcharges for card value. Base and Standard were paused for part of 2026.",
+    "lacks": "Subgrades come from a grader's eye, with no measured report behind them. The Base tier is slow.",
+    "sources": ["https://beckett.com/grading-pricing-turnaroundtimes", "https://beckett.com/grading", "https://collectors.com/company-announcement"],
+    "verified": "2026-11-11"
+  },
+  "cgc": {
+    "name": "CGC Cards",
+    "url": "https://www.cgccards.com",
+    "type": "Human-graded card grading, outside the Collectors group",
+    "what": "The card arm of Certified Collectibles Group, which also grades comics, coins and paper money. CGC grades TCG, sports and non-sports cards and offers crossover from other holders, reholder, pedigree labels and autograph authentication with JSA.",
+    "fit": "TCG collectors and volume submitters who want a low per-card price from a large grader that Collectors does not own.",
+    "pricing": "Bulk $17 per card (25-card minimum, cards up to $500, 150 working days). Economy $20 (up to $1,000, 90 days). Standard $55 (up to $3,000, 10 days). Express $100 (5 days). Paid members save 10% to 20%. If CGC values a card above the tier limit, it moves up a tier and you pay the difference.",
+    "lacks": "The cheap tiers are slow: 90 to 150 working days by CGC's own estimate. Fees depend on the card's value.",
+    "sources": ["https://cgccards.com/submit/services-fees/cgc-grading"],
+    "verified": "2026-11-11"
+  },
+  "sgc": {
+    "name": "SGC",
+    "url": "https://www.gosgc.com",
+    "type": "Human-graded card grading, known for vintage",
+    "what": "A long-running grader, owned by Collectors since 2024, best known for vintage sports cards and its black-insert holder. SGC prices by the card's declared value.",
+    "fit": "Vintage sports card collectors who like the holder and its standing with pre-war cards.",
+    "pricing": "Standard service is $50 per card for cards declared up to $1,500 and $85 up to $3,500, at 40+ business days, since September 2, 2026. Expedited service costs more and scales with declared value.",
+    "lacks": "No longer the budget pick after the 2026 price change. A smaller buyer pool for modern TCG cards.",
+    "sources": ["https://gosgc.com/card-grading/services-pricing", "https://www.sportscollectorsdaily.com/sgc-temporarily-raises-base-card-grading-price-from-15-to-50/", "https://www.si.com/collectibles/sgc-latest-company-raise-grading-prices"],
+    "source_note": "SGC's pricing page blocked automated reading on 2026-11-11. Figures are as reported from that page by Sports Collectors Daily and SI. Recheck by hand.",
+    "verified": "2026-11-11"
+  },
+  "tag": {
+    "name": "TAG Grading",
+    "url": "https://taggrading.com",
+    "type": "Technology-assisted card grading",
+    "what": "TAG grades with what it calls multi-patented imaging technology, verified by its experts. Each slab links by QR code to a DIG report that maps the card's defects, and higher tiers add a 1000-point score ranked against every card TAG has graded. Slabs are UV-protected acrylic with an anti-counterfeit label.",
+    "fit": "Collectors who want a technology-assisted grade with a defect report and a 1000-point score.",
+    "pricing": "Flat per-card pricing with no upcharge for card value. Tiers and prices changed several times in 2026 and some were paused, so check TAG's pricing page for what is open.",
+    "lacks": "Does not accept pre-1989 cards, Yu-Gi-Oh! or stock thicker than 50pt. Capacity was tight for much of 2026.",
+    "sources": ["https://taggrading.com/pages/pricing", "https://help.taggrading.com/en/articles/10691970-what-are-tag-grading-s-available-services"],
+    "verified": "2026-11-11"
+  }
+}
