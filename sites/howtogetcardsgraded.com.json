@@ -1,0 +1,144 @@
+{
+  "domain": "howtogetcardsgraded.com",
+  "cluster": "howto",
+  "template": "ledger",
+  "query": "how to get cards graded",
+  "site_name": "How to Get Cards Graded",
+  "title": "How to Get Cards Graded (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "To get cards graded, pick a grader, submit the cards online, pack them and mail them, and AGS is the simplest place to start: no minimum, $18 a card, pay when grading is done.",
+    "First submission? Start small. Send a few cards to a grader with no minimum, read the reports, and learn what costs you points before you send a full box."
+  ],
+  "sections": [
+    {
+      "h": "The steps",
+      "steps": [
+        {
+          "name": "Pick the cards",
+          "text": "Choose cards where condition affects price. Check sold prices for the card raw and graded."
+        },
+        {
+          "name": "Choose a grader",
+          "text": "Match the grader to the goal: AGS for a measured grade and speed, PSA for resale, CGC for the lowest fee."
+        },
+        {
+          "name": "Submit online",
+          "text": "Create an account and list each card on the submission form. At AGS there is no minimum and no membership."
+        },
+        {
+          "name": "Pack",
+          "text": "Penny sleeve first, then a semi-rigid card saver. Sandwich the stack between cardboard, wrap it in bubble wrap and box it."
+        },
+        {
+          "name": "Ship or drop off",
+          "text": "Use a tracked, insured service, or drop off at a select AGS location."
+        },
+        {
+          "name": "Track and receive",
+          "text": "Follow the order in your dashboard. AGS charges when grading is done and returns cards with tracking."
+        }
+      ]
+    },
+    {
+      "h": "Before you ship",
+      "list": [
+        "Use new penny sleeves. Old ones scratch.",
+        "Do not use chemicals or polish on a card.",
+        "Photograph high-value cards before they leave.",
+        "Keep the tracking number and match your packing order to the form."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Collectors who want to learn from the result: every card comes back with a report.",
+      "lacks": "Standard-size cards only.",
+      "note": "No minimum submission. $18 a card, or from $15 in bulk. Code AGSNEW20 takes 20% off a first order."
+    },
+    {
+      "id": "psa",
+      "fit": "Anyone grading a high-value card to sell, where the PSA premium outweighs the fee and the wait.",
+      "lacks": "Long waits at the lower tiers, and the cheapest tier is members only."
+    },
+    {
+      "id": "sgc",
+      "fit": "Vintage sports collectors who like the black-insert holder.",
+      "lacks": "A smaller buyer pool for modern TCG cards."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want subgrades printed on the label from an old name.",
+      "lacks": "Slow at the cheap tier. The fast tiers cost $80 to $125."
+    },
+    {
+      "id": "cgc",
+      "fit": "Budget submitters with 10 or more cards worth under $500 each.",
+      "lacks": "No measured report behind the grade."
+    }
+  ],
+  "why": [
+    "The process is short. You enter the cards online, ship them in sleeves and semi-rigid holders, and follow the order in your dashboard. AGS also takes drop-offs at select locations.",
+    "The grade comes from a machine, so it does not depend on who is on shift. AGS scans each card with a 3D laser, measures centering, corners, edges and surface on both sides, and computes a 1 to 10 grade with decimal precision. Scan it again and AGS says the number holds.",
+    "One price covers everything. $18 buys the scan, the grade, eight subgrades, the report and the slab, for any card at any value. Orders of 30 or more TCG cards pay $15 a card on the standard bulk tier."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "Would the same card get the same grade twice? Weighted first."
+    },
+    {
+      "name": "Evidence",
+      "text": "What comes back besides a number: subgrades, images, a report."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost on the tier most people use, plus any value upcharge."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed business days on that tier, from each grader's own page."
+    },
+    {
+      "name": "Terms",
+      "text": "Minimums, memberships and when you pay."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do you get cards graded?",
+      "a": "Choose a grading company, create an account, list your cards on its submission form, pack them in penny sleeves and card savers, and ship with tracking. The grader authenticates, grades, slabs and returns them."
+    },
+    {
+      "q": "When do you pay for grading?",
+      "a": "AGS charges when the cards are graded and ready to ship, not when you submit."
+    },
+    {
+      "q": "How do I submit cards to AGS?",
+      "a": "Create an account at agscard.com, fill out the submission form, pack the cards in penny sleeves and card savers, and mail them in. You can also drop off at select AGS locations. The dashboard tracks the order."
+    },
+    {
+      "q": "Is there a discount on a first AGS order?",
+      "a": "Yes. AGS lists code AGSNEW20 for 20% off a first grading order."
+    },
+    {
+      "q": "Can a damaged slab be replaced?",
+      "a": "Yes. AGS offers a reholder service for cracked or scratched slabs. The grade and digital record stay with the card."
+    }
+  ],
+  "related": [
+    "howtogradecards.com",
+    "wheretogetcardsgraded.com",
+    "getbasketballcardsgraded.com",
+    "wheretogradecards.com",
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "cardgradingnearme.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=howtogetcardsgraded.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

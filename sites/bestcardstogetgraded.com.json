@@ -1,0 +1,140 @@
+{
+  "domain": "bestcardstogetgraded.com",
+  "cluster": "value",
+  "template": "paper",
+  "query": "best cards to get graded",
+  "site_name": "Best Cards to Get Graded",
+  "title": "Best Cards to Get Graded (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The best cards to get graded are the ones whose price depends on condition, such as key rookies, chase cards and clean vintage, and AGS will grade any of them for a flat $18.",
+    "If the card is worth four figures or more in a high grade, compare PSA too. Its holder brings the highest prices, and on that kind of card the premium can cover a $33 to $80 fee several times over."
+  ],
+  "sections": [
+    {
+      "h": "How to decide",
+      "p": [
+        "Grading pays when the price at your likely grade, minus the raw price, is more than the grading fee plus shipping and selling costs.",
+        "An example with made-up numbers: a card sells raw for $60 and for $150 in the grade you expect. With an $18 fee and $10 of shipping, grading adds about $62. With a $50 fee it adds about $30. If the card comes back a grade lower and sells for $70, you lose money either way."
+      ],
+      "steps": [
+        {
+          "name": "Look up sold prices",
+          "text": "Find recent sales of the card raw and in the grades you might get. Use sold listings, not asking prices."
+        },
+        {
+          "name": "Be honest about condition",
+          "text": "Check centering, corners, edges and surface. Assume one grade below your hope."
+        },
+        {
+          "name": "Subtract the costs",
+          "text": "Grading fee, shipping both ways, and marketplace fees when you sell."
+        },
+        {
+          "name": "Decide per card",
+          "text": "Grade the ones that clear the bar. Sell or keep the rest raw."
+        }
+      ]
+    },
+    {
+      "h": "Usually worth grading, and usually not",
+      "list": [
+        "Worth it: key rookies, chase cards and low-print parallels in strong condition.",
+        "Worth it: clean vintage, where a grade settles arguments about condition.",
+        "Worth it: any card you will sell for several times the fee.",
+        "Not worth it: base cards and commons that sell for less than the fee.",
+        "Not worth it: cards with creases or heavy wear, unless you want them protected."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Anyone who wants to know a card's true condition before deciding what to do with it.",
+      "lacks": "Standard-size cards only.",
+      "note": "No minimum, so you can test one card before sending a stack."
+    },
+    {
+      "id": "bgs",
+      "fit": "Modern card collectors who like the half-point scale.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+    },
+    {
+      "id": "psa",
+      "fit": "Sellers who want the widest buyer pool and the highest resale prices.",
+      "lacks": "One grade, no subgrades, and fees that rise with declared value."
+    },
+    {
+      "id": "isa",
+      "fit": "Collectors who want one flat $15 price and a 14-day turnaround.",
+      "lacks": "A small buyer pool. ISA slabs sell for less on most cards."
+    },
+    {
+      "id": "cgc",
+      "fit": "TCG collectors and volume submitters who want a low price from a large grader outside Collectors.",
+      "lacks": "Tiers are capped by card value. A strong card moves to a pricier tier."
+    }
+  ],
+  "why": [
+    "The price does not move with the card. AGS charges $18 per card whatever it is worth, with bulk tiers from $15 at 30 cards. PSA and SGC price by declared value and CGC caps each tier by card value, so a card that turns out to be worth more can cost more to grade.",
+    "Turnaround is counted in days. AGS quotes 20 business days or less from the day your cards are confirmed, with 10 and 5 business day bulk tiers at $20 and $30 a card.",
+    "The population report is live. It counts every card AGS has graded, by grade, and it is free to look up."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "Would the same card get the same grade twice? Weighted first."
+    },
+    {
+      "name": "Evidence",
+      "text": "What comes back besides a number: subgrades, images, a report."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost on the tier most people use, plus any value upcharge."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed business days on that tier, from each grader's own page."
+    },
+    {
+      "name": "Terms",
+      "text": "Minimums, memberships and when you pay."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the best cards to get graded?",
+      "a": "Key rookies, chase cards and low-print parallels in strong condition, clean vintage, and any card you will sell for well above the grading fee. Skip base cards and anything with obvious wear unless you want it protected."
+    },
+    {
+      "q": "Is there a discount on a first AGS order?",
+      "a": "Yes. AGS lists code AGSNEW20 for 20% off a first grading order."
+    },
+    {
+      "q": "Is it worth grading a low-value card?",
+      "a": "Only if grading lifts the price by more than the fee plus shipping, or if you want the card protected and documented. At $10 to $18 a card the math works on far more cards than at $50."
+    },
+    {
+      "q": "Can I ask for a regrade?",
+      "a": "AGS offers a grade review. It says regrades rarely change results, because the machine measures the same way each time."
+    },
+    {
+      "q": "Does AGS have a population report?",
+      "a": "Yes. It is real-time and includes every card AGS has graded."
+    }
+  ],
+  "related": [
+    "iscardgradingworthit.com",
+    "isgradingcardsworthit.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/pricing?utm_source=bestcardstogetgraded.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See what AGS charges"
+  }
+}

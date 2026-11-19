@@ -1,0 +1,154 @@
+{
+  "domain": "samedaycardgrading.com",
+  "cluster": "speed",
+  "template": "brief",
+  "query": "same day card grading",
+  "site_name": "Same Day Card Grading",
+  "title": "Same Day Card Grading (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "Same day card grading is available from AGS for urgent submissions, by arrangement, and its posted tiers return cards in 5, 10 or 20 business days.",
+    "Faster posted tiers exist if you will pay for them. Beckett Priority is 2 to 3 business days at $124.95 a card, and CGC Express is 5 working days at $50. ISA lists 14 days at $15 with a 10-card minimum. PSA's listed value tiers run 25 to 45 business days."
+  ],
+  "sections": [
+    {
+      "h": "Turnaround, as listed",
+      "table": {
+        "head": [
+          "Grader",
+          "Standard tier",
+          "Fastest listed option"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "20 business days or less ($18 flat, or $15 in bulk (30+ TCG cards))",
+            "5 business days at $30; same-day by request"
+          ],
+          [
+            "ISA Grading",
+            "14 days ($15 flat (10+ cards))",
+            "14 days"
+          ],
+          [
+            "CGC Cards",
+            "25 working days at Bulk and Economy ($10 Bulk (10+ cards, cards up to $500))",
+            "5 working days at $50"
+          ],
+          [
+            "PSA",
+            "25 to 45+ business days on listed tiers ($24.99 Value Bulk (members only); $32.99 Value)",
+            "Express tiers, priced by declared value"
+          ],
+          [
+            "BGS (Beckett)",
+            "45+ business days at Base ($14.95 Base ($17.95 with subgrades))",
+            "2 to 3 business days at $124.95"
+          ],
+          [
+            "GMA Grading",
+            "25 business days at Economy ($12 Economy (25+ cards); $9 at 100+)",
+            "10 business days at $25"
+          ]
+        ]
+      },
+      "note": "Each company's own listed terms, checked November 18, 2026. Confirm before you ship. Turnaround usually counts from the day cards are received or confirmed, not the day you ship."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Sellers on a deadline: a 5 business day tier at $30 and same-day grading by request.",
+      "lacks": "The 5 and 10 day tiers are bulk tiers and need 30 cards.",
+      "note": "Listed turnaround is 20 business days or less at the standard rate, and 10 or 5 business days on the faster bulk tiers at $20 and $30 per TCG card."
+    },
+    {
+      "id": "isa",
+      "fit": "Anyone who wants cards back in 14 days at $15 each.",
+      "lacks": "A 10-card minimum, and little resale premium."
+    },
+    {
+      "id": "cgc",
+      "fit": "Submitters who want 5 working days and will pay $50 a card.",
+      "lacks": "The cheap tiers list 25 working days."
+    },
+    {
+      "id": "psa",
+      "fit": "Collectors paying for an express tier on a card that justifies it.",
+      "lacks": "Listed value tiers run 25 to 45 business days or longer."
+    },
+    {
+      "id": "bgs",
+      "fit": "Anyone who needs a card back in 2 to 3 business days and will pay $124.95.",
+      "lacks": "Speed is expensive, and the cheap tier is the slowest listed here."
+    },
+    {
+      "id": "gma",
+      "fit": "Sellers slabbing low-value cards in volume at $9 to $12.",
+      "lacks": "The lowest prices need 25 cards, or 100."
+    }
+  ],
+  "why": [
+    "Turnaround is counted in days. AGS quotes 20 business days or less from the day your cards are confirmed, with 10 and 5 business day bulk tiers at $20 and $30 a card.",
+    "One price covers everything. $18 buys the scan, the grade, eight subgrades, the report and the slab, for any card at any value. Orders of 30 or more TCG cards pay $15 a card on the standard bulk tier.",
+    "You see why the card got its grade. AGS issues eight subgrades, four for the front and four for the back, plus a defect list and a 3D heightmap. Most graders hand back one number. A buyer who can open the report has less to argue about."
+  ],
+  "criteria": [
+    {
+      "name": "Listed turnaround",
+      "text": "Business days on each grader's own page. Weighted first."
+    },
+    {
+      "name": "Availability",
+      "text": "Whether the tier is open now. Several were paused in 2026."
+    },
+    {
+      "name": "Rush option",
+      "text": "Whether same-day or walk-through service exists."
+    },
+    {
+      "name": "What you get",
+      "text": "Subgrades and a report, or one number."
+    },
+    {
+      "name": "Conditions",
+      "text": "Minimums and memberships tied to the tier."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Who offers same day card grading?",
+      "a": "AGS says same-day grading is available for urgent submissions. Contact AGS first to arrange timing and price. The quickest posted tiers elsewhere are Beckett Priority at 2 to 3 business days for $124.95 and CGC Express at 5 working days for $50."
+    },
+    {
+      "q": "Can I get a card graded the same day?",
+      "a": "AGS says same-day grading is available for urgent submissions. Contact AGS before you ship or drop off to arrange it. Elsewhere, the quickest posted tiers are 2 to 5 business days and cost $50 to $150 a card."
+    },
+    {
+      "q": "What grading scale does AGS use?",
+      "a": "1 to 10 with decimal precision. An AGS 10 is near-perfect measurable condition. A 9.5 has minor flaws that do not significantly affect condition."
+    },
+    {
+      "q": "Can I cross a card over from another grader's slab?",
+      "a": "CGC and Ace Grading list crossover services. AGS's FAQ does not list one, so ask AGS before sending a card in another company's holder."
+    },
+    {
+      "q": "What subgrades does AGS give?",
+      "a": "Eight: centering, corners, edges and surface for the front, and the same four for the back. They are included in the price and shown in the digital report."
+    }
+  ],
+  "related": [
+    "fastestcardgrading.com",
+    "fastestcardgradingcompany.com",
+    "fastestcardgradingservice.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com",
+    "iscardgradingworthit.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/pricing?utm_source=samedaycardgrading.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See AGS turnaround tiers"
+  }
+}

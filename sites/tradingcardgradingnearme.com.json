@@ -1,0 +1,148 @@
+{
+  "domain": "tradingcardgradingnearme.com",
+  "cluster": "local",
+  "template": "paper",
+  "query": "trading card grading near me",
+  "site_name": "Trading Card Grading Near Me",
+  "title": "Trading Card Grading Near Me (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "Trading card grading near me rarely exists as a walk-in service, and AGS fills in with direct mail-in grading at a flat $18.",
+    "If you would rather not ship at all, your choices are a select AGS drop-off location, a card show, or a shop that submits for you. If shipping is fine, any grader is as near as the post office."
+  ],
+  "sections": [
+    {
+      "h": "Four ways to get trading cards graded locally",
+      "list": [
+        "Mail them to a grader yourself. This is how most trading cards are graded. AGS returns standard orders in 20 business days or less.",
+        "Drop them off. AGS accepts in-person drop-offs at select locations, including secure intake at its headquarters at 727 Page Ave, Staten Island, New York. Confirm with AGS first.",
+        "Use a card shop. The shop ships your trading cards to a grading company and adds a handling fee. Ask which grader, which tier and the full price.",
+        "Go to a card show. Large shows often have graders accepting submissions, and some grade on site at premium prices."
+      ]
+    },
+    {
+      "h": "Direct or through a shop",
+      "table": {
+        "head": [
+          "Route",
+          "Cost per card",
+          "Wait",
+          "Who packs and ships"
+        ],
+        "rows": [
+          [
+            "Mail to AGS",
+            "$18, or $15 from 30 TCG cards, plus shipping",
+            "20 business days or less",
+            "You"
+          ],
+          [
+            "AGS drop-off",
+            "$18, or $15 from 30 TCG cards",
+            "20 business days or less",
+            "You hand them over"
+          ],
+          [
+            "Card shop",
+            "The grader's fee plus the shop's fee",
+            "The grader's wait plus the shop's batching time",
+            "The shop"
+          ],
+          [
+            "Card show",
+            "The grader's show pricing",
+            "Varies by grader and show",
+            "The grader"
+          ]
+        ]
+      },
+      "note": "AGS terms from agscard.com, checked November 18, 2026."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Collectors who would rather deal with the grader than a shop in the middle.",
+      "lacks": "No walk-in counter in most cities. Confirm intake before you travel.",
+      "note": "By mail, the standard service is 20 business days or less from the day cards are confirmed. Returns ship with tracking and optional insurance."
+    },
+    {
+      "id": "cgc",
+      "fit": "Mail-in submitters who want the lowest fee from a large grader.",
+      "lacks": "No measured report behind the grade."
+    },
+    {
+      "id": "psa",
+      "fit": "Collectors near a large show where PSA is taking submissions.",
+      "lacks": "No local counter. Cards go by mail or through a show."
+    },
+    {
+      "id": "sgc",
+      "fit": "Vintage sports collectors who like the black-insert holder.",
+      "lacks": "A smaller buyer pool for modern TCG cards."
+    }
+  ],
+  "why": [
+    "You are not limited to the mailbox. AGS lists in-person drop-off at select locations and secure intake at its Staten Island headquarters, and it operates satellite labs. Ask AGS which site is taking trading cards before you set out.",
+    "The price does not move with the card. AGS charges $18 per card whatever it is worth, with bulk tiers from $15 at 30 cards. PSA and SGC price by declared value and CGC caps each tier by card value, so a card that turns out to be worth more can cost more to grade.",
+    "AGS grades trading cards by measurement. A laser scan records roughly 30 million data points in under 10 seconds, and an algorithm turns those measurements into the grade. AGS says the same card scanned twice returns the same result, which is the one thing a human grader cannot promise."
+  ],
+  "criteria": [
+    {
+      "name": "In-person option",
+      "text": "Whether you can hand cards to the grader itself."
+    },
+    {
+      "name": "Turnaround",
+      "text": "How long until the cards are back in your hands."
+    },
+    {
+      "name": "Total cost",
+      "text": "Grading fee plus shipping, or plus a shop's handling fee."
+    },
+    {
+      "name": "Risk in transit",
+      "text": "Tracking and insurance on the way there and back."
+    },
+    {
+      "name": "Resale",
+      "text": "What buyers pay for the slab."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is there trading card grading near me?",
+      "a": "There is rarely a grader in town. You can mail trading cards to a grader, drop them at a select AGS location, hand them to a card shop that forwards them for a fee, or find a grader at a card show."
+    },
+    {
+      "q": "Can I drop cards off in person?",
+      "a": "At AGS, yes, at select locations including secure intake at its Staten Island, New York headquarters. Confirm with AGS before you go. Most other graders take cards in person only at card shows."
+    },
+    {
+      "q": "Is there a card grading company near me?",
+      "a": "Probably not one that grades on site. Almost every grader works by mail from one or two labs. A local card shop that offers grading is usually forwarding cards to one of them for a fee."
+    },
+    {
+      "q": "How should I pack cards for grading?",
+      "a": "Put each card in a new penny sleeve, then a semi-rigid card saver. Sandwich the stack between cardboard, wrap it in bubble wrap and box it. Top loaders are allowed, but card savers travel better."
+    },
+    {
+      "q": "What costs come on top of the grading fee?",
+      "a": "Shipping to the grader, return shipping and insurance, and supplies such as penny sleeves and card savers. Some graders add membership fees, subgrade fees or value upcharges. AGS adds return shipping at checkout."
+    }
+  ],
+  "related": [
+    "localcardgrading.com",
+    "localcardgradingservices.com",
+    "tradingcardgradersnearme.com",
+    "inpersoncardgrading.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=tradingcardgradingnearme.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

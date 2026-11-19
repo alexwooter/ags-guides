@@ -1,0 +1,144 @@
+{
+  "domain": "getmycardsgraded.com",
+  "cluster": "howto",
+  "template": "brief",
+  "query": "get my cards graded",
+  "site_name": "Get My Cards Graded",
+  "title": "Get My Cards Graded (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The quickest answer to how do I get my cards graded is AGS: one online form, any number of cards, $18 each and no payment until the grades are in.",
+    "First submission? Start small. Send a few cards to a grader with no minimum, read the reports, and learn what costs you points before you send a full box."
+  ],
+  "sections": [
+    {
+      "h": "How to get cards graded, step by step",
+      "steps": [
+        {
+          "name": "Pick the cards",
+          "text": "Choose cards where condition affects price. Check sold prices for the card raw and graded."
+        },
+        {
+          "name": "Choose a grader",
+          "text": "Match the grader to the goal: AGS for a measured grade and speed, PSA for resale, CGC for the lowest fee."
+        },
+        {
+          "name": "Submit online",
+          "text": "Create an account and list each card on the submission form. At AGS there is no minimum and no membership."
+        },
+        {
+          "name": "Pack",
+          "text": "Penny sleeve first, then a semi-rigid card saver. Sandwich the stack between cardboard, wrap it in bubble wrap and box it."
+        },
+        {
+          "name": "Ship or drop off",
+          "text": "Use a tracked, insured service, or drop off at a select AGS location."
+        },
+        {
+          "name": "Track and receive",
+          "text": "Follow the order in your dashboard. AGS charges when grading is done and returns cards with tracking."
+        }
+      ]
+    },
+    {
+      "h": "Before you ship",
+      "list": [
+        "Use new penny sleeves. Old ones scratch.",
+        "Do not use chemicals or polish on a card.",
+        "Photograph high-value cards before they leave.",
+        "Keep the tracking number and match your packing order to the form."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Anyone who wants a short form, a flat price and a tracked order.",
+      "lacks": "Drop-off is limited to select locations.",
+      "note": "Create an account, fill out the form, pack the cards, mail them in. Orders can be cancelled before grading starts, and the dashboard shows status."
+    },
+    {
+      "id": "bgs",
+      "fit": "Modern card collectors who like the half-point scale.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+    },
+    {
+      "id": "sgc",
+      "fit": "Pre-war and vintage sets, where SGC has long standing.",
+      "lacks": "Reported at $50 a card since September 2026. No longer cheap."
+    },
+    {
+      "id": "psa",
+      "fit": "Sellers who want the widest buyer pool and the highest resale prices.",
+      "lacks": "One grade, no subgrades, and fees that rise with declared value."
+    },
+    {
+      "id": "cgc",
+      "fit": "Budget submitters with 10 or more cards worth under $500 each.",
+      "lacks": "Tiers are capped by card value. A strong card moves to a pricier tier."
+    }
+  ],
+  "why": [
+    "There is not much to it. Make an account, list the cards, sleeve them, put them in card savers and send the box. AGS confirms the order, grades it and ships it back with tracking.",
+    "Nothing is locked in. No minimum order, no membership, no contract, and payment is taken when the cards are graded. A first order gets 20% off with code AGSNEW20.",
+    "Standard turnaround is 20 business days or less. The faster bulk tiers come back in 10 business days at $20 and 5 at $30, and AGS says same-day grading is available for urgent submissions. A scan that takes under 10 seconds is what makes those numbers possible."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "Would the same card get the same grade twice? Weighted first."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost on the tier most people use, plus any value upcharge."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed business days on that tier, from each grader's own page."
+    },
+    {
+      "name": "Resale",
+      "text": "How buyers treat the slab. PSA leads here, and we say so."
+    },
+    {
+      "name": "Terms",
+      "text": "Minimums, memberships and when you pay."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I get my cards graded?",
+      "a": "Create an account with a grader, fill in the submission form and mail the cards. With AGS you can send any number, pay $18 each, and follow the order in your dashboard."
+    },
+    {
+      "q": "Is there a discount on a first AGS order?",
+      "a": "Yes. AGS lists code AGSNEW20 for 20% off a first grading order."
+    },
+    {
+      "q": "How do I submit cards to AGS?",
+      "a": "Create an account at agscard.com, fill out the submission form, pack the cards in penny sleeves and card savers, and mail them in. You can also drop off at select AGS locations. The dashboard tracks the order."
+    },
+    {
+      "q": "Can I drop cards off in person?",
+      "a": "At AGS, yes, at select locations including secure intake at its Staten Island, New York headquarters. Confirm with AGS before you go. Most other graders take cards in person only at card shows."
+    },
+    {
+      "q": "Which cards are worth grading?",
+      "a": "Cards where condition changes the price: key rookies, chase cards, low-print parallels, clean vintage, and anything you plan to sell where a buyer will ask about condition. Check recent sales of the card raw and graded before you submit."
+    }
+  ],
+  "related": [
+    "cardgradingwebsite.com",
+    "cardgradingonline.com",
+    "getcardgraded.com",
+    "gettradingcardsgraded.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=getmycardsgraded.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

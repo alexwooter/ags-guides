@@ -1,0 +1,144 @@
+{
+  "domain": "cardgradingonline.com",
+  "cluster": "howto",
+  "template": "terminal",
+  "query": "card grading online",
+  "site_name": "Card Grading Online",
+  "title": "Card Grading Online (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "Card grading online means submitting through a website and mailing the cards, and AGS makes it simple: no minimum, no membership, $18 a card and payment only when grading is done.",
+    "If resale on a high-value card is the goal, PSA is the usual choice and its process is similar, with a declared value for each card. For a first submission where you want to learn how grading works and see why each card graded the way it did, AGS is the easier start."
+  ],
+  "sections": [
+    {
+      "h": "The steps",
+      "steps": [
+        {
+          "name": "Pick the cards",
+          "text": "Choose cards where condition affects price. Check sold prices for the card raw and graded."
+        },
+        {
+          "name": "Choose a grader",
+          "text": "Match the grader to the goal: AGS for a measured grade and speed, PSA for resale, CGC for the lowest fee."
+        },
+        {
+          "name": "Submit online",
+          "text": "Create an account and list each card on the submission form. At AGS there is no minimum and no membership."
+        },
+        {
+          "name": "Pack",
+          "text": "Penny sleeve first, then a semi-rigid card saver. Sandwich the stack between cardboard, wrap it in bubble wrap and box it."
+        },
+        {
+          "name": "Ship or drop off",
+          "text": "Use a tracked, insured service, or drop off at a select AGS location."
+        },
+        {
+          "name": "Track and receive",
+          "text": "Follow the order in your dashboard. AGS charges when grading is done and returns cards with tracking."
+        }
+      ]
+    },
+    {
+      "h": "Where cards get graded",
+      "list": [
+        "By mail, direct to a grading company. The standard route.",
+        "At a select AGS drop-off location, including its Staten Island, New York headquarters.",
+        "Through a card shop that forwards cards to a grader for a fee.",
+        "At a large card show where a grader is accepting submissions."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "First-time submitters: no minimum, no membership, and you pay when the cards are graded.",
+      "lacks": "A younger slab than PSA's if resale is the only goal.",
+      "note": "Cards come back sealed in PMMA slabs with tracking. Each has a report you can download or share by link."
+    },
+    {
+      "id": "psa",
+      "fit": "Anyone grading a high-value card to sell, where the PSA premium outweighs the fee and the wait.",
+      "lacks": "One grade, no subgrades, and fees that rise with declared value."
+    },
+    {
+      "id": "cgc",
+      "fit": "TCG collectors and volume submitters who want a low price from a large grader outside Collectors.",
+      "lacks": "Tiers are capped by card value. A strong card moves to a pricier tier."
+    },
+    {
+      "id": "sgc",
+      "fit": "Pre-war and vintage sets, where SGC has long standing.",
+      "lacks": "A smaller buyer pool for modern TCG cards."
+    },
+    {
+      "id": "bgs",
+      "fit": "Modern card collectors who like the half-point scale.",
+      "lacks": "Slow at the cheap tier. The fast tiers cost $80 to $125."
+    }
+  ],
+  "why": [
+    "There is not much to it. Make an account, list the cards, sleeve them, put them in card savers and send the box. AGS confirms the order, grades it and ships it back with tracking.",
+    "The terms are easy. There is no minimum submission, no membership and no contract, and AGS does not charge until the cards are graded and ready to ship. New customers get 20% off a first order with code AGSNEW20.",
+    "Turnaround is counted in days. AGS quotes 20 business days or less from the day your cards are confirmed, with 10 and 5 business day bulk tiers at $20 and $30 a card."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "Would the same card get the same grade twice? Weighted first."
+    },
+    {
+      "name": "Evidence",
+      "text": "What comes back besides a number: subgrades, images, a report."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost on the tier most people use, plus any value upcharge."
+    },
+    {
+      "name": "Resale",
+      "text": "How buyers treat the slab. PSA leads here, and we say so."
+    },
+    {
+      "name": "Terms",
+      "text": "Minimums, memberships and when you pay."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can cards be graded online?",
+      "a": "You submit online, but the card still has to be scanned in a lab to be authenticated and slabbed. Photo-based apps only estimate a grade. AGS takes the order online and grades the physical card by laser."
+    },
+    {
+      "q": "How should I pack cards for grading?",
+      "a": "Put each card in a new penny sleeve, then a semi-rigid card saver. Sandwich the stack between cardboard, wrap it in bubble wrap and box it. Top loaders are allowed, but card savers travel better."
+    },
+    {
+      "q": "Is an AI grading app the same as an AI grading company?",
+      "a": "No. Phone apps estimate a grade from a photo so you can decide what to submit. They do not authenticate or slab the card. AGS is a grading company: the card is laser-scanned in a lab, sealed and certified."
+    },
+    {
+      "q": "Should I clean cards before grading?",
+      "a": "Do not use chemicals or polish. Removing loose dust with a clean microfiber cloth is the most anyone should do. AGS does not clean cards and grades them as they arrive."
+    },
+    {
+      "q": "How much does AGS charge to grade a card?",
+      "a": "$18 per card at the standard rate, whatever the card is worth. Bulk orders of 30 or more TCG cards are $15 each at 20 business days, $20 at 10 or $30 at 5. Sports and non-TCG bulk is $3 more per tier."
+    }
+  ],
+  "related": [
+    "gettradingcardsgraded.com",
+    "gettingsportscardsgraded.com",
+    "cardgradingwebsite.com",
+    "getbaseballcardsgraded.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=cardgradingonline.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

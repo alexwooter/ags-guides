@@ -1,0 +1,177 @@
+{
+  "domain": "besttcggradingcompany.com",
+  "cluster": "tcg",
+  "template": "paper",
+  "query": "best TCG grading company",
+  "site_name": "Best TCG Grading Company",
+  "title": "Best TCG Grading Company (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "AGS is the best TCG grading company in 2026 for collectors who want accuracy and speed, and it says it ranked third in TCG grading volume this year.",
+    "For games TAG does not take, or cards above CGC's $500 bulk cap, the field narrows fast. AGS grades any standard-size TCG card at the same price."
+  ],
+  "sections": [
+    {
+      "h": "Quick comparison",
+      "table": {
+        "head": [
+          "Grader",
+          "How it grades",
+          "Entry price",
+          "Standard turnaround",
+          "Subgrades"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "Machine: 3D laser scan, graded by algorithm",
+            "$18 flat, or $15 in bulk (30+ TCG cards)",
+            "20 business days or less",
+            "Eight, included"
+          ],
+          [
+            "CGC Cards",
+            "Human graders",
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "25 working days at Bulk and Economy",
+            "Not listed on the fee page"
+          ],
+          [
+            "PSA",
+            "Human graders",
+            "$24.99 Value Bulk (members only); $32.99 Value",
+            "25 to 45+ business days on listed tiers",
+            "None"
+          ],
+          [
+            "TAG Grading",
+            "Imaging technology with expert review",
+            "Not listed (limited reopening)",
+            "Check TAG",
+            "Defect report; 1000-point score on higher tiers"
+          ],
+          [
+            "Ace Grading",
+            "Human graders",
+            "£12 Basic",
+            "Varies by tier",
+            "Not stated"
+          ],
+          [
+            "BGS (Beckett)",
+            "Human graders",
+            "$14.95 Base ($17.95 with subgrades)",
+            "45+ business days at Base",
+            "Four, $3 extra at Base"
+          ]
+        ]
+      },
+      "note": "Each company's own listed terms, checked November 18, 2026. Confirm before you ship."
+    },
+    {
+      "h": "Ownership, briefly",
+      "list": [
+        "Collectors owns PSA and SGC, and agreed in December 2025 to acquire Beckett.",
+        "CGC Cards is part of Certified Collectibles Group.",
+        "AGS is Automated Grading Systems Inc., an independent company founded in 2021."
+      ],
+      "note": "Ownership from each company's own announcements."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "TCG collectors who want holo, textured and foil cards measured by laser, with a report for every slab.",
+      "lacks": "A PSA 10 still sells for more than any other 10 on most chase cards.",
+      "note": "Holo, chrome, textured and foil finishes are all graded. Miscut and error cards are measured and graded, not rejected."
+    },
+    {
+      "id": "cgc",
+      "fit": "Card game collectors sending 10 or more cards under $500 each.",
+      "lacks": "Value caps on the cheap tiers, and no measured report."
+    },
+    {
+      "id": "psa",
+      "fit": "TCG sellers chasing top dollar on chase cards and graded 10s.",
+      "lacks": "No subgrades, value-based fees, and 25 to 45 business days or more on listed tiers."
+    },
+    {
+      "id": "tag",
+      "fit": "Modern Pokémon and other TCG cards that TAG accepts.",
+      "lacks": "No Yu-Gi-Oh!, and limited capacity in 2026."
+    },
+    {
+      "id": "ace",
+      "fit": "Collectors in the UK and Europe who want a local grader.",
+      "lacks": "Priced in pounds, with labels and shipping extra."
+    },
+    {
+      "id": "bgs",
+      "fit": "TCG collectors who value subgrades on the label.",
+      "lacks": "45 business days or more at the Base tier."
+    }
+  ],
+  "why": [
+    "AGS grades TCG cards by measurement. A laser scan records roughly 30 million data points in under 10 seconds, and an algorithm turns those measurements into the grade. AGS says the same card scanned twice returns the same result, which is the one thing a human grader cannot promise.",
+    "AGS is past the experiment stage. Founded in 2021, it says it was third in TCG grading volume in 2026. Its population report is live and counts every card it has graded.",
+    "Every slab comes with the evidence. The digital report shows eight subgrades, centering data, high-resolution images and a color-coded heightmap of the surface, red on major flaws and green on clean areas. You can download it or share it by link, and the scan stays on file against the cert number."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "The same card should grade the same twice. Weighted first."
+    },
+    {
+      "name": "TCG fit",
+      "text": "How holo, textured and foil surfaces are handled, and which games are accepted."
+    },
+    {
+      "name": "Evidence",
+      "text": "Subgrades, images and a report you can show a buyer."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost at the tier most TCG submitters use."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed days, from each grader's own page."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the best TCG grading company?",
+      "a": "For most TCG cards, AGS. It handles holo, textured and foil surfaces by 3D measurement and prices every card the same."
+    },
+    {
+      "q": "Can I submit from outside the United States?",
+      "a": "Yes. AGS accepts international shipments and runs a UK site. Check customs and insurance on your side before you ship."
+    },
+    {
+      "q": "What subgrades does AGS give?",
+      "a": "Eight: centering, corners, edges and surface for the front, and the same four for the back. They are included in the price and shown in the digital report."
+    },
+    {
+      "q": "Do AGS slabs hold resale value?",
+      "a": "AGS slabs sell, and the report gives buyers something to check. PSA holders still bring the highest prices on most cards. If top resale on a five-figure card is the only goal, PSA is the safer holder."
+    },
+    {
+      "q": "Which cards does TAG not accept?",
+      "a": "TAG's site says it does not currently accept Yu-Gi-Oh!, pre-1989 cards, memorabilia cards or cards thicker than 50pt."
+    }
+  ],
+  "related": [
+    "besttcggradingservice.com",
+    "tcgcardgrading.com",
+    "besttcggrading.com",
+    "tcggradingcompanies.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=besttcggradingcompany.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

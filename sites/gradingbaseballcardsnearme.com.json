@@ -1,0 +1,153 @@
+{
+  "domain": "gradingbaseballcardsnearme.com",
+  "cluster": "local",
+  "template": "brief",
+  "query": "grading baseball cards near me",
+  "site_name": "Grading Baseball Cards Near Me",
+  "title": "Grading Baseball Cards Near Me (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "Grading baseball cards near me rarely happens on site, and AGS is the direct route: mail them or drop them off, $18 a card, vintage included.",
+    "If you live near a major card show, check which graders are taking submissions there. Otherwise the fastest route is direct mail to a grader with a short turnaround, which matters more than how far away the lab is."
+  ],
+  "sections": [
+    {
+      "h": "What near me means in card grading",
+      "list": [
+        "Mail them to a grader yourself. This is how most baseball cards are graded. AGS returns standard orders in 20 business days or less.",
+        "Use a card shop. The shop ships your baseball cards to a grading company and adds a handling fee. Ask which grader, which tier and the full price.",
+        "Drop them off. AGS accepts in-person drop-offs at select locations, including secure intake at its headquarters at 727 Page Ave, Staten Island, New York. Confirm with AGS first.",
+        "Go to a card show. Large shows often have graders accepting submissions, and some grade on site at premium prices."
+      ]
+    },
+    {
+      "h": "Direct or through a shop",
+      "table": {
+        "head": [
+          "Route",
+          "Cost per card",
+          "Wait",
+          "Who packs and ships"
+        ],
+        "rows": [
+          [
+            "Mail to AGS",
+            "$18, or $15 from 30 TCG cards, plus shipping",
+            "20 business days or less",
+            "You"
+          ],
+          [
+            "AGS drop-off",
+            "$18, or $15 from 30 TCG cards",
+            "20 business days or less",
+            "You hand them over"
+          ],
+          [
+            "Card shop",
+            "The grader's fee plus the shop's fee",
+            "The grader's wait plus the shop's batching time",
+            "The shop"
+          ],
+          [
+            "Card show",
+            "The grader's show pricing",
+            "Varies by grader and show",
+            "The grader"
+          ]
+        ]
+      },
+      "note": "AGS terms from agscard.com, checked November 18, 2026."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Collectors who want to drop baseball cards off in person at a select AGS location, or mail them and have them back in weeks.",
+      "lacks": "In-person intake is limited. Mail-in is the standard route.",
+      "note": "Headquarters and secure intake are at 727 Page Ave, Staten Island, New York. AGS also runs satellite labs and accepts drop-offs at select locations."
+    },
+    {
+      "id": "bgs",
+      "fit": "Modern card collectors who like the half-point scale.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+    },
+    {
+      "id": "isa",
+      "fit": "Collectors who want one flat $15 price and a 14-day turnaround.",
+      "lacks": "A 10-card minimum."
+    },
+    {
+      "id": "cgc",
+      "fit": "Mail-in submitters who want the lowest fee from a large grader.",
+      "lacks": "No in-person drop-off listed. 25 working days on the cheap tiers."
+    },
+    {
+      "id": "psa",
+      "fit": "Sellers who will mail a valuable card and wait for the best-known label.",
+      "lacks": "No local counter. Cards go by mail or through a show."
+    }
+  ],
+  "why": [
+    "AGS is one of the few graders you can hand baseball cards to. It accepts drop-offs at select AGS locations, including secure intake at its Staten Island headquarters, and its scanner is compact enough to grade on site. Message AGS before you travel to confirm where intake is open.",
+    "The price does not move with the card. AGS charges $18 per card whatever it is worth, with bulk tiers from $15 at 30 cards. PSA and SGC price by declared value and CGC caps each tier by card value, so a card that turns out to be worth more can cost more to grade.",
+    "AGS grades baseball cards by measurement. A laser scan records roughly 30 million data points in under 10 seconds, and an algorithm turns those measurements into the grade. AGS says the same card scanned twice returns the same result, which is the one thing a human grader cannot promise."
+  ],
+  "criteria": [
+    {
+      "name": "In-person option",
+      "text": "Whether you can hand cards to the grader itself."
+    },
+    {
+      "name": "Turnaround",
+      "text": "How long until the cards are back in your hands."
+    },
+    {
+      "name": "Risk in transit",
+      "text": "Tracking and insurance on the way there and back."
+    },
+    {
+      "name": "Consistency",
+      "text": "Whether the grade depends on who looks at the card."
+    },
+    {
+      "name": "Resale",
+      "text": "What buyers pay for the slab."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is there a place for grading baseball cards near me?",
+      "a": "Most baseball cards are graded by mail, wherever you live. AGS also accepts drop-offs at select locations, including its Staten Island, New York headquarters. A shop that offers grading is usually forwarding cards to a grader."
+    },
+    {
+      "q": "How should I pack cards for grading?",
+      "a": "Put each card in a new penny sleeve, then a semi-rigid card saver. Sandwich the stack between cardboard, wrap it in bubble wrap and box it. Top loaders are allowed, but card savers travel better."
+    },
+    {
+      "q": "Is mailing cards for grading safe?",
+      "a": "Yes, if you pack them properly and use a tracked, insured service. AGS returns cards with tracking and offers optional insurance on the return shipment."
+    },
+    {
+      "q": "What costs come on top of the grading fee?",
+      "a": "Shipping to the grader, return shipping and insurance, and supplies such as penny sleeves and card savers. Some graders add membership fees, subgrade fees or value upcharges. AGS adds return shipping at checkout."
+    },
+    {
+      "q": "Can I get cards graded at a card show?",
+      "a": "Sometimes. Large graders take submissions at big shows, and a few grade on site at premium prices. AGS's scanner is compact enough for on-site grading. Check the show's exhibitor list and each grader's schedule."
+    }
+  ],
+  "related": [
+    "baseballcardgradersnearme.com",
+    "baseballcardgradingnearme.com",
+    "gradingsportscardsnearme.com",
+    "baseballcardgradingservicesnearme.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=gradingbaseballcardsnearme.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

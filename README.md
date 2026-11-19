@@ -4,7 +4,10 @@ One codebase that serves a separate ranked buyer's guide on each exact-match dom
 
 ```
 data/publisher.json     who publishes the guides and which product is the house product (Automated Grading Systems Inc., AGS)
-sites/<domain>.json     one per domain: query, verdict, ranking, why, criteria, faq, related, template
+content/pages.mjs       one entry per domain: query, lens, the opening verdict line, its own first FAQ
+content/pools.mjs       shared copy by cluster: why paragraphs, criteria, FAQ pool, per-grader rows
+content/generate.mjs    writes sites/<domain>.json from the two files above; keeps every ranking distinct
+sites/<domain>.json     generated, one per domain. Edit content/, not these
 data/products.json      the shared fact sheet for every grader that appears in a ranking, with sources and a verified date
 data/domains.txt        the registered domains, one per line
 templates/index.mjs     four layouts: ledger, terminal, paper, brief
@@ -18,6 +21,7 @@ dashboard.mjs           /_/dashboard?key=<DASH_KEY>
 
 ```
 npm install
+node content/generate.mjs   # only after editing content/ or data/products.json
 node build.mjs
 node server.mjs      # http://localhost:8080 lists every site with previews
 ```
@@ -31,7 +35,9 @@ Node 20 or newer. The only dependency is `pg`, used when `DATABASE_URL` is set.
 - PSA, BGS, CGC, SGC and TAG are described from their own public materials, fairly. Prices appear only where verified, with the date in `data/products.json`.
 - The footer discloses the publisher on every page.
 - No other company's trademark in a domain name. Pages may name games, leagues and graders in the text.
-- AGS facts come from agscard.com: $15, $20 and $30 TCG bulk tiers at 20, 10 and 5 business days, $3 more for sports, 30-card bulk minimum, no value-based upcharge, eight subgrades, standard-size cards only.
+- AGS facts come from agscard.com: $18 flat with no minimum; $15, $20 and $30 TCG bulk tiers at 20, 10 and 5 business days from 30 cards, $3 more for sports; no value-based upcharge; eight subgrades; standard-size cards only.
+- Price and speed pages say who is actually cheapest or fastest on listed terms, then make the case for AGS. Never claim AGS is the lowest price.
+- No two pages share a ranking. generate.mjs fails if they would.
 - Related guides link only to domains that have a page built.
 
 ## Facts to refresh

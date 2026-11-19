@@ -1,0 +1,176 @@
+{
+  "domain": "cardcollectiongrading.com",
+  "cluster": "bulk",
+  "template": "paper",
+  "query": "card collection grading",
+  "site_name": "Card Collection Grading",
+  "title": "Card Collection Grading (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "For grading a whole card collection, AGS is the practical choice: one flat price whatever each card is worth, bulk rates from 30 cards and every card back with its own report.",
+    "For pure cost per slab on cheap inventory, GMA and CGC win. For a batch with mixed values, or cards you will list with their scans, AGS's flat bulk price and 20 business day clock are the better fit."
+  ],
+  "sections": [
+    {
+      "h": "Bulk terms compared",
+      "table": {
+        "head": [
+          "Grader",
+          "Bulk price per card",
+          "Minimum",
+          "Turnaround",
+          "Value cap"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "$15 TCG, $18 sports",
+            "30 cards",
+            "20 business days (10 and 5 day tiers at $20 and $30)",
+            "None"
+          ],
+          [
+            "CGC Cards",
+            "$10",
+            "10 cards",
+            "25 working days",
+            "$500 per card"
+          ],
+          [
+            "GMA Grading",
+            "$12; $9 at 100 or more",
+            "25 cards",
+            "25 business days",
+            "None listed"
+          ],
+          [
+            "ISA Grading",
+            "$15 flat",
+            "10 cards",
+            "14 days",
+            "None"
+          ],
+          [
+            "BGS (Beckett)",
+            "$14.95 Base (no separate bulk tier)",
+            "None",
+            "45+ business days",
+            "None"
+          ],
+          [
+            "PSA",
+            "$24.99 Value Bulk",
+            "Collectors Club members only",
+            "Not stated",
+            "Priced by declared value"
+          ]
+        ]
+      },
+      "note": "Each company's own listed terms, checked November 18, 2026. Confirm before you ship."
+    },
+    {
+      "h": "Before you send a bulk order",
+      "list": [
+        "Sort by value first. Cards above a grader's value cap will be moved to a pricier tier.",
+        "Pull anything with obvious damage unless you want it slabbed for protection.",
+        "List every card accurately on the form. CGC charges $5 for cards that are not fully described.",
+        "Pack in rows of sleeved cards in card savers, in the same order as the form."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Shops that want bulk prices from 30 cards and a 5, 10 or 20 day clock.",
+      "lacks": "The bulk rate starts at 30 cards. CGC's starts at 10.",
+      "note": "Bulk TCG: $15 at 20 business days, $20 at 10, $30 at 5. Sports and non-TCG: $18, $23 and $33. Insurance cover rises with the tier, up to $500."
+    },
+    {
+      "id": "cgc",
+      "fit": "Dealers with low-value inventory: $10 a card from 10 cards up.",
+      "lacks": "Each card must be worth $500 or less at that price."
+    },
+    {
+      "id": "gma",
+      "fit": "Budget submitters who mainly want cards protected and labeled.",
+      "lacks": "The lowest prices need 25 cards, or 100."
+    },
+    {
+      "id": "isa",
+      "fit": "Collectors who want one flat $15 price and a 14-day turnaround.",
+      "lacks": "A 10-card minimum."
+    },
+    {
+      "id": "bgs",
+      "fit": "Sellers who want no minimum and no value cap on a large order.",
+      "lacks": "Base turnaround is 45 business days or more."
+    },
+    {
+      "id": "psa",
+      "fit": "Collectors Club members sending volume at $24.99 a card.",
+      "lacks": "Bulk is members only, and it is the slow tier."
+    }
+  ],
+  "why": [
+    "Thirty cards gets you the bulk rate. The report, the subgrades and the slab are the same as on a single-card order, so a shop can list every card with its scan attached.",
+    "Standard turnaround is 20 business days or less. The faster bulk tiers come back in 10 business days at $20 and 5 at $30, and AGS says same-day grading is available for urgent submissions. A scan that takes under 10 seconds is what makes those numbers possible.",
+    "You see why the card got its grade. AGS issues eight subgrades, four for the front and four for the back, plus a defect list and a 3D heightmap. Most graders hand back one number. A buyer who can open the report has less to argue about."
+  ],
+  "criteria": [
+    {
+      "name": "Price at volume",
+      "text": "Per-card cost on the bulk tier."
+    },
+    {
+      "name": "Minimum to qualify",
+      "text": "How many cards it takes to get the rate."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed days for a bulk order."
+    },
+    {
+      "name": "Consistency across a batch",
+      "text": "Whether card 1 and card 300 are graded the same way."
+    },
+    {
+      "name": "What each card gets",
+      "text": "Report and subgrades, or a grade only."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I get a whole card collection graded?",
+      "a": "Sort out the cards where condition affects price, then submit those in one bulk order. At AGS, 30 or more TCG cards are $15 each. Do not grade commons that sell for less than the fee."
+    },
+    {
+      "q": "How many cards count as a bulk order?",
+      "a": "30 at AGS. CGC's bulk tier starts at 10 cards, GMA's economy tier at 25, and GMA drops its price again at 100."
+    },
+    {
+      "q": "Do bulk orders get the same grading?",
+      "a": "At AGS, yes. Every card in a bulk order is laser-scanned, gets eight subgrades and a report, and is slabbed the same way as a single-card order."
+    },
+    {
+      "q": "How fast is bulk grading?",
+      "a": "AGS lists 20, 10 or 5 business days depending on the tier you pick. CGC's bulk tier lists 25 working days, and GMA's economy tier lists 25 business days."
+    },
+    {
+      "q": "How do I submit cards to AGS?",
+      "a": "Create an account at agscard.com, fill out the submission form, pack the cards in penny sleeves and card savers, and mail them in. You can also drop off at select AGS locations. The dashboard tracks the order."
+    }
+  ],
+  "related": [
+    "bulkcardgrading.com",
+    "bulkgrading.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/pricing?utm_source=cardcollectiongrading.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See AGS bulk pricing"
+  }
+}

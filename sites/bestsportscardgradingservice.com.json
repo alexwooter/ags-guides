@@ -1,0 +1,133 @@
+{
+  "domain": "bestsportscardgradingservice.com",
+  "cluster": "sports",
+  "template": "paper",
+  "query": "best sports card grading service",
+  "site_name": "Best Sports Card Grading Service",
+  "title": "Best Sports Card Grading Service (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The best sports card grading service in 2026 is AGS for most cards: $18 flat, eight subgrades, 20 business days or less, and no fee increase if the player takes off.",
+    "For a big rookie you plan to auction, PSA's buyer pool is hard to beat. For the rest of the box, a flat $18 with subgrades on both sides and a 20 business day clock is the practical choice."
+  ],
+  "sections": [
+    {
+      "h": "Match the grader to the goal",
+      "list": [
+        "A measured, repeatable grade with a report: AGS.",
+        "The highest resale price on a valuable card: PSA.",
+        "The lowest fee from a large grader, on cards under $500: CGC.",
+        "Subgrades printed on the label: Beckett.",
+        "Vintage sports with a traditional following: SGC, then PSA.",
+        "A defect map on modern cards it accepts: TAG.",
+        "A UK grader for UK and European collectors: Ace Grading."
+      ]
+    },
+    {
+      "h": "Where sports cards lose points",
+      "list": [
+        "Edges, especially on dark borders.",
+        "Surface: scratches, print lines and dimples.",
+        "Whether the card is standard size. AGS does not take jumbos.",
+        "Centering, front and back.",
+        "Corners under magnification."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Collectors who want a flat price on sports cards whatever the player turns out to be worth.",
+      "lacks": "PSA holders still bring the highest prices on key rookies.",
+      "note": "AGS lists basketball, football, baseball, soccer and racing cards, modern and vintage, including signed cards."
+    },
+    {
+      "id": "psa",
+      "fit": "Sports card sellers who want the registry, the buyer pool and the price premium.",
+      "lacks": "Value-based fees and 25 to 45 business days or more on listed tiers."
+    },
+    {
+      "id": "sgc",
+      "fit": "Vintage sports collectors who like the black-insert holder.",
+      "lacks": "Reported at $50 a card since September 2026. No longer cheap."
+    },
+    {
+      "id": "cgc",
+      "fit": "Volume submitters with sports cards worth under $500 each.",
+      "lacks": "A smaller premium on sports cards than PSA."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want a Beckett label with subgrades and no fee tied to card value.",
+      "lacks": "45 business days or more at Base, or $34.95 and up to go faster."
+    },
+    {
+      "id": "isa",
+      "fit": "Small sellers who would rather not choose a tier.",
+      "lacks": "A small buyer pool. ISA slabs sell for less on most cards."
+    }
+  ],
+  "why": [
+    "Human grading is a judgment made in seconds, and it varies. AGS replaces the judgment with a measurement: a 3D laser maps the card, software scores centering, corners, edges and surface, and the grade follows from the numbers. That is why AGS says a regrade rarely moves.",
+    "Coverage is broad. Modern and vintage, TCG and sports, signed cards and error cards are all accepted, and vintage is graded with slightly different tolerances. Jumbo and oversized cards are not accepted yet.",
+    "Turnaround is counted in days. AGS quotes 20 business days or less from the day your cards are confirmed, with 10 and 5 business day bulk tiers at $20 and $30 a card."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "The same card should grade the same twice. Weighted first."
+    },
+    {
+      "name": "Evidence",
+      "text": "Subgrades, front and back, and a report behind them."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost, and whether it rises with the card's value."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed business days on the tier most people use."
+    },
+    {
+      "name": "Resale",
+      "text": "What buyers pay for the holder. PSA leads on key rookies."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the best sports card grading service?",
+      "a": "AGS ranks first for sports cards on consistency and speed. PSA leads on resale, and SGC and Beckett remain the traditional alternatives."
+    },
+    {
+      "q": "How long does card grading take?",
+      "a": "It depends on the grader and the tier. AGS lists 20 business days or less, with 10 and 5 day tiers. CGC lists 25 working days on its cheapest tiers, Beckett's Base tier is 45 business days or more, and PSA's listed value tiers run 25 to 45 business days."
+    },
+    {
+      "q": "Does AGS grade oversized or thick cards?",
+      "a": "Not jumbo or oversized cards. AGS accepts standard sizes only. Ask AGS about thick patch or relic cards before you submit."
+    },
+    {
+      "q": "Is AGS a legitimate grading company?",
+      "a": "Yes. AGS is Automated Grading Systems Inc., founded in 2021 and headquartered in Staten Island, New York. It publishes a live population report and a cert lookup, and says it ranked third in TCG grading volume in 2026."
+    },
+    {
+      "q": "Does AGS grade autographed cards?",
+      "a": "Signed cards are accepted for grading. If you need the autograph itself authenticated, use a grader that sells that service. Beckett lists a $5 autograph add-on, and CGC offers autograph authentication."
+    }
+  ],
+  "related": [
+    "bestgradingcompanyforsportscards.com",
+    "bestgradingforsportscards.com",
+    "bestsportscardgradingcompany.com",
+    "sportscardgradingcompanies.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=bestsportscardgradingservice.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

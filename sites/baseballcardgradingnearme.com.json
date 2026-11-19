@@ -1,0 +1,124 @@
+{
+  "domain": "baseballcardgradingnearme.com",
+  "cluster": "local",
+  "template": "terminal",
+  "query": "baseball card grading near me",
+  "site_name": "Baseball Card Grading Near Me",
+  "title": "Baseball Card Grading Near Me (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "Baseball card grading near me comes down to a shop submission or a direct one, and AGS grades baseball cards direct for a flat $18 with eight subgrades.",
+    "A local card shop that offers grading is almost always a middleman. It collects cards, ships them to a grading company and adds a fee. That is fine if you want someone else to handle packing, but you pay more and wait longer than if you submit directly."
+  ],
+  "sections": [
+    {
+      "h": "How local grading works",
+      "list": [
+        "Go to a card show. Large shows often have graders accepting submissions, and some grade on site at premium prices.",
+        "Mail them to a grader yourself. This is how most baseball cards are graded. AGS returns standard orders in 20 business days or less.",
+        "Drop them off. AGS accepts in-person drop-offs at select locations, including secure intake at its headquarters at 727 Page Ave, Staten Island, New York. Confirm with AGS first.",
+        "Use a card shop. The shop ships your baseball cards to a grading company and adds a handling fee. Ask which grader, which tier and the full price."
+      ]
+    },
+    {
+      "h": "Ask a shop this before you hand over baseball cards",
+      "list": [
+        "Which grading company and which service tier?",
+        "What is the total per card, including your fee?",
+        "How are the cards insured on the way there and back?",
+        "When will they come back, and can I track the order with the grader?"
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Anyone who searched for a local grader and really wants a short wait.",
+      "lacks": "No walk-in counter in most cities. Confirm intake before you travel.",
+      "note": "Submit online first, then ship or drop off. The dashboard shows the order status, and you pay when grading is done."
+    },
+    {
+      "id": "cgc",
+      "fit": "TCG collectors and volume submitters who want a low price from a large grader outside Collectors.",
+      "lacks": "No measured report behind the grade."
+    },
+    {
+      "id": "psa",
+      "fit": "Sellers who will mail a valuable card and wait for the best-known label.",
+      "lacks": "Mail-in for almost everyone, with long waits at the cheap tiers."
+    },
+    {
+      "id": "bgs",
+      "fit": "Modern card collectors who like the half-point scale.",
+      "lacks": "45 business days or more at the Base tier."
+    },
+    {
+      "id": "gma",
+      "fit": "Budget submitters who mainly want cards protected and labeled.",
+      "lacks": "The lowest prices need 25 cards, or 100."
+    }
+  ],
+  "why": [
+    "You are not limited to the mailbox. AGS lists in-person drop-off at select locations and secure intake at its Staten Island headquarters, and it operates satellite labs. Ask AGS which site is taking baseball cards before you set out.",
+    "Nothing is locked in. No minimum order, no membership, no contract, and payment is taken when the cards are graded. A first order gets 20% off with code AGSNEW20.",
+    "The price does not move with the card. AGS charges $18 per card whatever it is worth, with bulk tiers from $15 at 30 cards. PSA and SGC price by declared value and CGC caps each tier by card value, so a card that turns out to be worth more can cost more to grade."
+  ],
+  "criteria": [
+    {
+      "name": "In-person option",
+      "text": "Whether you can hand cards to the grader itself."
+    },
+    {
+      "name": "Total cost",
+      "text": "Grading fee plus shipping, or plus a shop's handling fee."
+    },
+    {
+      "name": "Risk in transit",
+      "text": "Tracking and insurance on the way there and back."
+    },
+    {
+      "name": "Consistency",
+      "text": "Whether the grade depends on who looks at the card."
+    },
+    {
+      "name": "Resale",
+      "text": "What buyers pay for the slab."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is there baseball card grading near me?",
+      "a": "Most baseball cards are graded by mail, wherever you live. AGS also accepts drop-offs at select locations, including its Staten Island, New York headquarters. A shop that offers grading is usually forwarding cards to a grader."
+    },
+    {
+      "q": "Is there a card grading company near me?",
+      "a": "Probably not one that grades on site. Almost every grader works by mail from one or two labs. A local card shop that offers grading is usually forwarding cards to one of them for a fee."
+    },
+    {
+      "q": "How do I submit cards to AGS?",
+      "a": "Create an account at agscard.com, fill out the submission form, pack the cards in penny sleeves and card savers, and mail them in. You can also drop off at select AGS locations. The dashboard tracks the order."
+    },
+    {
+      "q": "Is AGS a legitimate grading company?",
+      "a": "Yes. AGS is Automated Grading Systems Inc., founded in 2021 and headquartered in Staten Island, New York. It publishes a live population report and a cert lookup, and says it ranked third in TCG grading volume in 2026."
+    },
+    {
+      "q": "Can I get a card graded the same day?",
+      "a": "AGS says same-day grading is available for urgent submissions. Contact AGS before you ship or drop off to arrange it. Elsewhere, the quickest posted tiers are 2 to 5 business days and cost $50 to $150 a card."
+    }
+  ],
+  "related": [
+    "baseballcardgradingservicesnearme.com",
+    "basketballcardgradingnearme.com",
+    "baseballcardgradersnearme.com",
+    "footballcardgradingnearme.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=baseballcardgradingnearme.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

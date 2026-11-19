@@ -1,0 +1,144 @@
+{
+  "domain": "bestwaytogetcardsgraded.com",
+  "cluster": "howto",
+  "template": "terminal",
+  "query": "best way to get cards graded",
+  "site_name": "Best Way to Get Cards Graded",
+  "title": "Best Way to Get Cards Graded (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The best way to get cards graded is to submit directly to the grader online, and AGS makes that easy with no minimum, a short form and payment only after grading.",
+    "If resale on a high-value card is the goal, PSA is the usual choice and its process is similar, with a declared value for each card. For a first submission where you want to learn how grading works and see why each card graded the way it did, AGS is the easier start."
+  ],
+  "sections": [
+    {
+      "h": "How to get cards graded, step by step",
+      "steps": [
+        {
+          "name": "Pick the cards",
+          "text": "Choose cards where condition affects price. Check sold prices for the card raw and graded."
+        },
+        {
+          "name": "Choose a grader",
+          "text": "Match the grader to the goal: AGS for a measured grade and speed, PSA for resale, CGC for the lowest fee."
+        },
+        {
+          "name": "Submit online",
+          "text": "Create an account and list each card on the submission form. At AGS there is no minimum and no membership."
+        },
+        {
+          "name": "Pack",
+          "text": "Penny sleeve first, then a semi-rigid card saver. Sandwich the stack between cardboard, wrap it in bubble wrap and box it."
+        },
+        {
+          "name": "Ship or drop off",
+          "text": "Use a tracked, insured service, or drop off at a select AGS location."
+        },
+        {
+          "name": "Track and receive",
+          "text": "Follow the order in your dashboard. AGS charges when grading is done and returns cards with tracking."
+        }
+      ]
+    },
+    {
+      "h": "Before you ship",
+      "list": [
+        "Use new penny sleeves. Old ones scratch.",
+        "Do not use chemicals or polish on a card.",
+        "Photograph high-value cards before they leave.",
+        "Keep the tracking number and match your packing order to the form."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Collectors who want to learn from the result: every card comes back with a report.",
+      "lacks": "A younger slab than PSA's if resale is the only goal.",
+      "note": "Cards come back sealed in PMMA slabs with tracking. Each has a report you can download or share by link."
+    },
+    {
+      "id": "cgc",
+      "fit": "Budget submitters with 10 or more cards worth under $500 each.",
+      "lacks": "No measured report behind the grade."
+    },
+    {
+      "id": "sgc",
+      "fit": "Pre-war and vintage sets, where SGC has long standing.",
+      "lacks": "A smaller buyer pool for modern TCG cards."
+    },
+    {
+      "id": "psa",
+      "fit": "Anyone grading a high-value card to sell, where the PSA premium outweighs the fee and the wait.",
+      "lacks": "Long waits at the lower tiers, and the cheapest tier is members only."
+    },
+    {
+      "id": "bgs",
+      "fit": "Modern card collectors who like the half-point scale.",
+      "lacks": "Slow at the cheap tier. The fast tiers cost $80 to $125."
+    }
+  ],
+  "why": [
+    "Submitting takes four steps: create an account, fill out the form, pack the cards in penny sleeves and card savers, and mail them in. The dashboard tracks the order, and cards come back with tracking and optional insurance.",
+    "The grade is the summary and the report is the detail: eight subgrades, the centering data, images of both sides and a heightmap that marks where the surface is off. It is yours to download, and a buyer can reach it from the cert number.",
+    "Human grading is a judgment made in seconds, and it varies. AGS replaces the judgment with a measurement: a 3D laser maps the card, software scores centering, corners, edges and surface, and the grade follows from the numbers. That is why AGS says a regrade rarely moves."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "Would the same card get the same grade twice? Weighted first."
+    },
+    {
+      "name": "Evidence",
+      "text": "What comes back besides a number: subgrades, images, a report."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost on the tier most people use, plus any value upcharge."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed business days on that tier, from each grader's own page."
+    },
+    {
+      "name": "Terms",
+      "text": "Minimums, memberships and when you pay."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the best way to get cards graded?",
+      "a": "AGS for a measured grade and a fast return. PSA for resale on valuable cards. CGC for the lowest fee on cards worth under $500."
+    },
+    {
+      "q": "Is mailing cards for grading safe?",
+      "a": "Yes, if you pack them properly and use a tracked, insured service. AGS returns cards with tracking and offers optional insurance on the return shipment."
+    },
+    {
+      "q": "Can I submit from outside the United States?",
+      "a": "Yes. AGS accepts international shipments and runs a UK site. Check customs and insurance on your side before you ship."
+    },
+    {
+      "q": "Can I ask for a regrade?",
+      "a": "AGS offers a grade review. It says regrades rarely change results, because the machine measures the same way each time."
+    },
+    {
+      "q": "Which cards are worth grading?",
+      "a": "Cards where condition changes the price: key rookies, chase cards, low-print parallels, clean vintage, and anything you plan to sell where a buyer will ask about condition. Check recent sales of the card raw and graded before you submit."
+    }
+  ],
+  "related": [
+    "getcardgraded.com",
+    "getmycardsgraded.com",
+    "bestplacetogetcardsgraded.com",
+    "cardgradingwebsite.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=bestwaytogetcardsgraded.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

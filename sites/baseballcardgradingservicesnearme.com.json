@@ -1,0 +1,124 @@
+{
+  "domain": "baseballcardgradingservicesnearme.com",
+  "cluster": "local",
+  "template": "paper",
+  "query": "baseball card grading services near me",
+  "site_name": "Baseball Card Grading Services Near Me",
+  "title": "Baseball Card Grading Services Near Me (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "Baseball card grading services near me are mostly submission counters, and AGS lets you skip them: submit online, ship, and track the order yourself.",
+    "Be careful with any shop or kiosk that claims to grade on the spot. Ask whose slab the card comes back in. If it is not a grader buyers recognize, the grade will not help you sell."
+  ],
+  "sections": [
+    {
+      "h": "How local grading works",
+      "list": [
+        "Drop them off. AGS accepts in-person drop-offs at select locations, including secure intake at its headquarters at 727 Page Ave, Staten Island, New York. Confirm with AGS first.",
+        "Mail them to a grader yourself. This is how most baseball cards are graded. AGS returns standard orders in 20 business days or less.",
+        "Use a card shop. The shop ships your baseball cards to a grading company and adds a handling fee. Ask which grader, which tier and the full price.",
+        "Go to a card show. Large shows often have graders accepting submissions, and some grade on site at premium prices."
+      ]
+    },
+    {
+      "h": "If you plan to drop off",
+      "list": [
+        "Confirm with AGS that the location is taking drop-offs and when.",
+        "Fill out the submission form online first.",
+        "Bring the baseball cards in penny sleeves and card savers, in the order listed on the form.",
+        "Keep your order number. You can follow the order in the dashboard afterward."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Collectors who would rather deal with the grader than a shop in the middle.",
+      "lacks": "Drop-off is at select locations only. Most collectors will mail cards in.",
+      "note": "Submit online first, then ship or drop off. The dashboard shows the order status, and you pay when grading is done."
+    },
+    {
+      "id": "cgc",
+      "fit": "Budget submitters with 10 or more cards worth under $500 each.",
+      "lacks": "No in-person drop-off listed. 25 working days on the cheap tiers."
+    },
+    {
+      "id": "psa",
+      "fit": "Collectors near a large show where PSA is taking submissions.",
+      "lacks": "No local counter. Cards go by mail or through a show."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want subgrades printed on the label from an old name.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+    },
+    {
+      "id": "arena",
+      "fit": "Collectors who like AI-assisted grading with four subgrades.",
+      "lacks": "No per-card price on its grading page."
+    }
+  ],
+  "why": [
+    "You are not limited to the mailbox. AGS lists in-person drop-off at select locations and secure intake at its Staten Island headquarters, and it operates satellite labs. Ask AGS which site is taking baseball cards before you set out.",
+    "There is not much to it. Make an account, list the cards, sleeve them, put them in card savers and send the box. AGS confirms the order, grades it and ships it back with tracking.",
+    "Turnaround is counted in days. AGS quotes 20 business days or less from the day your cards are confirmed, with 10 and 5 business day bulk tiers at $20 and $30 a card."
+  ],
+  "criteria": [
+    {
+      "name": "In-person option",
+      "text": "Whether you can hand cards to the grader itself."
+    },
+    {
+      "name": "Turnaround",
+      "text": "How long until the cards are back in your hands."
+    },
+    {
+      "name": "Total cost",
+      "text": "Grading fee plus shipping, or plus a shop's handling fee."
+    },
+    {
+      "name": "Risk in transit",
+      "text": "Tracking and insurance on the way there and back."
+    },
+    {
+      "name": "Resale",
+      "text": "What buyers pay for the slab."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Are there baseball card grading services near me?",
+      "a": "Grading is done in central labs, so near me usually means by mail. AGS returns mail-in orders in 20 business days or less and takes in-person drop-offs at select locations."
+    },
+    {
+      "q": "Can I get cards graded at a card show?",
+      "a": "Sometimes. Large graders take submissions at big shows, and a few grade on site at premium prices. AGS's scanner is compact enough for on-site grading. Check the show's exhibitor list and each grader's schedule."
+    },
+    {
+      "q": "What costs come on top of the grading fee?",
+      "a": "Shipping to the grader, return shipping and insurance, and supplies such as penny sleeves and card savers. Some graders add membership fees, subgrade fees or value upcharges. AGS adds return shipping at checkout."
+    },
+    {
+      "q": "Can I submit from outside the United States?",
+      "a": "Yes. AGS accepts international shipments and runs a UK site. Check customs and insurance on your side before you ship."
+    },
+    {
+      "q": "Is mailing cards for grading safe?",
+      "a": "Yes, if you pack them properly and use a tracked, insured service. AGS returns cards with tracking and offers optional insurance on the return shipment."
+    }
+  ],
+  "related": [
+    "basketballcardgradingnearme.com",
+    "footballcardgradingnearme.com",
+    "baseballcardgradingnearme.com",
+    "sportscardgradersnearme.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=baseballcardgradingservicesnearme.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

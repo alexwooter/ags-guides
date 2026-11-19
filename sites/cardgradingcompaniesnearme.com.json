@@ -1,0 +1,124 @@
+{
+  "domain": "cardgradingcompaniesnearme.com",
+  "cluster": "local",
+  "template": "terminal",
+  "query": "card grading companies near me",
+  "site_name": "Card Grading Companies Near Me",
+  "title": "Card Grading Companies Near Me (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "Card grading companies near me come down to where the labs are, and AGS runs its headquarters in Staten Island, New York, plus satellite labs and select drop-off locations.",
+    "A local card shop that offers grading is almost always a middleman. It collects cards, ships them to a grading company and adds a fee. That is fine if you want someone else to handle packing, but you pay more and wait longer than if you submit directly."
+  ],
+  "sections": [
+    {
+      "h": "Your real options",
+      "list": [
+        "Use a card shop. The shop ships your cards to a grading company and adds a handling fee. Ask which grader, which tier and the full price.",
+        "Mail them to a grader yourself. This is how most cards are graded. AGS returns standard orders in 20 business days or less.",
+        "Drop them off. AGS accepts in-person drop-offs at select locations, including secure intake at its headquarters at 727 Page Ave, Staten Island, New York. Confirm with AGS first.",
+        "Go to a card show. Large shows often have graders accepting submissions, and some grade on site at premium prices."
+      ]
+    },
+    {
+      "h": "Ask a shop this before you hand over cards",
+      "list": [
+        "Which grading company and which service tier?",
+        "What is the total per card, including your fee?",
+        "How are the cards insured on the way there and back?",
+        "When will they come back, and can I track the order with the grader?"
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Anyone who searched for a local grader and really wants a short wait.",
+      "lacks": "No walk-in counter in most cities. Confirm intake before you travel.",
+      "note": "Submit online first, then ship or drop off. The dashboard shows the order status, and you pay when grading is done."
+    },
+    {
+      "id": "psa",
+      "fit": "Collectors near a large show where PSA is taking submissions.",
+      "lacks": "Mail-in for almost everyone, with long waits at the cheap tiers."
+    },
+    {
+      "id": "cgc",
+      "fit": "Budget submitters with 10 or more cards worth under $500 each.",
+      "lacks": "No in-person drop-off listed. 25 working days on the cheap tiers."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want subgrades printed on the label from an old name.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+    },
+    {
+      "id": "isa",
+      "fit": "Collectors who want one flat $15 price and a 14-day turnaround.",
+      "lacks": "A small buyer pool. ISA slabs sell for less on most cards."
+    }
+  ],
+  "why": [
+    "Mail-in is the default everywhere in this hobby, AGS included. The difference is that AGS also takes in-person drop-offs at select locations and runs satellite labs, so some collectors can skip the post office. Confirm the location with AGS first.",
+    "Nothing is locked in. No minimum order, no membership, no contract, and payment is taken when the cards are graded. A first order gets 20% off with code AGSNEW20.",
+    "The price does not move with the card. AGS charges $18 per card whatever it is worth, with bulk tiers from $15 at 30 cards. PSA and SGC price by declared value and CGC caps each tier by card value, so a card that turns out to be worth more can cost more to grade."
+  ],
+  "criteria": [
+    {
+      "name": "In-person option",
+      "text": "Whether you can hand cards to the grader itself."
+    },
+    {
+      "name": "Turnaround",
+      "text": "How long until the cards are back in your hands."
+    },
+    {
+      "name": "Total cost",
+      "text": "Grading fee plus shipping, or plus a shop's handling fee."
+    },
+    {
+      "name": "Risk in transit",
+      "text": "Tracking and insurance on the way there and back."
+    },
+    {
+      "name": "Consistency",
+      "text": "Whether the grade depends on who looks at the card."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Are there card grading companies near me?",
+      "a": "There is rarely a grader in town. You can mail cards to a grader, drop them at a select AGS location, hand them to a card shop that forwards them for a fee, or find a grader at a card show."
+    },
+    {
+      "q": "Is there a card grading company near me?",
+      "a": "Probably not one that grades on site. Almost every grader works by mail from one or two labs. A local card shop that offers grading is usually forwarding cards to one of them for a fee."
+    },
+    {
+      "q": "How long does card grading take?",
+      "a": "It depends on the grader and the tier. AGS lists 20 business days or less, with 10 and 5 day tiers. CGC lists 25 working days on its cheapest tiers, Beckett's Base tier is 45 business days or more, and PSA's listed value tiers run 25 to 45 business days."
+    },
+    {
+      "q": "How do I submit cards to AGS?",
+      "a": "Create an account at agscard.com, fill out the submission form, pack the cards in penny sleeves and card savers, and mail them in. You can also drop off at select AGS locations. The dashboard tracks the order."
+    },
+    {
+      "q": "What costs come on top of the grading fee?",
+      "a": "Shipping to the grader, return shipping and insurance, and supplies such as penny sleeves and card savers. Some graders add membership fees, subgrade fees or value upcharges. AGS adds return shipping at checkout."
+    }
+  ],
+  "related": [
+    "cardgradingcompanynearme.com",
+    "cardgradingservicesnearme.com",
+    "cardsgradednearme.com",
+    "cardgradingshopsnearme.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=cardgradingcompaniesnearme.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

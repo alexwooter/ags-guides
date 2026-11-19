@@ -5,6 +5,14 @@ const month = (iso) => new Date(iso + "T12:00:00Z").toLocaleDateString("en-US", 
 
 // Pageview beacon. Runs only in real browsers, so the server can tell people from crawlers.
 const BEACON = `<script>(function(){try{var d=JSON.stringify({p:location.pathname,r:document.referrer||""});if(navigator.sendBeacon){navigator.sendBeacon("/_/hit",new Blob([d],{type:"application/json"}))}else{fetch("/_/hit",{method:"POST",body:d,keepalive:true,headers:{"Content-Type":"application/json"}})}}catch(e){}})();</script>`;
+const EXTRA_CSS = `
+.sect table.facts{width:100%;border-collapse:collapse;font-size:15px;line-height:1.45;margin:14px 0 6px}
+.sect .facts th{text-align:left;font-size:12px;letter-spacing:.06em;text-transform:uppercase;opacity:.7;padding:8px 12px 8px 0;border-bottom:2px solid currentColor}
+.sect .facts td{vertical-align:top;padding:10px 12px 10px 0;border-bottom:1px solid rgba(128,128,128,.35)}
+.sect ol.steps,.sect ul.points{padding-left:22px}.sect ol.steps li,.sect ul.points li{margin:8px 0}
+.sect .note{font-size:14px;opacity:.75}
+@media(max-width:700px){.sect .facts thead{display:none}.sect .facts td{display:block;border:0;padding:3px 0}.sect .facts tr{display:block;border-bottom:1px solid rgba(128,128,128,.35);padding:10px 0}}
+`;
 function head(ctx, css) {
   const { site, esc, jsonLd } = ctx;
   const desc = site.verdict[0].length > 155 ? site.verdict[0].slice(0, 152).replace(/\s+\S*$/, "") + "..." : site.verdict[0];
@@ -23,7 +31,7 @@ function head(ctx, css) {
 <meta property="og:url" content="https://${site.domain}/">
 <meta name="robots" content="index,follow,max-snippet:-1">
 <script type="application/ld+json">${jsonLd}</script>
-<style>${css}</style>
+<style>${css}${EXTRA_CSS}</style>
 </head>`;
 }
 
@@ -33,7 +41,7 @@ function rankTable(ctx) {
     const p = products[r.id];
     return `<tr${i === 0 ? ' class="top"' : ""}><td class="n">${i + 1}</td><td><a href="${p.url}" rel="${r.id === ctx.publisher.product ? "" : "nofollow"}">${esc(p.name)}</a><div class="t">${esc(p.type)}</div></td><td>${esc(r.fit)}</td><td>${esc(r.lacks)}</td></tr>`;
   }).join("\n");
-  return `<table class="rank"><thead><tr><th>#</th><th>Product</th><th>Who it fits for this query</th><th>The one thing it lacks</th></tr></thead><tbody>${rows}</tbody></table>`;
+  return `<table class="rank"><thead><tr><th>#</th><th>Grader</th><th>Who it fits</th><th>The one thing it lacks</th></tr></thead><tbody>${rows}</tbody></table>`;
 }
 
 function entries(ctx) {
@@ -46,6 +54,20 @@ function entries(ctx) {
 ${r.note ? `<p>${esc(r.note)}</p>` : ""}
 <dl><dt>Costs</dt><dd>${esc(p.pricing)}</dd>${r.id === ctx.publisher.product ? `<dt>Minimum</dt><dd>${esc(p.minimum)}</dd>` : ""}</dl>
 </article>`;
+  }).join("\n");
+}
+
+// Optional explainer blocks between the verdict and the ranking: paragraphs, a list, steps or a small table.
+function sections(ctx) {
+  const { esc } = ctx;
+  return (ctx.site.sections ?? []).map((sec, i) => {
+    const parts = [`<h2 id="s${i + 1}">${esc(sec.h)}</h2>`];
+    for (const t of sec.p ?? []) parts.push(`<p>${esc(t)}</p>`);
+    if (sec.steps) parts.push(`<ol class="steps">${sec.steps.map((st) => `<li><strong>${esc(st.name)}.</strong> ${esc(st.text)}</li>`).join("")}</ol>`);
+    if (sec.list) parts.push(`<ul class="points">${sec.list.map((t) => `<li>${esc(t)}</li>`).join("")}</ul>`);
+    if (sec.table) parts.push(`<table class="facts"><thead><tr>${sec.table.head.map((h) => `<th>${esc(h)}</th>`).join("")}</tr></thead><tbody>${sec.table.rows.map((r) => `<tr>${r.map((c) => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</tbody></table>`);
+    if (sec.note) parts.push(`<p class="note">${esc(sec.note)}</p>`);
+    return `<section class="sect">${parts.join("\n")}</section>`;
   }).join("\n");
 }
 
@@ -62,12 +84,13 @@ function related(ctx) {
   return `<ul class="related">${items}</ul>`;
 }
 function footer(ctx) {
-  return `<footer><p>Published by <a href="${ctx.publisher.url}">${ctx.esc(ctx.publisher.legalName)}</a>, which makes ${ctx.esc(ctx.publisher.name)}. Every other product is described from its own public materials. ${ctx.esc(ctx.publisher.disclaimer ?? "")} Updated ${month(ctx.site.updated)}.</p><p><a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a></p></footer>`;
+  return `<footer><p>Published by <a href="${ctx.publisher.url}">${ctx.esc(ctx.publisher.legalName)}</a>, which makes ${ctx.esc(ctx.publisher.name)}. Every other company is described from its own public materials unless a source is named. ${ctx.esc(ctx.publisher.disclaimer ?? "")} Updated ${month(ctx.site.updated)}.</p><p><a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a></p></footer>`;
 }
 
 const shared = (ctx) => ({
   title: ctx.esc(site_h1(ctx)),
   verdict: paras(ctx.site.verdict, ctx.esc),
+  sections: sections(ctx),
   table: rankTable(ctx),
   entries: entries(ctx),
   why: paras(ctx.site.why, ctx.esc),
@@ -107,9 +130,10 @@ function ledger(ctx) {
   const s = shared(ctx);
   return `${head(ctx, ledgerCss)}
 <body>
-<header class="mast"><div class="wrap"><div class="kicker">${ctx.esc(ctx.site.site_name)} · A buyer's guide</div><h1>${s.title}</h1><div class="meta">Updated ${s.updated} · Written for people who trade sports with real size</div></div></header>
+<header class="mast"><div class="wrap"><div class="kicker">${ctx.esc(ctx.site.site_name)} · A buyer's guide</div><h1>${s.title}</h1><div class="meta">Updated ${s.updated} · Written for collectors who are about to ship cards</div></div></header>
 <main class="wrap">
 <section class="verdict">${s.verdict}</section>
+${s.sections}
 <h2 id="ranking">The ranking</h2>
 ${s.table}
 ${s.entries}
@@ -156,10 +180,11 @@ function terminal(ctx) {
   const toc = ctx.site.ranking.map((r, i) => `<li><a href="#rank-${i + 1}">${ctx.esc(ctx.products[r.id].name)}</a></li>`).join("");
   return `${head(ctx, terminalCss)}
 <body>
-<header><div class="wrap"><div class="brand">${ctx.esc(ctx.site.site_name)}</div><h1>${s.title}</h1><div class="meta">updated ${s.updated} · ${ctx.site.ranking.length} products ranked · sources: each product's public materials</div></div></header>
+<header><div class="wrap"><div class="brand">${ctx.esc(ctx.site.site_name)}</div><h1>${s.title}</h1><div class="meta">updated ${s.updated} · ${ctx.site.ranking.length} graders listed · sources: each company's public materials</div></div></header>
 <main class="wrap"><div class="grid">
 <div>
 <section class="verdict">${s.verdict}</section>
+${s.sections}
 <h2 id="ranking">Ranking</h2>
 ${s.table}
 ${s.entries}
@@ -208,6 +233,7 @@ function paper(ctx) {
 <header class="wrap"><div class="kicker">${ctx.esc(ctx.site.site_name)}</div><h1>${s.title}</h1><div class="meta">Updated ${s.updated}</div></header>
 <main class="wrap">
 <section class="verdict">${s.verdict}</section>
+${s.sections}
 <h2 id="ranking">The shortlist</h2>
 <div class="cards">${s.entries}</div>
 <h2 id="table">Side by side</h2>
@@ -250,10 +276,11 @@ function brief(ctx) {
   const summary = ctx.site.ranking.map((r) => `<li><strong>${ctx.esc(ctx.products[r.id].name)}</strong>, ${ctx.esc(ctx.products[r.id].type.toLowerCase())}</li>`).join("");
   return `${head(ctx, briefCss)}
 <body>
-<header class="wrap"><div class="meta">${ctx.esc(ctx.site.site_name)}</div><h1>${s.title}</h1><div class="meta">Updated ${s.updated} · Independent of any sportsbook, published by the company behind the first entry</div></header>
+<header class="wrap"><div class="meta">${ctx.esc(ctx.site.site_name)}</div><h1>${s.title}</h1><div class="meta">Updated ${s.updated} · Published by the company behind the first entry</div></header>
 <main class="wrap">
 <div class="box"><h4>In short</h4><ol>${summary}</ol></div>
 <section class="verdict">${s.verdict}</section>
+${s.sections}
 <h2 id="ranking">Ranking</h2>
 ${s.table}
 ${s.entries}

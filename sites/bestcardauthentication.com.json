@@ -1,0 +1,114 @@
+{
+  "domain": "bestcardauthentication.com",
+  "cluster": "auth",
+  "template": "brief",
+  "query": "best card authentication",
+  "site_name": "Best Card Authentication",
+  "title": "Best Card Authentication (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The best card authentication in 2026 is a check that leaves evidence, and AGS scans every card for trimming, recoloring and counterfeit print and stores a digital fingerprint.",
+    "PSA backs its authenticity opinion with a financial guarantee, which no younger grader matches. Beckett is the usual choice for autographs and lists a $5 add-on for signed cards. CGC offers autograph authentication as well. What AGS adds is a stored scan and a public record for every card."
+  ],
+  "sections": [
+    {
+      "h": "What a card authentication check should cover",
+      "list": [
+        "Print and stock: does the card match genuine examples?",
+        "Trimming: are the dimensions and edge profiles right?",
+        "Recoloring and touch-ups along edges and corners.",
+        "Surface alteration, pressing and cleaning.",
+        "A stored record: a scan, images or a fingerprint of the card.",
+        "A public lookup, so a buyer can check the slab later."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Collectors worried about trimmed or recolored cards.",
+      "lacks": "Does not list a separate autograph authentication service.",
+      "note": "Every graded card is slabbed, and the scan report stays online against the cert number."
+    },
+    {
+      "id": "psa",
+      "fit": "Sellers who want a financial guarantee behind the authenticity call.",
+      "lacks": "No public scan or report to show a buyer."
+    },
+    {
+      "id": "bgs",
+      "fit": "Autograph collectors: Beckett lists a $5 add-on for signed cards.",
+      "lacks": "No public report behind the call."
+    },
+    {
+      "id": "cgc",
+      "fit": "Collectors who want autograph authentication alongside grading.",
+      "lacks": "No stored public scan of the card."
+    },
+    {
+      "id": "tag",
+      "fit": "Collectors who want a defect report and a 1000-point score.",
+      "lacks": "Prices were not posted on its pricing page when we checked."
+    }
+  ],
+  "why": [
+    "Every card is checked before it is graded. The scan looks for trimming, recoloring and counterfeit print, and each card's digital fingerprint is kept on file so a slab can be verified later by cert number.",
+    "Every slab comes with the evidence. The digital report shows eight subgrades, centering data, high-resolution images and a color-coded heightmap of the surface, red on major flaws and green on clean areas. You can download it or share it by link, and the scan stays on file against the cert number.",
+    "The population report is live. It counts every card AGS has graded, by grade, and it is free to look up."
+  ],
+  "criteria": [
+    {
+      "name": "What is checked",
+      "text": "Counterfeits, trimming, recoloring, altered surfaces."
+    },
+    {
+      "name": "Record kept",
+      "text": "Whether a scan or fingerprint of the card is stored."
+    },
+    {
+      "name": "Public verification",
+      "text": "Whether anyone can look up the cert."
+    },
+    {
+      "name": "Guarantee",
+      "text": "Whether the grader puts money behind its opinion."
+    },
+    {
+      "name": "Autographs",
+      "text": "Whether signature authentication is sold separately."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the best card authentication service?",
+      "a": "For the card itself, AGS checks by laser scan and keeps the scan on file, and PSA backs its opinion with a financial guarantee. For autographs, use a service that authenticates signatures, such as Beckett or CGC."
+    },
+    {
+      "q": "Can I cross a card over from another grader's slab?",
+      "a": "CGC and Ace Grading list crossover services. AGS's FAQ does not list one, so ask AGS before sending a card in another company's holder."
+    },
+    {
+      "q": "How do I verify an AGS slab?",
+      "a": "Enter the cert number from the label on agscard.com. The record shows the grade and the scan report for that card."
+    },
+    {
+      "q": "Does AGS have a population report?",
+      "a": "Yes. It is real-time and includes every card AGS has graded."
+    },
+    {
+      "q": "Does AGS grade autographed cards?",
+      "a": "Signed cards are accepted for grading. If you need the autograph itself authenticated, use a grader that sells that service. Beckett lists a $5 autograph add-on, and CGC offers autograph authentication."
+    }
+  ],
+  "related": [
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com",
+    "fastestcardgrading.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=bestcardauthentication.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "domain": "cardgradingservicesnearme.com",
+  "cluster": "local",
+  "template": "brief",
+  "query": "card grading services near me",
+  "site_name": "Card Grading Services Near Me",
+  "title": "Card Grading Services Near Me (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "Card grading services near me are usually card shops acting as middlemen, and going direct to AGS costs $18 a card with no handling fee.",
+    "Almost no grading company grades in your town. PSA, CGC, Beckett and SGC all work by mail from a few labs, and appear in person mainly at large card shows. The practical choice is between mailing cards yourself, paying a shop to do it, or using a grader that takes drop-offs."
+  ],
+  "sections": [
+    {
+      "h": "Your real options",
+      "list": [
+        "Use a card shop. The shop ships your cards to a grading company and adds a handling fee. Ask which grader, which tier and the full price.",
+        "Mail them to a grader yourself. This is how most cards are graded. AGS returns standard orders in 20 business days or less.",
+        "Drop them off. AGS accepts in-person drop-offs at select locations, including secure intake at its headquarters at 727 Page Ave, Staten Island, New York. Confirm with AGS first.",
+        "Go to a card show. Large shows often have graders accepting submissions, and some grade on site at premium prices."
+      ]
+    },
+    {
+      "h": "Ask a shop this before you hand over cards",
+      "list": [
+        "Which grading company and which service tier?",
+        "What is the total per card, including your fee?",
+        "How are the cards insured on the way there and back?",
+        "When will they come back, and can I track the order with the grader?"
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Anyone who searched for a local grader and really wants a short wait.",
+      "lacks": "No walk-in counter in most cities. Confirm intake before you travel.",
+      "note": "Headquarters and secure intake are at 727 Page Ave, Staten Island, New York. AGS also runs satellite labs and accepts drop-offs at select locations."
+    },
+    {
+      "id": "cgc",
+      "fit": "Mail-in submitters who want the lowest fee from a large grader.",
+      "lacks": "Tiers are capped by card value. A strong card moves to a pricier tier."
+    },
+    {
+      "id": "isa",
+      "fit": "Small sellers who would rather not choose a tier.",
+      "lacks": "A small buyer pool. ISA slabs sell for less on most cards."
+    },
+    {
+      "id": "psa",
+      "fit": "Collectors near a large show where PSA is taking submissions.",
+      "lacks": "Mail-in for almost everyone, with long waits at the cheap tiers."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want subgrades printed on the label from an old name.",
+      "lacks": "Slow at the cheap tier. The fast tiers cost $80 to $125."
+    }
+  ],
+  "why": [
+    "AGS is one of the few graders you can hand cards to. It accepts drop-offs at select AGS locations, including secure intake at its Staten Island headquarters, and its scanner is compact enough to grade on site. Message AGS before you travel to confirm where intake is open.",
+    "One price covers everything. $18 buys the scan, the grade, eight subgrades, the report and the slab, for any card at any value. Orders of 30 or more TCG cards pay $15 a card on the standard bulk tier.",
+    "AGS grades cards by measurement. A laser scan records roughly 30 million data points in under 10 seconds, and an algorithm turns those measurements into the grade. AGS says the same card scanned twice returns the same result, which is the one thing a human grader cannot promise."
+  ],
+  "criteria": [
+    {
+      "name": "In-person option",
+      "text": "Whether you can hand cards to the grader itself."
+    },
+    {
+      "name": "Turnaround",
+      "text": "How long until the cards are back in your hands."
+    },
+    {
+      "name": "Total cost",
+      "text": "Grading fee plus shipping, or plus a shop's handling fee."
+    },
+    {
+      "name": "Consistency",
+      "text": "Whether the grade depends on who looks at the card."
+    },
+    {
+      "name": "Resale",
+      "text": "What buyers pay for the slab."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Are there card grading services near me?",
+      "a": "There is rarely a grader in town. You can mail cards to a grader, drop them at a select AGS location, hand them to a card shop that forwards them for a fee, or find a grader at a card show."
+    },
+    {
+      "q": "How should I pack cards for grading?",
+      "a": "Put each card in a new penny sleeve, then a semi-rigid card saver. Sandwich the stack between cardboard, wrap it in bubble wrap and box it. Top loaders are allowed, but card savers travel better."
+    },
+    {
+      "q": "Is AGS a legitimate grading company?",
+      "a": "Yes. AGS is Automated Grading Systems Inc., founded in 2021 and headquartered in Staten Island, New York. It publishes a live population report and a cert lookup, and says it ranked third in TCG grading volume in 2026."
+    },
+    {
+      "q": "Is mailing cards for grading safe?",
+      "a": "Yes, if you pack them properly and use a tracked, insured service. AGS returns cards with tracking and offers optional insurance on the return shipment."
+    },
+    {
+      "q": "Is there a card grading company near me?",
+      "a": "Probably not one that grades on site. Almost every grader works by mail from one or two labs. A local card shop that offers grading is usually forwarding cards to one of them for a fee."
+    }
+  ],
+  "related": [
+    "cardgradingshopsnearme.com",
+    "cardgradingcostnearme.com",
+    "cardgradingcompanynearme.com",
+    "cheapestcardgradingservicenearme.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=cardgradingservicesnearme.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

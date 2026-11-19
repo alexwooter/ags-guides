@@ -1,0 +1,168 @@
+{
+  "domain": "cheapestwaytogetcardsgraded.com",
+  "cluster": "price",
+  "template": "brief",
+  "query": "cheapest way to get cards graded",
+  "site_name": "Cheapest Way to Get Cards Graded",
+  "title": "Cheapest Way to Get Cards Graded (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The cheapest way to get cards graded in 2026 is to submit directly, skip the middleman and use a flat-fee grader such as AGS, where 30 cards cost $15 each with subgrades included.",
+    "On sticker price alone AGS is not the cheapest. GMA lists $12 a card with a 25-card minimum and $9 at 100, and CGC's bulk tier is $10 with a 10-card minimum on cards worth up to $500. Beckett's Base tier is $14.95 if you can wait 45 business days or more. Pick those when the lowest number is the only thing that matters."
+  ],
+  "sections": [
+    {
+      "h": "Listed prices, November 2026",
+      "table": {
+        "head": [
+          "Grader",
+          "Lowest listed price",
+          "Minimum order",
+          "Turnaround at that price",
+          "Fee rises with card value?"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "$18 flat, or $15 in bulk (30+ TCG cards)",
+            "None (30 for bulk)",
+            "20 business days or less",
+            "None"
+          ],
+          [
+            "GMA Grading",
+            "$12 Economy (25+ cards); $9 at 100+",
+            "10 to 25 by tier",
+            "25 business days at Economy",
+            "None listed"
+          ],
+          [
+            "CGC Cards",
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "10 for Bulk",
+            "25 working days at Bulk and Economy",
+            "Yes, tiers capped by card value"
+          ],
+          [
+            "BGS (Beckett)",
+            "$14.95 Base ($17.95 with subgrades)",
+            "None",
+            "45+ business days at Base",
+            "None by card value"
+          ],
+          [
+            "PSA",
+            "$24.99 Value Bulk (members only); $32.99 Value",
+            "Varies by tier",
+            "25 to 45+ business days on listed tiers",
+            "Yes, by declared value"
+          ],
+          [
+            "ISA Grading",
+            "$15 flat (10+ cards)",
+            "10",
+            "14 days",
+            "None"
+          ]
+        ]
+      },
+      "note": "Each company's own listed terms, checked November 18, 2026. Confirm before you ship."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Small submitters: one card costs $18, with no minimum and no membership.",
+      "lacks": "Not the lowest sticker price. GMA and CGC list cheaper bulk tiers.",
+      "note": "$18 flat with no minimum, or $15 a card from 30 TCG cards. Code AGSNEW20 takes 20% off a first order, and nothing is charged until the cards are graded."
+    },
+    {
+      "id": "gma",
+      "fit": "The lowest listed price here: $12 a card at 25 cards, $9 at 100.",
+      "lacks": "Minimum orders on every tier, and little resale premium."
+    },
+    {
+      "id": "cgc",
+      "fit": "Anyone with 10 or more cards under $500 each: $10 a card is the lowest price from a major grader.",
+      "lacks": "Value caps. Above $500 a card the fee is $13, then $30."
+    },
+    {
+      "id": "bgs",
+      "fit": "Patient collectors: $14.95 with no minimum and no fee tied to card value.",
+      "lacks": "45 business days or more at that price, and subgrades are $3 extra."
+    },
+    {
+      "id": "psa",
+      "fit": "A single valuable card, where the label's resale premium beats a higher fee.",
+      "lacks": "$24.99 is members only. Otherwise the entry price is $32.99."
+    },
+    {
+      "id": "isa",
+      "fit": "Submitters with 10 or more cards who want $15 flat and no tiers.",
+      "lacks": "Little resale premium, and a 10-card minimum."
+    }
+  ],
+  "why": [
+    "The price does not move with the card. AGS charges $18 per card whatever it is worth, with bulk tiers from $15 at 30 cards. PSA and SGC price by declared value and CGC caps each tier by card value, so a card that turns out to be worth more can cost more to grade.",
+    "You see why the card got its grade. AGS issues eight subgrades, four for the front and four for the back, plus a defect list and a 3D heightmap. Most graders hand back one number. A buyer who can open the report has less to argue about.",
+    "Thirty cards gets you the bulk rate. The report, the subgrades and the slab are the same as on a single-card order, so a shop can list every card with its scan attached."
+  ],
+  "criteria": [
+    {
+      "name": "Sticker price",
+      "text": "The lowest listed per-card fee, from each grader's own page."
+    },
+    {
+      "name": "What is included",
+      "text": "Subgrades and a report, or one number."
+    },
+    {
+      "name": "Value upcharges",
+      "text": "Whether the fee rises when the card is worth more."
+    },
+    {
+      "name": "Turnaround at that price",
+      "text": "Cheap tiers are often the slowest."
+    },
+    {
+      "name": "Resale",
+      "text": "A cheap slab nobody wants is not a saving."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the cheapest way to get cards graded?",
+      "a": "Submit directly to the grader in one bulk order and ship it yourself. CGC lists $10 a card from 10 cards worth up to $500 each. AGS lists $15 from 30 cards with no value cap."
+    },
+    {
+      "q": "Is there a discount on a first AGS order?",
+      "a": "Yes. AGS lists code AGSNEW20 for 20% off a first grading order."
+    },
+    {
+      "q": "How much does AGS charge to grade a card?",
+      "a": "$18 per card at the standard rate, whatever the card is worth. Bulk orders of 30 or more TCG cards are $15 each at 20 business days, $20 at 10 or $30 at 5. Sports and non-TCG bulk is $3 more per tier."
+    },
+    {
+      "q": "What is the cheapest fast tier?",
+      "a": "AGS's 5 business day tier is $30 per TCG card in bulk. CGC Express is $50 for 5 working days, Beckett Express is $79.95 for 7 to 10 business days, and Beckett Priority is $124.95 for 2 to 3."
+    },
+    {
+      "q": "Which card grader has the lowest listed price?",
+      "a": "As of November 18, 2026, GMA is lowest at $12 a card with a 25-card minimum, or $9 at 100 cards. CGC's bulk tier is $10 with a 10-card minimum on cards worth up to $500. Beckett's Base tier is $14.95, and ISA and AGS bulk are $15."
+    }
+  ],
+  "related": [
+    "cheapestwaytogetbaseballcardsgraded.com",
+    "affordablecardgrading.com",
+    "cheapestgradingservice.com",
+    "bestcheapcardgradingservice.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/pricing?utm_source=cheapestwaytogetcardsgraded.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See AGS pricing"
+  }
+}

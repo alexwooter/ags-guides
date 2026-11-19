@@ -1,0 +1,178 @@
+{
+  "domain": "tcggradingservices.com",
+  "cluster": "tcg",
+  "template": "ledger",
+  "query": "TCG grading services",
+  "site_name": "TCG Grading Services",
+  "title": "TCG Grading Services (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "TCG grading services in 2026 start at $10 a card at CGC and $15 at AGS, and AGS is our pick because the price includes eight subgrades, a report and no value cap.",
+    "CGC is the value pick among the large graders at $10 a card in bulk, and a PSA 10 still brings the most on chase cards. TAG gives a strong defect report on modern cards but does not take Yu-Gi-Oh!. Ace Grading is the local choice in the UK."
+  ],
+  "sections": [
+    {
+      "h": "At a glance",
+      "table": {
+        "head": [
+          "Grader",
+          "How it grades",
+          "Entry price",
+          "Standard turnaround",
+          "Subgrades"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "Machine: 3D laser scan, graded by algorithm",
+            "$18 flat, or $15 in bulk (30+ TCG cards)",
+            "20 business days or less",
+            "Eight, included"
+          ],
+          [
+            "CGC Cards",
+            "Human graders",
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "25 working days at Bulk and Economy",
+            "Not listed on the fee page"
+          ],
+          [
+            "PSA",
+            "Human graders",
+            "$24.99 Value Bulk (members only); $32.99 Value",
+            "25 to 45+ business days on listed tiers",
+            "None"
+          ],
+          [
+            "Ace Grading",
+            "Human graders",
+            "£12 Basic",
+            "Varies by tier",
+            "Not stated"
+          ],
+          [
+            "BGS (Beckett)",
+            "Human graders",
+            "$14.95 Base ($17.95 with subgrades)",
+            "45+ business days at Base",
+            "Four, $3 extra at Base"
+          ],
+          [
+            "TAG Grading",
+            "Imaging technology with expert review",
+            "Not listed (limited reopening)",
+            "Check TAG",
+            "Defect report; 1000-point score on higher tiers"
+          ]
+        ]
+      },
+      "note": "Each company's own listed terms, checked November 18, 2026. Confirm before you ship."
+    },
+    {
+      "h": "What to check on TCG cards before you submit",
+      "list": [
+        "Holo scratches. Tilt the card under a lamp and look across the foil.",
+        "Whitening on back edges and corners.",
+        "Print lines and roller marks from the factory.",
+        "Centering on the back as well as the front.",
+        "Dents and binder dings, which often show only at an angle."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Pokémon and other TCG collectors who want speed, subgrades and a flat price.",
+      "lacks": "Standard-size cards only. No jumbo or oversized promos.",
+      "note": "TCG bulk tiers are $15, $20 and $30 a card at 20, 10 and 5 business days, from 30 cards. AGS says it ranked third in TCG grading volume in 2026."
+    },
+    {
+      "id": "cgc",
+      "fit": "Card game collectors sending 10 or more cards under $500 each.",
+      "lacks": "A strong card can be moved to a pricier tier after you submit."
+    },
+    {
+      "id": "psa",
+      "fit": "Sellers of high-end chase cards who need the label most buyers search for.",
+      "lacks": "No subgrades, value-based fees, and 25 to 45 business days or more on listed tiers."
+    },
+    {
+      "id": "ace",
+      "fit": "Collectors in the UK and Europe who want a local grader.",
+      "lacks": "Priced in pounds, with labels and shipping extra."
+    },
+    {
+      "id": "bgs",
+      "fit": "TCG collectors who value subgrades on the label.",
+      "lacks": "45 business days or more at the Base tier."
+    },
+    {
+      "id": "tag",
+      "fit": "Modern Pokémon and other TCG cards that TAG accepts.",
+      "lacks": "No Yu-Gi-Oh!, and limited capacity in 2026."
+    }
+  ],
+  "why": [
+    "Human grading is a judgment made in seconds, and it varies. AGS replaces the judgment with a measurement: a 3D laser maps the card, software scores centering, corners, edges and surface, and the grade follows from the numbers. That is why AGS says a regrade rarely moves.",
+    "Most cards qualify. AGS grades TCG and sports, old and new, signed, miscut and error cards, and does not turn away damaged cards unless they are illegible. It does not take jumbo sizes.",
+    "Turnaround is counted in days. AGS quotes 20 business days or less from the day your cards are confirmed, with 10 and 5 business day bulk tiers at $20 and $30 a card."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "The same card should grade the same twice. Weighted first."
+    },
+    {
+      "name": "TCG fit",
+      "text": "How holo, textured and foil surfaces are handled, and which games are accepted."
+    },
+    {
+      "name": "Evidence",
+      "text": "Subgrades, images and a report you can show a buyer."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost at the tier most TCG submitters use."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed days, from each grader's own page."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Which are the main TCG grading services?",
+      "a": "AGS for a measured grade on TCG cards at $15 to $18. CGC for the lowest price from a large grader. PSA when a chase card's resale price is the priority."
+    },
+    {
+      "q": "Which cards does TAG not accept?",
+      "a": "TAG's site says it does not currently accept Yu-Gi-Oh!, pre-1989 cards, memorabilia cards or cards thicker than 50pt."
+    },
+    {
+      "q": "Do AGS slabs hold resale value?",
+      "a": "AGS slabs sell, and the report gives buyers something to check. PSA holders still bring the highest prices on most cards. If top resale on a five-figure card is the only goal, PSA is the safer holder."
+    },
+    {
+      "q": "Does AGS grade oversized or thick cards?",
+      "a": "Not jumbo or oversized cards. AGS accepts standard sizes only. Ask AGS about thick patch or relic cards before you submit."
+    },
+    {
+      "q": "Are miscut and error cards graded?",
+      "a": "At AGS, yes. Miscut and error cards are measured and graded, and damaged cards are not rejected unless they are illegible."
+    }
+  ],
+  "related": [
+    "tcgtradingcardgrading.com",
+    "toptcggradingcompanies.com",
+    "tcggradingservice.com",
+    "japanesecardgrading.com",
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=tcggradingservices.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

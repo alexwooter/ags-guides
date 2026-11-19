@@ -1,0 +1,117 @@
+{
+  "domain": "aigradingcompany.com",
+  "cluster": "ai",
+  "template": "terminal",
+  "query": "AI grading company",
+  "site_name": "AI Grading Company",
+  "title": "AI Grading Company (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "AGS is the AI grading company for trading cards in 2026, grading by laser scan and algorithm and publishing how the grade is weighted.",
+    "If you want technology in the loop but a human signing off, look at TAG or Arena Club. If you want the buyer pool above all, PSA. If you want the measurement to be the grade, AGS is the only large grader built that way."
+  ],
+  "sections": [
+    {
+      "h": "What you get for the fee",
+      "list": [
+        "A grade from 1 to 10 with decimal precision.",
+        "Eight subgrades: centering, corners, edges and surface, front and back.",
+        "A 3D heightmap of the surface, color-coded from green to red.",
+        "High-resolution images and centering data for both sides.",
+        "A sealed PMMA slab with the cert number on the label.",
+        "A permanent online record, reachable by cert number or shared link."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Anyone who wants a fully machine-graded card and a report that shows the work.",
+      "lacks": "Standard-size cards only.",
+      "note": "The scanner uses 3D laser measurement, about 30 million data points per card in under 10 seconds. The algorithm, not a person, sets the grade."
+    },
+    {
+      "id": "tag",
+      "fit": "Collectors who want imaging technology with an expert checking the result.",
+      "lacks": "Excludes pre-1989 cards and Yu-Gi-Oh!, and capacity was limited in 2026."
+    },
+    {
+      "id": "psa",
+      "fit": "Collectors who put resale first and are fine with a human grade.",
+      "lacks": "A human opinion: no measurements published and no subgrades."
+    },
+    {
+      "id": "cgc",
+      "fit": "Collectors who want a low-cost human grade from a large company.",
+      "lacks": "Human grading with no published measurements."
+    },
+    {
+      "id": "arena",
+      "fit": "Collectors who want human graders backed by computer vision, with a report by QR code.",
+      "lacks": "People still set the grade, and pricing is not posted."
+    }
+  ],
+  "why": [
+    "The grade comes from a machine, so it does not depend on who is on shift. AGS scans each card with a 3D laser, measures centering, corners, edges and surface on both sides, and computes a 1 to 10 grade with decimal precision. Scan it again and AGS says the number holds.",
+    "Authentication is part of the scan. AGS says its system flags trimmed cards, recolored edges, altered surfaces and outright fakes, and it stores a digital fingerprint of every card. Anyone can check a slab by entering the cert number on agscard.com.",
+    "Turnaround is counted in days. AGS quotes 20 business days or less from the day your cards are confirmed, with 10 and 5 business day bulk tiers at $20 and $30 a card."
+  ],
+  "criteria": [
+    {
+      "name": "Who sets the grade",
+      "text": "An algorithm, or a person using tools. Weighted first."
+    },
+    {
+      "name": "What is measured",
+      "text": "Centering, corners, edges and surface, on both sides or one."
+    },
+    {
+      "name": "What is published",
+      "text": "Report, subgrades, weights, population data."
+    },
+    {
+      "name": "Price and speed",
+      "text": "Listed cost and turnaround."
+    },
+    {
+      "name": "Limits",
+      "text": "Card types the grader will not take."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a good AI grading company?",
+      "a": "AGS for a fully machine-set grade with a published method. TAG if you want imaging with expert review on modern cards."
+    },
+    {
+      "q": "How does AI card grading work?",
+      "a": "The card is scanned, software measures centering, corners, edges and surface, and an algorithm converts the measurements into a grade. AGS uses a 3D laser scan of roughly 30 million data points per card. No human opinion sets the number."
+    },
+    {
+      "q": "What are the newest grading companies?",
+      "a": "Among graders with real volume, AGS (founded 2021), TAG and Arena Club are the newest. All three lean on technology, in different ways."
+    },
+    {
+      "q": "Is AI grading more accurate than human grading?",
+      "a": "It is more repeatable. A machine applies the same thresholds to every card, while two human graders can disagree about the same one. What the market pays for the slab is a separate question, and PSA still leads there."
+    },
+    {
+      "q": "What grading scale does AGS use?",
+      "a": "1 to 10 with decimal precision. An AGS 10 is near-perfect measurable condition. A 9.5 has minor flaws that do not significantly affect condition."
+    }
+  ],
+  "related": [
+    "bestaicardgrader.com",
+    "bestaicardgradingcompany.com",
+    "aigradingcards.com",
+    "aicardgraders.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=aigradingcompany.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

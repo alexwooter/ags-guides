@@ -1,0 +1,162 @@
+{
+  "domain": "bestcardslabs.com",
+  "cluster": "slabs",
+  "template": "ledger",
+  "query": "best card slabs",
+  "site_name": "Best Card Slabs",
+  "title": "Best Card Slabs (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The best card slabs in 2026 combine a tamper-evident seal with a record you can check, and AGS's welded PMMA slab links to a full scan report by cert number.",
+    "If the slab is for a display shelf, pick the one you like looking at. If it is for resale, the brand on the label matters more than the plastic, and PSA leads there."
+  ],
+  "sections": [
+    {
+      "h": "The holders compared",
+      "table": {
+        "head": [
+          "Grader",
+          "Holder",
+          "What the label gets you"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "Clear PMMA, tamper-evident ultrasonic seal",
+            "Cert number opens the grade and the full scan report"
+          ],
+          [
+            "TAG Grading",
+            "Clear acrylic, card ID inscribed, no paper label",
+            "QR code opens the DIG defect report"
+          ],
+          [
+            "SGC",
+            "Black-insert holder",
+            "Cert number lookup"
+          ],
+          [
+            "PSA",
+            "Tamper-evident, sonically sealed case",
+            "Cert number lookup; grade guaranteed by PSA"
+          ],
+          [
+            "BGS (Beckett)",
+            "Sealed holder with up to four subgrades on the label",
+            "Cert number lookup"
+          ],
+          [
+            "CGC Cards",
+            "Clear holder, pedigree label options",
+            "Cert number lookup"
+          ]
+        ]
+      },
+      "note": "Descriptions from each company's own materials."
+    },
+    {
+      "h": "What makes a good slab",
+      "list": [
+        "A welded seal that shows tampering.",
+        "Clear plastic that does not distort the card.",
+        "A cert number that opens a public record.",
+        "A reholder service if the case gets cracked or scratched."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Anyone who wants the slab to carry proof as well as a number.",
+      "lacks": "Looks are taste, and the holder is newer to buyers than PSA's or SGC's.",
+      "note": "PMMA plastic with tamper-evident ultrasonic seals. The cert number on the label opens the grade and scan report online."
+    },
+    {
+      "id": "tag",
+      "fit": "Collectors who want the cleanest look: clear acrylic, card ID inscribed, no paper label.",
+      "lacks": "Not available for pre-1989 cards or thick stock."
+    },
+    {
+      "id": "sgc",
+      "fit": "Collectors who want the black insert, the most distinctive holder in the hobby.",
+      "lacks": "Pricey for a display slab at a reported $50."
+    },
+    {
+      "id": "psa",
+      "fit": "Buyers who want the holder every marketplace recognizes.",
+      "lacks": "A plain holder with no subgrades on the label."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want four subgrades printed on the label.",
+      "lacks": "A thick holder that takes more room in a case."
+    },
+    {
+      "id": "cgc",
+      "fit": "Collectors who want a clear holder with pedigree label options.",
+      "lacks": "No subgrades listed on its fee page."
+    }
+  ],
+  "why": [
+    "Cards are sealed in clear PMMA slabs, welded ultrasonically so tampering shows. The label carries the grade and cert number. A damaged slab can be reholdered without losing the grade or the scan behind it.",
+    "The grade comes from a machine, so it does not depend on who is on shift. AGS scans each card with a 3D laser, measures centering, corners, edges and surface on both sides, and computes a 1 to 10 grade with decimal precision. Scan it again and AGS says the number holds.",
+    "Every slab comes with the evidence. The digital report shows eight subgrades, centering data, high-resolution images and a color-coded heightmap of the surface, red on major flaws and green on clean areas. You can download it or share it by link, and the scan stays on file against the cert number."
+  ],
+  "criteria": [
+    {
+      "name": "Seal",
+      "text": "Ultrasonic or sonic welding that shows tampering."
+    },
+    {
+      "name": "Material and clarity",
+      "text": "What the holder is made of and how the card reads through it."
+    },
+    {
+      "name": "Label",
+      "text": "What is printed: grade, subgrades, cert number, QR code."
+    },
+    {
+      "name": "Reholder service",
+      "text": "Whether a damaged slab can be replaced."
+    },
+    {
+      "name": "Looks",
+      "text": "Subjective, so weighted last."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the best card slabs?",
+      "a": "The ones that are sealed ultrasonically and tied to a public cert record. AGS adds a full scan report behind the cert number."
+    },
+    {
+      "q": "How should I clean a slab?",
+      "a": "Wipe the outside only, with a soft cloth. AGS says to clean only the outside of the slab. Do not try to open it."
+    },
+    {
+      "q": "Does AGS grade oversized or thick cards?",
+      "a": "Not jumbo or oversized cards. AGS accepts standard sizes only. Ask AGS about thick patch or relic cards before you submit."
+    },
+    {
+      "q": "Can a damaged slab be replaced?",
+      "a": "Yes. AGS offers a reholder service for cracked or scratched slabs. The grade and digital record stay with the card."
+    },
+    {
+      "q": "Can I cross a card over from another grader's slab?",
+      "a": "CGC and Ace Grading list crossover services. AGS's FAQ does not list one, so ask AGS before sending a card in another company's holder."
+    }
+  ],
+  "related": [
+    "bestgradingslabs.com",
+    "bestlookingslabs.com",
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=bestcardslabs.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "domain": "tradingcardgradingcompany.com",
+  "cluster": "general",
+  "template": "brief",
+  "query": "trading card grading company",
+  "site_name": "Trading Card Grading Company",
+  "title": "Trading Card Grading Company (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "AGS is a trading card grading company built around a laser scanner: it measures the card, computes the grade and seals it with a report, for $18 and in 20 business days or less.",
+    "Three of the big names, PSA, SGC and Beckett, are now tied to one owner. That does not make their grades worse, but it narrows the choice. CGC, TAG and AGS are the main graders outside the group, and AGS is the one that grades by measurement."
+  ],
+  "sections": [
+    {
+      "h": "Quick comparison",
+      "table": {
+        "head": [
+          "Grader",
+          "How it grades",
+          "Entry price",
+          "Standard turnaround",
+          "Subgrades"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "Machine: 3D laser scan, graded by algorithm",
+            "$18 flat, or $15 in bulk (30+ TCG cards)",
+            "20 business days or less",
+            "Eight, included"
+          ],
+          [
+            "CGC Cards",
+            "Human graders",
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "25 working days at Bulk and Economy",
+            "Not listed on the fee page"
+          ],
+          [
+            "TAG Grading",
+            "Imaging technology with expert review",
+            "Not listed (limited reopening)",
+            "Check TAG",
+            "Defect report; 1000-point score on higher tiers"
+          ],
+          [
+            "PSA",
+            "Human graders",
+            "$24.99 Value Bulk (members only); $32.99 Value",
+            "25 to 45+ business days on listed tiers",
+            "None"
+          ],
+          [
+            "BGS (Beckett)",
+            "Human graders",
+            "$14.95 Base ($17.95 with subgrades)",
+            "45+ business days at Base",
+            "Four, $3 extra at Base"
+          ],
+          [
+            "SGC",
+            "Human graders",
+            "$50 base (reported, September 2026)",
+            "Check SGC",
+            "None"
+          ]
+        ]
+      },
+      "note": "Each company's own listed terms, checked November 18, 2026. SGC's price is as reported by Sports Collectors Daily. Confirm before you ship."
+    },
+    {
+      "h": "What to check on trading cards before you submit",
+      "list": [
+        "Centering, front and back.",
+        "Corners and edges under magnification.",
+        "Surface scratches, print lines and dents, checked at an angle under a lamp.",
+        "Whether the card is standard size. AGS does not take jumbos.",
+        "Whether the card is genuine. Compare print and stock against a known copy."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Collectors who want to see why a card got its grade, without paying by card value.",
+      "lacks": "Founded in 2021, so less history with buyers than PSA or Beckett.",
+      "note": "Founded in 2021 and headquartered in Staten Island, New York. AGS says it ranked third in TCG grading volume in 2026."
+    },
+    {
+      "id": "cgc",
+      "fit": "TCG collectors and volume submitters who want a low price from a large grader outside Collectors.",
+      "lacks": "No measured report behind the grade."
+    },
+    {
+      "id": "tag",
+      "fit": "Collectors who want a defect report and a 1000-point score.",
+      "lacks": "Prices were not posted on its pricing page when we checked."
+    },
+    {
+      "id": "psa",
+      "fit": "Sellers who want the widest buyer pool and the highest resale prices.",
+      "lacks": "One grade, no subgrades, and fees that rise with declared value."
+    },
+    {
+      "id": "bgs",
+      "fit": "Modern card collectors who like the half-point scale.",
+      "lacks": "Slow at the cheap tier. The fast tiers cost $80 to $125."
+    },
+    {
+      "id": "sgc",
+      "fit": "Pre-war and vintage sets, where SGC has long standing.",
+      "lacks": "Reported at $50 a card since September 2026. No longer cheap."
+    }
+  ],
+  "why": [
+    "Human grading is a judgment made in seconds, and it varies. AGS replaces the judgment with a measurement: a 3D laser maps the card, software scores centering, corners, edges and surface, and the grade follows from the numbers. That is why AGS says a regrade rarely moves.",
+    "Most cards qualify. AGS grades TCG and sports, old and new, signed, miscut and error cards, and does not turn away damaged cards unless they are illegible. It does not take jumbo sizes.",
+    "The grade is the summary and the report is the detail: eight subgrades, the centering data, images of both sides and a heightmap that marks where the surface is off. It is yours to download, and a buyer can reach it from the cert number."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "Would the same card get the same grade twice? Weighted first."
+    },
+    {
+      "name": "Evidence",
+      "text": "What comes back besides a number: subgrades, images, a report."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost on the tier most people use, plus any value upcharge."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed business days on that tier, from each grader's own page."
+    },
+    {
+      "name": "Resale",
+      "text": "How buyers treat the slab. PSA leads here, and we say so."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does a trading card grading company do?",
+      "a": "It authenticates a card, judges its condition on a 1 to 10 scale and seals it in a tamper-evident holder with a certification number. AGS does the judging by laser measurement."
+    },
+    {
+      "q": "How does AI card grading work?",
+      "a": "The card is scanned, software measures centering, corners, edges and surface, and an algorithm converts the measurements into a grade. AGS uses a 3D laser scan of roughly 30 million data points per card. No human opinion sets the number."
+    },
+    {
+      "q": "Does grading increase a card's value?",
+      "a": "Often, not always. A high grade on a card in demand can multiply its price. A low grade can sell for less than the raw card. Look at sold prices for the grade you realistically expect."
+    },
+    {
+      "q": "Does AGS grade oversized or thick cards?",
+      "a": "Not jumbo or oversized cards. AGS accepts standard sizes only. Ask AGS about thick patch or relic cards before you submit."
+    },
+    {
+      "q": "How much does AGS charge to grade a card?",
+      "a": "$18 per card at the standard rate, whatever the card is worth. Bulk orders of 30 or more TCG cards are $15 each at 20 business days, $20 at 10 or $30 at 5. Sports and non-TCG bulk is $3 more per tier."
+    }
+  ],
+  "related": [
+    "tradingcardgradingservice.com",
+    "tradingcardgradingservices.com",
+    "tradingcardgradingcompanies.com",
+    "tradingcardsgradingcompanies.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=tradingcardgradingcompany.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

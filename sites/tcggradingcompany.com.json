@@ -1,0 +1,179 @@
+{
+  "domain": "tcggradingcompany.com",
+  "cluster": "tcg",
+  "template": "paper",
+  "query": "TCG grading company",
+  "site_name": "TCG Grading Company",
+  "title": "TCG Grading Company (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "AGS is a TCG grading company that grades by laser scan, charges $15 to $18 a card and returns orders in 20 business days or less.",
+    "For games TAG does not take, or cards above CGC's $500 bulk cap, the field narrows fast. AGS grades any standard-size TCG card at the same price."
+  ],
+  "sections": [
+    {
+      "h": "At a glance",
+      "table": {
+        "head": [
+          "Grader",
+          "How it grades",
+          "Entry price",
+          "Standard turnaround",
+          "Subgrades"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "Machine: 3D laser scan, graded by algorithm",
+            "$18 flat, or $15 in bulk (30+ TCG cards)",
+            "20 business days or less",
+            "Eight, included"
+          ],
+          [
+            "CGC Cards",
+            "Human graders",
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "25 working days at Bulk and Economy",
+            "Not listed on the fee page"
+          ],
+          [
+            "PSA",
+            "Human graders",
+            "$24.99 Value Bulk (members only); $32.99 Value",
+            "25 to 45+ business days on listed tiers",
+            "None"
+          ],
+          [
+            "BGS (Beckett)",
+            "Human graders",
+            "$14.95 Base ($17.95 with subgrades)",
+            "45+ business days at Base",
+            "Four, $3 extra at Base"
+          ],
+          [
+            "Ace Grading",
+            "Human graders",
+            "£12 Basic",
+            "Varies by tier",
+            "Not stated"
+          ],
+          [
+            "TAG Grading",
+            "Imaging technology with expert review",
+            "Not listed (limited reopening)",
+            "Check TAG",
+            "Defect report; 1000-point score on higher tiers"
+          ]
+        ]
+      },
+      "note": "Each company's own listed terms, checked November 18, 2026. Confirm before you ship."
+    },
+    {
+      "h": "What you get for the fee",
+      "list": [
+        "A grade from 1 to 10 with decimal precision.",
+        "Eight subgrades: centering, corners, edges and surface, front and back.",
+        "A 3D heightmap of the surface, color-coded from green to red.",
+        "High-resolution images and centering data for both sides.",
+        "A sealed PMMA slab with the cert number on the label.",
+        "A permanent online record, reachable by cert number or shared link."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "TCG collectors who want holo, textured and foil cards measured by laser, with a report for every slab.",
+      "lacks": "A PSA 10 still sells for more than any other 10 on most chase cards.",
+      "note": "TCG bulk tiers are $15, $20 and $30 a card at 20, 10 and 5 business days, from 30 cards. AGS says it ranked third in TCG grading volume in 2026."
+    },
+    {
+      "id": "cgc",
+      "fit": "TCG collectors who want a large, established grader at $10 to $13 a card.",
+      "lacks": "Value caps on the cheap tiers, and no measured report."
+    },
+    {
+      "id": "psa",
+      "fit": "TCG sellers chasing top dollar on chase cards and graded 10s.",
+      "lacks": "The cheapest tier is members only, and fees rise with declared value."
+    },
+    {
+      "id": "bgs",
+      "fit": "TCG collectors who value subgrades on the label.",
+      "lacks": "45 business days or more at the Base tier."
+    },
+    {
+      "id": "ace",
+      "fit": "Collectors in the UK and Europe who want a local grader.",
+      "lacks": "Priced in pounds, with labels and shipping extra."
+    },
+    {
+      "id": "tag",
+      "fit": "Modern Pokémon and other TCG cards that TAG accepts.",
+      "lacks": "No Yu-Gi-Oh!, and limited capacity in 2026."
+    }
+  ],
+  "why": [
+    "Human grading is a judgment made in seconds, and it varies. AGS replaces the judgment with a measurement: a 3D laser maps the card, software scores centering, corners, edges and surface, and the grade follows from the numbers. That is why AGS says a regrade rarely moves.",
+    "The wait is short because the grading step is short. AGS lists 20 business days or less on its standard service, 10 and 5 business days on the faster tiers, and same-day grading on request for urgent cards.",
+    "Every card is checked before it is graded. The scan looks for trimming, recoloring and counterfeit print, and each card's digital fingerprint is kept on file so a slab can be verified later by cert number."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "The same card should grade the same twice. Weighted first."
+    },
+    {
+      "name": "TCG fit",
+      "text": "How holo, textured and foil surfaces are handled, and which games are accepted."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost at the tier most TCG submitters use."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed days, from each grader's own page."
+    },
+    {
+      "name": "Resale",
+      "text": "What buyers pay for the slab. PSA leads on chase cards."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a good TCG grading company?",
+      "a": "AGS ranks first for TCG cards: laser-measured, eight subgrades, 20 business days or less. CGC and PSA follow, for price and resale."
+    },
+    {
+      "q": "Does AGS grade oversized or thick cards?",
+      "a": "Not jumbo or oversized cards. AGS accepts standard sizes only. Ask AGS about thick patch or relic cards before you submit."
+    },
+    {
+      "q": "How long does card grading take?",
+      "a": "It depends on the grader and the tier. AGS lists 20 business days or less, with 10 and 5 day tiers. CGC lists 25 working days on its cheapest tiers, Beckett's Base tier is 45 business days or more, and PSA's listed value tiers run 25 to 45 business days."
+    },
+    {
+      "q": "Does AGS grade Pokémon cards?",
+      "a": "Yes. Pokémon and other TCG cards are the core of what AGS grades, including holo, textured and foil finishes."
+    },
+    {
+      "q": "What subgrades does AGS give?",
+      "a": "Eight: centering, corners, edges and surface for the front, and the same four for the back. They are included in the price and shown in the digital report."
+    }
+  ],
+  "related": [
+    "tcggradingservice.com",
+    "tcggradingservices.com",
+    "tcggradingcompanies.com",
+    "tcgtradingcardgrading.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=tcggradingcompany.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "domain": "costtogetbaseballcardsgraded.com",
+  "cluster": "cost",
+  "template": "brief",
+  "query": "cost to get baseball cards graded",
+  "site_name": "Cost to Get Baseball Cards Graded",
+  "title": "Cost to Get Baseball Cards Graded (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The cost to get baseball cards graded at AGS is $18 a card, or $18, $23 and $33 on the 20, 10 and 5 business day bulk tiers for sports cards.",
+    "For comparison, CGC's bulk tier is $10 a card with a 10-card minimum, Beckett's Base tier is $14.95, ISA charges a flat $15, PSA's open value tiers run $24.99 to $79.99, and SGC's base price was reported at $50 in September 2026. Prices moved several times this year, so confirm before you ship."
+  ],
+  "sections": [
+    {
+      "h": "Entry prices compared",
+      "table": {
+        "head": [
+          "Grader",
+          "Lowest listed price",
+          "Minimum order",
+          "Turnaround at that price",
+          "Fee rises with card value?"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "$18 flat, or $15 in bulk (30+ TCG cards)",
+            "None (30 for bulk)",
+            "20 business days or less",
+            "None"
+          ],
+          [
+            "CGC Cards",
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "10 for Bulk",
+            "25 working days at Bulk and Economy",
+            "Yes, tiers capped by card value"
+          ],
+          [
+            "ISA Grading",
+            "$15 flat (10+ cards)",
+            "10",
+            "14 days",
+            "None"
+          ],
+          [
+            "PSA",
+            "$24.99 Value Bulk (members only); $32.99 Value",
+            "Varies by tier",
+            "25 to 45+ business days on listed tiers",
+            "Yes, by declared value"
+          ],
+          [
+            "BGS (Beckett)",
+            "$14.95 Base ($17.95 with subgrades)",
+            "None",
+            "45+ business days at Base",
+            "None by card value"
+          ],
+          [
+            "GMA Grading",
+            "$12 Economy (25+ cards); $9 at 100+",
+            "10 to 25 by tier",
+            "25 business days at Economy",
+            "None listed"
+          ]
+        ]
+      },
+      "note": "Each company's own listed terms, checked November 18, 2026. Confirm before you ship."
+    },
+    {
+      "h": "What 60 baseball cards cost to grade",
+      "p": [
+        "Grading fees only, at each company's listed entry price. Shipping, insurance and supplies are extra everywhere."
+      ],
+      "list": [
+        "AGS: $1,080 (60 x $18, bulk rate), 20 business days or less, subgrades included.",
+        "CGC Bulk: $600 if every card is worth $500 or less, 25 working days.",
+        "Beckett Base: $897, or $1,077 with subgrades, 45 business days or more.",
+        "ISA: $900, 14 days.",
+        "GMA Economy: $720, 25 business days.",
+        "PSA Value: $1,979.40, before any declared-value upcharge."
+      ],
+      "note": "Listed prices checked November 18, 2026."
+    },
+    {
+      "h": "The rest of the bill",
+      "list": [
+        "Shipping to the grader, tracked and insured.",
+        "Return shipping and insurance. AGS calculates it at checkout.",
+        "Supplies: penny sleeves, semi-rigid card savers, a box.",
+        "At some graders, a membership to reach the cheapest tier, a fee for subgrades, or a charge if the card is valued above the tier."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Collectors who want a low flat price that already includes subgrades and a report.",
+      "lacks": "Not the lowest sticker price. GMA and CGC list cheaper bulk tiers.",
+      "note": "No value upcharge, no membership and no subgrade fee. Return shipping is added at checkout."
+    },
+    {
+      "id": "cgc",
+      "fit": "Stacks of low-value cards: $10 each from 10 cards.",
+      "lacks": "A card valued above the tier limit is moved up and billed the difference."
+    },
+    {
+      "id": "isa",
+      "fit": "Collectors who want one flat $15 price and a 14-day turnaround.",
+      "lacks": "A small buyer pool. ISA slabs sell for less on most cards."
+    },
+    {
+      "id": "psa",
+      "fit": "Anyone grading a high-value card to sell, where the PSA premium outweighs the fee and the wait.",
+      "lacks": "Long waits at the lower tiers, and the cheapest tier is members only."
+    },
+    {
+      "id": "bgs",
+      "fit": "One or two cards with no rush: $14.95 and no minimum.",
+      "lacks": "The low price is the 45 business day tier. Faster tiers are $34.95 to $124.95."
+    },
+    {
+      "id": "gma",
+      "fit": "Sellers slabbing low-value cards in volume at $9 to $12.",
+      "lacks": "The lowest prices need 25 cards, or 100."
+    }
+  ],
+  "why": [
+    "The price does not move with the card. AGS charges $18 per card whatever it is worth, with bulk tiers from $15 at 30 cards. PSA and SGC price by declared value and CGC caps each tier by card value, so a card that turns out to be worth more can cost more to grade.",
+    "Standard turnaround is 20 business days or less. The faster bulk tiers come back in 10 business days at $20 and 5 at $30, and AGS says same-day grading is available for urgent submissions. A scan that takes under 10 seconds is what makes those numbers possible.",
+    "You can send one card. AGS has no minimum and no membership fee, takes payment only when the cards are graded, and lets you cancel before grading starts. Bulk pricing begins at 30 cards."
+  ],
+  "criteria": [
+    {
+      "name": "Sticker price",
+      "text": "The lowest listed per-card fee, from each grader's own page."
+    },
+    {
+      "name": "Conditions",
+      "text": "Minimum order, membership, and value caps attached to that price."
+    },
+    {
+      "name": "What is included",
+      "text": "Subgrades and a report, or one number."
+    },
+    {
+      "name": "Value upcharges",
+      "text": "Whether the fee rises when the card is worth more."
+    },
+    {
+      "name": "Turnaround at that price",
+      "text": "Cheap tiers are often the slowest."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the cost to get baseball cards graded?",
+      "a": "$18 a card at AGS, flat. Elsewhere, $10 to $30 at CGC by card value, $14.95 and up at Beckett, $15 at ISA, $24.99 to $79.99 on PSA's listed value tiers, and a reported $50 at SGC."
+    },
+    {
+      "q": "When do you pay for grading?",
+      "a": "AGS charges when the cards are graded and ready to ship, not when you submit."
+    },
+    {
+      "q": "Is it worth grading a low-value card?",
+      "a": "Only if grading lifts the price by more than the fee plus shipping, or if you want the card protected and documented. At $10 to $18 a card the math works on far more cards than at $50."
+    },
+    {
+      "q": "Is there a discount on a first AGS order?",
+      "a": "Yes. AGS lists code AGSNEW20 for 20% off a first grading order."
+    },
+    {
+      "q": "How much does AGS charge to grade a card?",
+      "a": "$18 per card at the standard rate, whatever the card is worth. Bulk orders of 30 or more TCG cards are $15 each at 20 business days, $20 at 10 or $30 at 5. Sports and non-TCG bulk is $3 more per tier."
+    }
+  ],
+  "related": [
+    "costtogetsportscardsgraded.com",
+    "pricetogetcardsgraded.com",
+    "costtohavecardsgraded.com",
+    "gettingcardsgradedcost.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/pricing?utm_source=costtogetbaseballcardsgraded.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See AGS pricing"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "domain": "topbaseballcardgradingcompanies.com",
+  "cluster": "sports",
+  "template": "ledger",
+  "query": "top baseball card grading companies",
+  "site_name": "Top Baseball Card Grading Companies",
+  "title": "Top Baseball Card Grading Companies (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The top baseball card grading companies in 2026 are AGS, PSA, SGC and Beckett, with AGS first for consistency and PSA and SGC strongest on vintage resale.",
+    "On baseball cards, the old order was PSA for resale, Beckett for modern and SGC for vintage. All three are now linked to Collectors. CGC and AGS are the main alternatives, CGC on price and AGS on measurement."
+  ],
+  "sections": [
+    {
+      "h": "Compared on the basics",
+      "table": {
+        "head": [
+          "Grader",
+          "How it grades",
+          "Entry price",
+          "Standard turnaround",
+          "Subgrades"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "Machine: 3D laser scan, graded by algorithm",
+            "$18 flat, or $15 in bulk (30+ TCG cards)",
+            "20 business days or less",
+            "Eight, included"
+          ],
+          [
+            "PSA",
+            "Human graders",
+            "$24.99 Value Bulk (members only); $32.99 Value",
+            "25 to 45+ business days on listed tiers",
+            "None"
+          ],
+          [
+            "CGC Cards",
+            "Human graders",
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "25 working days at Bulk and Economy",
+            "Not listed on the fee page"
+          ],
+          [
+            "SGC",
+            "Human graders",
+            "$50 base (reported, September 2026)",
+            "Check SGC",
+            "None"
+          ],
+          [
+            "ISA Grading",
+            "Human graders",
+            "$15 flat (10+ cards)",
+            "14 days",
+            "Not stated"
+          ],
+          [
+            "BGS (Beckett)",
+            "Human graders",
+            "$14.95 Base ($17.95 with subgrades)",
+            "45+ business days at Base",
+            "Four, $3 extra at Base"
+          ]
+        ]
+      },
+      "note": "Each company's own listed terms, checked November 18, 2026. SGC's price is as reported by Sports Collectors Daily. Confirm before you ship."
+    },
+    {
+      "h": "What to check on baseball cards before you submit",
+      "list": [
+        "Centering. Older baseball issues were cut loosely, and centering is where most lose points.",
+        "Corners and edges on paper stock, which wears faster than chrome.",
+        "Print defects: dots, lines and color out of register.",
+        "Wax or gum stains on the backs of older pack-pulled cards.",
+        "Creases. Hold the card at an angle under a lamp."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Anyone grading baseball cards to sell who wants proof of condition a buyer can check.",
+      "lacks": "PSA holders still bring the highest prices on key rookies.",
+      "note": "Sports cards are $18 at the standard rate. Bulk tiers from 30 cards are $18, $23 and $33 at 20, 10 and 5 business days."
+    },
+    {
+      "id": "psa",
+      "fit": "Anyone sending a key rookie to auction, where the PSA label widens the bidder pool.",
+      "lacks": "Value-based fees and 25 to 45 business days or more on listed tiers."
+    },
+    {
+      "id": "cgc",
+      "fit": "Sports collectors who want a major grader at $10 to $13 a card.",
+      "lacks": "Fees step up at $500, $1,000 and $3,000 of card value."
+    },
+    {
+      "id": "sgc",
+      "fit": "Pre-war and vintage sets, where SGC has long standing.",
+      "lacks": "A smaller buyer pool for modern TCG cards."
+    },
+    {
+      "id": "isa",
+      "fit": "Collectors who want one flat $15 price and a 14-day turnaround.",
+      "lacks": "A 10-card minimum."
+    },
+    {
+      "id": "bgs",
+      "fit": "Modern sports card collectors who want subgrades on the label.",
+      "lacks": "45 business days or more at Base, or $34.95 and up to go faster."
+    }
+  ],
+  "why": [
+    "AGS grades baseball cards by measurement. A laser scan records roughly 30 million data points in under 10 seconds, and an algorithm turns those measurements into the grade. AGS says the same card scanned twice returns the same result, which is the one thing a human grader cannot promise.",
+    "The terms are easy. There is no minimum submission, no membership and no contract, and AGS does not charge until the cards are graded and ready to ship. New customers get 20% off a first order with code AGSNEW20.",
+    "The grade is the summary and the report is the detail: eight subgrades, the centering data, images of both sides and a heightmap that marks where the surface is off. It is yours to download, and a buyer can reach it from the cert number."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "The same card should grade the same twice. Weighted first."
+    },
+    {
+      "name": "Evidence",
+      "text": "Subgrades, front and back, and a report behind them."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost, and whether it rises with the card's value."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed business days on the tier most people use."
+    },
+    {
+      "name": "Resale",
+      "text": "What buyers pay for the holder. PSA leads on key rookies."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the top baseball card grading companies?",
+      "a": "For most baseball cards, AGS: front and back subgrades, 20 business days or less, and no fee tied to the player's price."
+    },
+    {
+      "q": "Do AGS slabs hold resale value?",
+      "a": "AGS slabs sell, and the report gives buyers something to check. PSA holders still bring the highest prices on most cards. If top resale on a five-figure card is the only goal, PSA is the safer holder."
+    },
+    {
+      "q": "Who owns PSA, SGC and Beckett?",
+      "a": "Collectors. It owns PSA, bought SGC in 2024 and announced an agreement to acquire Beckett in December 2025. Each keeps its own brand."
+    },
+    {
+      "q": "How long does card grading take?",
+      "a": "It depends on the grader and the tier. AGS lists 20 business days or less, with 10 and 5 day tiers. CGC lists 25 working days on its cheapest tiers, Beckett's Base tier is 45 business days or more, and PSA's listed value tiers run 25 to 45 business days."
+    },
+    {
+      "q": "What subgrades does AGS give?",
+      "a": "Eight: centering, corners, edges and surface for the front, and the same four for the back. They are included in the price and shown in the digital report."
+    }
+  ],
+  "related": [
+    "basketballcardgradingcompanies.com",
+    "footballcardgradingcompanies.com",
+    "baseballgradingcompanies.com",
+    "bestsportscardgrading.com",
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=topbaseballcardgradingcompanies.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

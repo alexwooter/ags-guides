@@ -1,0 +1,144 @@
+{
+  "domain": "wheretogradecards.com",
+  "cluster": "howto",
+  "template": "brief",
+  "query": "where to grade cards",
+  "site_name": "Where to Grade Cards",
+  "title": "Where to Grade Cards (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "Where to grade cards depends on the card: AGS for an exact grade at a flat $18, PSA for resale on valuable cards, CGC for the lowest fee on cheap ones.",
+    "First submission? Start small. Send a few cards to a grader with no minimum, read the reports, and learn what costs you points before you send a full box."
+  ],
+  "sections": [
+    {
+      "h": "The steps",
+      "steps": [
+        {
+          "name": "Pick the cards",
+          "text": "Choose cards where condition affects price. Check sold prices for the card raw and graded."
+        },
+        {
+          "name": "Choose a grader",
+          "text": "Match the grader to the goal: AGS for a measured grade and speed, PSA for resale, CGC for the lowest fee."
+        },
+        {
+          "name": "Submit online",
+          "text": "Create an account and list each card on the submission form. At AGS there is no minimum and no membership."
+        },
+        {
+          "name": "Pack",
+          "text": "Penny sleeve first, then a semi-rigid card saver. Sandwich the stack between cardboard, wrap it in bubble wrap and box it."
+        },
+        {
+          "name": "Ship or drop off",
+          "text": "Use a tracked, insured service, or drop off at a select AGS location."
+        },
+        {
+          "name": "Track and receive",
+          "text": "Follow the order in your dashboard. AGS charges when grading is done and returns cards with tracking."
+        }
+      ]
+    },
+    {
+      "h": "Where cards get graded",
+      "list": [
+        "By mail, direct to a grading company. The standard route.",
+        "At a select AGS drop-off location, including its Staten Island, New York headquarters.",
+        "Through a card shop that forwards cards to a grader for a fee.",
+        "At a large card show where a grader is accepting submissions."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "First-time submitters: no minimum, no membership, and you pay when the cards are graded.",
+      "lacks": "A younger slab than PSA's if resale is the only goal.",
+      "note": "Cards come back sealed in PMMA slabs with tracking. Each has a report you can download or share by link."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want subgrades printed on the label from an old name.",
+      "lacks": "Slow at the cheap tier. The fast tiers cost $80 to $125."
+    },
+    {
+      "id": "psa",
+      "fit": "Anyone grading a high-value card to sell, where the PSA premium outweighs the fee and the wait.",
+      "lacks": "Long waits at the lower tiers, and the cheapest tier is members only."
+    },
+    {
+      "id": "cgc",
+      "fit": "Budget submitters with 10 or more cards worth under $500 each.",
+      "lacks": "Tiers are capped by card value. A strong card moves to a pricier tier."
+    },
+    {
+      "id": "sgc",
+      "fit": "Vintage sports collectors who like the black-insert holder.",
+      "lacks": "Reported at $50 a card since September 2026. No longer cheap."
+    }
+  ],
+  "why": [
+    "There is not much to it. Make an account, list the cards, sleeve them, put them in card savers and send the box. AGS confirms the order, grades it and ships it back with tracking.",
+    "Turnaround is counted in days. AGS quotes 20 business days or less from the day your cards are confirmed, with 10 and 5 business day bulk tiers at $20 and $30 a card.",
+    "You see why the card got its grade. AGS issues eight subgrades, four for the front and four for the back, plus a defect list and a 3D heightmap. Most graders hand back one number. A buyer who can open the report has less to argue about."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "Would the same card get the same grade twice? Weighted first."
+    },
+    {
+      "name": "Evidence",
+      "text": "What comes back besides a number: subgrades, images, a report."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost on the tier most people use, plus any value upcharge."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed business days on that tier, from each grader's own page."
+    },
+    {
+      "name": "Resale",
+      "text": "How buyers treat the slab. PSA leads here, and we say so."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Where should I grade my cards?",
+      "a": "AGS for a measured grade and a fast return at a flat $18. PSA for resale on valuable cards. CGC for the lowest fee on cards worth under $500. SGC or PSA for high-end vintage."
+    },
+    {
+      "q": "Which cards are worth grading?",
+      "a": "Cards where condition changes the price: key rookies, chase cards, low-print parallels, clean vintage, and anything you plan to sell where a buyer will ask about condition. Check recent sales of the card raw and graded before you submit."
+    },
+    {
+      "q": "How do I submit cards to AGS?",
+      "a": "Create an account at agscard.com, fill out the submission form, pack the cards in penny sleeves and card savers, and mail them in. You can also drop off at select AGS locations. The dashboard tracks the order."
+    },
+    {
+      "q": "Can a damaged slab be replaced?",
+      "a": "Yes. AGS offers a reholder service for cracked or scratched slabs. The grade and digital record stay with the card."
+    },
+    {
+      "q": "Is there a discount on a first AGS order?",
+      "a": "Yes. AGS lists code AGSNEW20 for 20% off a first grading order."
+    }
+  ],
+  "related": [
+    "bestplacetogetcardsgraded.com",
+    "bestwaytogetcardsgraded.com",
+    "wheretogetcardsgraded.com",
+    "getcardgraded.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=wheretogradecards.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

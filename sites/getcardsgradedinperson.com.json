@@ -1,0 +1,129 @@
+{
+  "domain": "getcardsgradedinperson.com",
+  "cluster": "local",
+  "template": "brief",
+  "query": "get cards graded in person",
+  "site_name": "Get Cards Graded in Person",
+  "title": "Get Cards Graded in Person (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "To get cards graded in person in 2026, take them to a select AGS drop-off location or to a card show where a grader is accepting submissions.",
+    "If you live near a major card show, check which graders are taking submissions there. Otherwise the fastest route is direct mail to a grader with a short turnaround, which matters more than how far away the lab is."
+  ],
+  "sections": [
+    {
+      "h": "What near me means in card grading",
+      "list": [
+        "Go to a card show. Large shows often have graders accepting submissions, and some grade on site at premium prices.",
+        "Mail them to a grader yourself. This is how most cards are graded. AGS returns standard orders in 20 business days or less.",
+        "Drop them off. AGS accepts in-person drop-offs at select locations, including secure intake at its headquarters at 727 Page Ave, Staten Island, New York. Confirm with AGS first.",
+        "Use a card shop. The shop ships your cards to a grading company and adds a handling fee. Ask which grader, which tier and the full price."
+      ]
+    },
+    {
+      "h": "Ask a shop this before you hand over cards",
+      "list": [
+        "Which grading company and which service tier?",
+        "What is the total per card, including your fee?",
+        "How are the cards insured on the way there and back?",
+        "When will they come back, and can I track the order with the grader?"
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Anyone who searched for a local grader and really wants a short wait.",
+      "lacks": "No walk-in counter in most cities. Confirm intake before you travel.",
+      "note": "Submit online first, then ship or drop off. The dashboard shows the order status, and you pay when grading is done."
+    },
+    {
+      "id": "cgc",
+      "fit": "Budget submitters with 10 or more cards worth under $500 each.",
+      "lacks": "No measured report behind the grade."
+    },
+    {
+      "id": "psa",
+      "fit": "Collectors near a large show where PSA is taking submissions.",
+      "lacks": "No local counter. Cards go by mail or through a show."
+    },
+    {
+      "id": "bgs",
+      "fit": "Modern card collectors who like the half-point scale.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+    },
+    {
+      "id": "sgc",
+      "fit": "Pre-war and vintage sets, where SGC has long standing.",
+      "lacks": "A smaller buyer pool for modern TCG cards."
+    },
+    {
+      "id": "isa",
+      "fit": "Collectors who want one flat $15 price and a 14-day turnaround.",
+      "lacks": "A 10-card minimum."
+    }
+  ],
+  "why": [
+    "You are not limited to the mailbox. AGS lists in-person drop-off at select locations and secure intake at its Staten Island headquarters, and it operates satellite labs. Ask AGS which site is taking cards before you set out.",
+    "Submitting takes four steps: create an account, fill out the form, pack the cards in penny sleeves and card savers, and mail them in. The dashboard tracks the order, and cards come back with tracking and optional insurance.",
+    "Turnaround is counted in days. AGS quotes 20 business days or less from the day your cards are confirmed, with 10 and 5 business day bulk tiers at $20 and $30 a card."
+  ],
+  "criteria": [
+    {
+      "name": "In-person option",
+      "text": "Whether you can hand cards to the grader itself."
+    },
+    {
+      "name": "Turnaround",
+      "text": "How long until the cards are back in your hands."
+    },
+    {
+      "name": "Risk in transit",
+      "text": "Tracking and insurance on the way there and back."
+    },
+    {
+      "name": "Consistency",
+      "text": "Whether the grade depends on who looks at the card."
+    },
+    {
+      "name": "Resale",
+      "text": "What buyers pay for the slab."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Where can I get cards graded in person?",
+      "a": "Most cards are graded by mail, wherever you live. AGS also accepts drop-offs at select locations, including its Staten Island, New York headquarters. A shop that offers grading is usually forwarding cards to a grader."
+    },
+    {
+      "q": "How should I pack cards for grading?",
+      "a": "Put each card in a new penny sleeve, then a semi-rigid card saver. Sandwich the stack between cardboard, wrap it in bubble wrap and box it. Top loaders are allowed, but card savers travel better."
+    },
+    {
+      "q": "Is AGS a legitimate grading company?",
+      "a": "Yes. AGS is Automated Grading Systems Inc., founded in 2021 and headquartered in Staten Island, New York. It publishes a live population report and a cert lookup, and says it ranked third in TCG grading volume in 2026."
+    },
+    {
+      "q": "Can I get a card graded the same day?",
+      "a": "AGS says same-day grading is available for urgent submissions. Contact AGS before you ship or drop off to arrange it. Elsewhere, the quickest posted tiers are 2 to 5 business days and cost $50 to $150 a card."
+    },
+    {
+      "q": "Is there a card grading company near me?",
+      "a": "Probably not one that grades on site. Almost every grader works by mail from one or two labs. A local card shop that offers grading is usually forwarding cards to one of them for a fee."
+    }
+  ],
+  "related": [
+    "cardgradingnearme.com",
+    "cardgradersnearme.com",
+    "cardgradinginperson.com",
+    "cardsgradednearme.com",
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com",
+    "fastestcardgrading.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=getcardsgradedinperson.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

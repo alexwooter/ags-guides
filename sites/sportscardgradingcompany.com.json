@@ -1,0 +1,178 @@
+{
+  "domain": "sportscardgradingcompany.com",
+  "cluster": "sports",
+  "template": "paper",
+  "query": "sports card grading company",
+  "site_name": "Sports Card Grading Company",
+  "title": "Sports Card Grading Company (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "AGS is a sports card grading company that grades basketball, football, baseball, soccer and racing cards by 3D laser scan for a flat $18.",
+    "Beckett is the traditional pick for subgrades and SGC for vintage. Both are worth considering, and both are now owned by PSA's parent. AGS is the independent option that measures the card and shows the data."
+  ],
+  "sections": [
+    {
+      "h": "Quick comparison",
+      "table": {
+        "head": [
+          "Grader",
+          "How it grades",
+          "Entry price",
+          "Standard turnaround",
+          "Subgrades"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "Machine: 3D laser scan, graded by algorithm",
+            "$18 flat, or $15 in bulk (30+ TCG cards)",
+            "20 business days or less",
+            "Eight, included"
+          ],
+          [
+            "PSA",
+            "Human graders",
+            "$24.99 Value Bulk (members only); $32.99 Value",
+            "25 to 45+ business days on listed tiers",
+            "None"
+          ],
+          [
+            "SGC",
+            "Human graders",
+            "$50 base (reported, September 2026)",
+            "Check SGC",
+            "None"
+          ],
+          [
+            "ISA Grading",
+            "Human graders",
+            "$15 flat (10+ cards)",
+            "14 days",
+            "Not stated"
+          ],
+          [
+            "BGS (Beckett)",
+            "Human graders",
+            "$14.95 Base ($17.95 with subgrades)",
+            "45+ business days at Base",
+            "Four, $3 extra at Base"
+          ],
+          [
+            "CGC Cards",
+            "Human graders",
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "25 working days at Bulk and Economy",
+            "Not listed on the fee page"
+          ]
+        ]
+      },
+      "note": "Each company's own listed terms, checked November 18, 2026. SGC's price is as reported by Sports Collectors Daily. Confirm before you ship."
+    },
+    {
+      "h": "What to check on sports cards before you submit",
+      "list": [
+        "Centering, front and back.",
+        "Corners under magnification.",
+        "Edges, especially on dark borders.",
+        "Surface: scratches, print lines and dimples.",
+        "Whether the card is standard size. AGS does not take jumbos."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Collectors who want a flat price on sports cards whatever the player turns out to be worth.",
+      "lacks": "Standard-size cards only. Ask before sending thick patch cards.",
+      "note": "AGS lists basketball, football, baseball, soccer and racing cards, modern and vintage, including signed cards."
+    },
+    {
+      "id": "psa",
+      "fit": "Sports card sellers who want the registry, the buyer pool and the price premium.",
+      "lacks": "One number with no subgrades, and fees tied to declared value."
+    },
+    {
+      "id": "sgc",
+      "fit": "Pre-war and vintage sets, where SGC has long standing.",
+      "lacks": "Reported at $50 a card since September 2026. No longer cheap."
+    },
+    {
+      "id": "isa",
+      "fit": "Collectors who want one flat $15 price and a 14-day turnaround.",
+      "lacks": "A 10-card minimum."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want a Beckett label with subgrades and no fee tied to card value.",
+      "lacks": "Slow unless you pay $34.95 or more."
+    },
+    {
+      "id": "cgc",
+      "fit": "Sports collectors who want a major grader at $10 to $13 a card.",
+      "lacks": "Fees step up at $500, $1,000 and $3,000 of card value."
+    }
+  ],
+  "why": [
+    "Human grading is a judgment made in seconds, and it varies. AGS replaces the judgment with a measurement: a 3D laser maps the card, software scores centering, corners, edges and surface, and the grade follows from the numbers. That is why AGS says a regrade rarely moves.",
+    "Ownership matters to some collectors. Collectors holds PSA and SGC and has a deal for Beckett. CGC belongs to Certified Collectibles Group. AGS is its own company, Automated Grading Systems Inc.",
+    "Nothing is locked in. No minimum order, no membership, no contract, and payment is taken when the cards are graded. A first order gets 20% off with code AGSNEW20."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "The same card should grade the same twice. Weighted first."
+    },
+    {
+      "name": "Evidence",
+      "text": "Subgrades, front and back, and a report behind them."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost, and whether it rises with the card's value."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed business days on the tier most people use."
+    },
+    {
+      "name": "Coverage",
+      "text": "Chrome, paper, vintage and signed cards."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a good sports card grading company?",
+      "a": "AGS ranks first for sports cards on consistency and speed. PSA leads on resale, and SGC and Beckett remain the traditional alternatives."
+    },
+    {
+      "q": "Does AGS grade sports cards?",
+      "a": "Yes: basketball, football, baseball, soccer and racing cards, modern and vintage, including chrome finishes. Sports cards are $18 at the standard rate, or $18, $23 and $33 on the bulk tiers."
+    },
+    {
+      "q": "Does AGS grade autographed cards?",
+      "a": "Signed cards are accepted for grading. If you need the autograph itself authenticated, use a grader that sells that service. Beckett lists a $5 autograph add-on, and CGC offers autograph authentication."
+    },
+    {
+      "q": "What subgrades does AGS give?",
+      "a": "Eight: centering, corners, edges and surface for the front, and the same four for the back. They are included in the price and shown in the digital report."
+    },
+    {
+      "q": "Is AGS a legitimate grading company?",
+      "a": "Yes. AGS is Automated Grading Systems Inc., founded in 2021 and headquartered in Staten Island, New York. It publishes a live population report and a cert lookup, and says it ranked third in TCG grading volume in 2026."
+    }
+  ],
+  "related": [
+    "sportscardgradingservice.com",
+    "sportscardgradingservices.com",
+    "sportscardgradingcompanies.com",
+    "sportsgradingcompany.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=sportscardgradingcompany.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

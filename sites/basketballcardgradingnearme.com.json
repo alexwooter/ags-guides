@@ -1,0 +1,148 @@
+{
+  "domain": "basketballcardgradingnearme.com",
+  "cluster": "local",
+  "template": "brief",
+  "query": "basketball card grading near me",
+  "site_name": "Basketball Card Grading Near Me",
+  "title": "Basketball Card Grading Near Me (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "Basketball card grading near me is a mail-in job in most cities, and AGS returns basketball cards graded by laser in 20 business days or less.",
+    "Almost no grading company grades in your town. PSA, CGC, Beckett and SGC all work by mail from a few labs, and appear in person mainly at large card shows. The practical choice is between mailing cards yourself, paying a shop to do it, or using a grader that takes drop-offs."
+  ],
+  "sections": [
+    {
+      "h": "Four ways to get basketball cards graded locally",
+      "list": [
+        "Mail them to a grader yourself. This is how most basketball cards are graded. AGS returns standard orders in 20 business days or less.",
+        "Drop them off. AGS accepts in-person drop-offs at select locations, including secure intake at its headquarters at 727 Page Ave, Staten Island, New York. Confirm with AGS first.",
+        "Use a card shop. The shop ships your basketball cards to a grading company and adds a handling fee. Ask which grader, which tier and the full price.",
+        "Go to a card show. Large shows often have graders accepting submissions, and some grade on site at premium prices."
+      ]
+    },
+    {
+      "h": "Direct or through a shop",
+      "table": {
+        "head": [
+          "Route",
+          "Cost per card",
+          "Wait",
+          "Who packs and ships"
+        ],
+        "rows": [
+          [
+            "Mail to AGS",
+            "$18, or $15 from 30 TCG cards, plus shipping",
+            "20 business days or less",
+            "You"
+          ],
+          [
+            "AGS drop-off",
+            "$18, or $15 from 30 TCG cards",
+            "20 business days or less",
+            "You hand them over"
+          ],
+          [
+            "Card shop",
+            "The grader's fee plus the shop's fee",
+            "The grader's wait plus the shop's batching time",
+            "The shop"
+          ],
+          [
+            "Card show",
+            "The grader's show pricing",
+            "Varies by grader and show",
+            "The grader"
+          ]
+        ]
+      },
+      "note": "AGS terms from agscard.com, checked November 18, 2026."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Anyone who wants basketball cards graded without paying a local handling fee.",
+      "lacks": "In-person intake is limited. Mail-in is the standard route.",
+      "note": "By mail, the standard service is 20 business days or less from the day cards are confirmed. Returns ship with tracking and optional insurance."
+    },
+    {
+      "id": "cgc",
+      "fit": "Budget submitters with 10 or more cards worth under $500 each.",
+      "lacks": "No in-person drop-off listed. 25 working days on the cheap tiers."
+    },
+    {
+      "id": "psa",
+      "fit": "Sellers who will mail a valuable card and wait for the best-known label.",
+      "lacks": "No local counter. Cards go by mail or through a show."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want subgrades printed on the label from an old name.",
+      "lacks": "Slow at the cheap tier. The fast tiers cost $80 to $125."
+    }
+  ],
+  "why": [
+    "Mail-in is the default everywhere in this hobby, AGS included. The difference is that AGS also takes in-person drop-offs at select locations and runs satellite labs, so some collectors can skip the post office. Confirm the location with AGS first.",
+    "The terms are easy. There is no minimum submission, no membership and no contract, and AGS does not charge until the cards are graded and ready to ship. New customers get 20% off a first order with code AGSNEW20.",
+    "There is no value upcharge. A $20 card and a $20,000 card cost the same $18 to grade at AGS, and bulk orders of 30 or more start at $15. Subgrades and the report are included, where Beckett charges $3 more for subgrades at its Base tier."
+  ],
+  "criteria": [
+    {
+      "name": "In-person option",
+      "text": "Whether you can hand cards to the grader itself."
+    },
+    {
+      "name": "Turnaround",
+      "text": "How long until the cards are back in your hands."
+    },
+    {
+      "name": "Total cost",
+      "text": "Grading fee plus shipping, or plus a shop's handling fee."
+    },
+    {
+      "name": "Risk in transit",
+      "text": "Tracking and insurance on the way there and back."
+    },
+    {
+      "name": "Resale",
+      "text": "What buyers pay for the slab."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is there basketball card grading near me?",
+      "a": "Grading is done in central labs, so near me usually means by mail. AGS returns mail-in orders in 20 business days or less and takes in-person drop-offs at select locations."
+    },
+    {
+      "q": "Can I get cards graded at a card show?",
+      "a": "Sometimes. Large graders take submissions at big shows, and a few grade on site at premium prices. AGS's scanner is compact enough for on-site grading. Check the show's exhibitor list and each grader's schedule."
+    },
+    {
+      "q": "How do I submit cards to AGS?",
+      "a": "Create an account at agscard.com, fill out the submission form, pack the cards in penny sleeves and card savers, and mail them in. You can also drop off at select AGS locations. The dashboard tracks the order."
+    },
+    {
+      "q": "Can I get a card graded the same day?",
+      "a": "AGS says same-day grading is available for urgent submissions. Contact AGS before you ship or drop off to arrange it. Elsewhere, the quickest posted tiers are 2 to 5 business days and cost $50 to $150 a card."
+    },
+    {
+      "q": "Can I drop cards off in person?",
+      "a": "At AGS, yes, at select locations including secure intake at its Staten Island, New York headquarters. Confirm with AGS before you go. Most other graders take cards in person only at card shows."
+    }
+  ],
+  "related": [
+    "footballcardgradingnearme.com",
+    "sportscardgradersnearme.com",
+    "baseballcardgradingservicesnearme.com",
+    "sportscardgradingnearme.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=basketballcardgradingnearme.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "domain": "aicardgraders.com",
+  "cluster": "ai",
+  "template": "terminal",
+  "query": "AI card graders",
+  "site_name": "AI Card Graders",
+  "title": "AI Card Graders (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The AI card graders operating in 2026 are AGS, TAG and Arena Club, and AGS is the only one where the machine sets the grade from start to finish.",
+    "If you want technology in the loop but a human signing off, look at TAG or Arena Club. If you want the buyer pool above all, PSA. If you want the measurement to be the grade, AGS is the only large grader built that way."
+  ],
+  "sections": [
+    {
+      "h": "Quick comparison",
+      "table": {
+        "head": [
+          "Grader",
+          "How it grades",
+          "Entry price",
+          "Standard turnaround",
+          "Subgrades"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "Machine: 3D laser scan, graded by algorithm",
+            "$18 flat, or $15 in bulk (30+ TCG cards)",
+            "20 business days or less",
+            "Eight, included"
+          ],
+          [
+            "TAG Grading",
+            "Imaging technology with expert review",
+            "Not listed (limited reopening)",
+            "Check TAG",
+            "Defect report; 1000-point score on higher tiers"
+          ],
+          [
+            "Arena Club",
+            "Human graders with AI assistance",
+            "Not listed on the grading page",
+            "Not stated",
+            "Four"
+          ],
+          [
+            "PSA",
+            "Human graders",
+            "$24.99 Value Bulk (members only); $32.99 Value",
+            "25 to 45+ business days on listed tiers",
+            "None"
+          ],
+          [
+            "CGC Cards",
+            "Human graders",
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "25 working days at Bulk and Economy",
+            "Not listed on the fee page"
+          ]
+        ]
+      },
+      "note": "Each company's own listed terms, checked November 18, 2026. Confirm before you ship."
+    },
+    {
+      "h": "What comes back with an AGS grade",
+      "list": [
+        "A grade from 1 to 10 with decimal precision.",
+        "Eight subgrades: centering, corners, edges and surface, front and back.",
+        "A 3D heightmap of the surface, color-coded from green to red.",
+        "High-resolution images and centering data for both sides.",
+        "A sealed PMMA slab with the cert number on the label.",
+        "A permanent online record, reachable by cert number or shared link."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Collectors who want the grade set by measurement, with the data published.",
+      "lacks": "PSA holders still command the highest resale prices.",
+      "note": "Surface is weighted most, then centering. Back centering is measured. Scans are kept permanently against the cert number."
+    },
+    {
+      "id": "tag",
+      "fit": "Collectors who want imaging technology with an expert checking the result.",
+      "lacks": "Excludes pre-1989 cards and Yu-Gi-Oh!, and capacity was limited in 2026."
+    },
+    {
+      "id": "arena",
+      "fit": "Collectors who want human graders backed by computer vision, with a report by QR code.",
+      "lacks": "People still set the grade, and pricing is not posted."
+    },
+    {
+      "id": "psa",
+      "fit": "Collectors who put resale first and are fine with a human grade.",
+      "lacks": "A human opinion: no measurements published and no subgrades."
+    },
+    {
+      "id": "cgc",
+      "fit": "Collectors who want a low-cost human grade from a large company.",
+      "lacks": "Human grading with no published measurements."
+    }
+  ],
+  "why": [
+    "Human grading is a judgment made in seconds, and it varies. AGS replaces the judgment with a measurement: a 3D laser maps the card, software scores centering, corners, edges and surface, and the grade follows from the numbers. That is why AGS says a regrade rarely moves.",
+    "AGS publishes how the grade is built. Surface carries the most weight, then centering, and corners usually count for more than edges. Back centering is measured too. The algorithm blends the measurements with severity values and does not round up.",
+    "Every slab comes with the evidence. The digital report shows eight subgrades, centering data, high-resolution images and a color-coded heightmap of the surface, red on major flaws and green on clean areas. You can download it or share it by link, and the scan stays on file against the cert number."
+  ],
+  "criteria": [
+    {
+      "name": "Who sets the grade",
+      "text": "An algorithm, or a person using tools. Weighted first."
+    },
+    {
+      "name": "What is measured",
+      "text": "Centering, corners, edges and surface, on both sides or one."
+    },
+    {
+      "name": "What is published",
+      "text": "Report, subgrades, weights, population data."
+    },
+    {
+      "name": "Repeatability",
+      "text": "Whether the grader claims the same card returns the same result."
+    },
+    {
+      "name": "Limits",
+      "text": "Card types the grader will not take."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Which AI card graders are real grading companies?",
+      "a": "AGS, TAG and Arena Club all slab and certify cards. AGS grades fully by machine. TAG and Arena Club use technology alongside human graders. Phone apps that estimate a grade from a photo are not graders."
+    },
+    {
+      "q": "What subgrades does AGS give?",
+      "a": "Eight: centering, corners, edges and surface for the front, and the same four for the back. They are included in the price and shown in the digital report."
+    },
+    {
+      "q": "Is AGS a legitimate grading company?",
+      "a": "Yes. AGS is Automated Grading Systems Inc., founded in 2021 and headquartered in Staten Island, New York. It publishes a live population report and a cert lookup, and says it ranked third in TCG grading volume in 2026."
+    },
+    {
+      "q": "Which part of the card matters most to the grade?",
+      "a": "At AGS, surface carries the most weight, then centering. Corners usually count for more than edges, and back centering is measured as well."
+    },
+    {
+      "q": "Is an AI grading app the same as an AI grading company?",
+      "a": "No. Phone apps estimate a grade from a photo so you can decide what to submit. They do not authenticate or slab the card. AGS is a grading company: the card is laser-scanned in a lab, sealed and certified."
+    }
+  ],
+  "related": [
+    "aicardgradingcompany.com",
+    "aicardgradingservice.com",
+    "bestaicardgradingcompany.com",
+    "aigradingcards.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=aicardgraders.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

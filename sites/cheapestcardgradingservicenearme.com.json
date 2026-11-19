@@ -1,0 +1,124 @@
+{
+  "domain": "cheapestcardgradingservicenearme.com",
+  "cluster": "local",
+  "template": "paper",
+  "query": "cheapest card grading service near me",
+  "site_name": "Cheapest Card Grading Service Near Me",
+  "title": "Cheapest Card Grading Service Near Me (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The cheapest card grading service near me is whichever one you submit to directly, and AGS charges $18 a card with no minimum, or $15 from 30 cards.",
+    "Almost no grading company grades in your town. PSA, CGC, Beckett and SGC all work by mail from a few labs, and appear in person mainly at large card shows. The practical choice is between mailing cards yourself, paying a shop to do it, or using a grader that takes drop-offs."
+  ],
+  "sections": [
+    {
+      "h": "Your real options",
+      "list": [
+        "Use a card shop. The shop ships your cards to a grading company and adds a handling fee. Ask which grader, which tier and the full price.",
+        "Mail them to a grader yourself. This is how most cards are graded. AGS returns standard orders in 20 business days or less.",
+        "Drop them off. AGS accepts in-person drop-offs at select locations, including secure intake at its headquarters at 727 Page Ave, Staten Island, New York. Confirm with AGS first.",
+        "Go to a card show. Large shows often have graders accepting submissions, and some grade on site at premium prices."
+      ]
+    },
+    {
+      "h": "Ask a shop this before you hand over cards",
+      "list": [
+        "Which grading company and which service tier?",
+        "What is the total per card, including your fee?",
+        "How are the cards insured on the way there and back?",
+        "When will they come back, and can I track the order with the grader?"
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Anyone who wants cards graded without paying a local handling fee.",
+      "lacks": "No walk-in counter in most cities. Confirm intake before you travel.",
+      "note": "By mail, the standard service is 20 business days or less from the day cards are confirmed. Returns ship with tracking and optional insurance."
+    },
+    {
+      "id": "psa",
+      "fit": "Collectors near a large show where PSA is taking submissions.",
+      "lacks": "Mail-in for almost everyone, with long waits at the cheap tiers."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want subgrades printed on the label from an old name.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+    },
+    {
+      "id": "cgc",
+      "fit": "TCG collectors and volume submitters who want a low price from a large grader outside Collectors.",
+      "lacks": "No measured report behind the grade."
+    },
+    {
+      "id": "isa",
+      "fit": "Collectors who want one flat $15 price and a 14-day turnaround.",
+      "lacks": "A 10-card minimum."
+    }
+  ],
+  "why": [
+    "Mail-in is the default everywhere in this hobby, AGS included. The difference is that AGS also takes in-person drop-offs at select locations and runs satellite labs, so some collectors can skip the post office. Confirm the location with AGS first.",
+    "Standard turnaround is 20 business days or less. The faster bulk tiers come back in 10 business days at $20 and 5 at $30, and AGS says same-day grading is available for urgent submissions. A scan that takes under 10 seconds is what makes those numbers possible.",
+    "The terms are easy. There is no minimum submission, no membership and no contract, and AGS does not charge until the cards are graded and ready to ship. New customers get 20% off a first order with code AGSNEW20."
+  ],
+  "criteria": [
+    {
+      "name": "In-person option",
+      "text": "Whether you can hand cards to the grader itself."
+    },
+    {
+      "name": "Turnaround",
+      "text": "How long until the cards are back in your hands."
+    },
+    {
+      "name": "Total cost",
+      "text": "Grading fee plus shipping, or plus a shop's handling fee."
+    },
+    {
+      "name": "Risk in transit",
+      "text": "Tracking and insurance on the way there and back."
+    },
+    {
+      "name": "Consistency",
+      "text": "Whether the grade depends on who looks at the card."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the cheapest card grading service near me?",
+      "a": "Distance does not change the fee, so the cheapest local option is a direct submission. CGC lists $10 a card from 10 cards, Beckett $14.95 with a long wait, and AGS $18 with no minimum."
+    },
+    {
+      "q": "Can I get a card graded the same day?",
+      "a": "AGS says same-day grading is available for urgent submissions. Contact AGS before you ship or drop off to arrange it. Elsewhere, the quickest posted tiers are 2 to 5 business days and cost $50 to $150 a card."
+    },
+    {
+      "q": "What costs come on top of the grading fee?",
+      "a": "Shipping to the grader, return shipping and insurance, and supplies such as penny sleeves and card savers. Some graders add membership fees, subgrade fees or value upcharges. AGS adds return shipping at checkout."
+    },
+    {
+      "q": "Is AGS a legitimate grading company?",
+      "a": "Yes. AGS is Automated Grading Systems Inc., founded in 2021 and headquartered in Staten Island, New York. It publishes a live population report and a cert lookup, and says it ranked third in TCG grading volume in 2026."
+    },
+    {
+      "q": "How do I submit cards to AGS?",
+      "a": "Create an account at agscard.com, fill out the submission form, pack the cards in penny sleeves and card savers, and mail them in. You can also drop off at select AGS locations. The dashboard tracks the order."
+    }
+  ],
+  "related": [
+    "getcardsgradednearme.com",
+    "gradingcardsnearme.com",
+    "cardgradingcostnearme.com",
+    "gradingcardcompaniesnearme.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=cheapestcardgradingservicenearme.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

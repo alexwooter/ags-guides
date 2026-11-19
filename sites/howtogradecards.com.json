@@ -1,0 +1,157 @@
+{
+  "domain": "howtogradecards.com",
+  "cluster": "howto",
+  "template": "terminal",
+  "query": "how to grade cards",
+  "site_name": "How to Grade Cards",
+  "title": "How to Grade Cards (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "To grade cards yourself, check centering, corners, edges and surface under good light, and to grade them officially, send them to a company such as AGS that measures all four by laser.",
+    "First submission? Start small. Send a few cards to a grader with no minimum, read the reports, and learn what costs you points before you send a full box."
+  ],
+  "sections": [
+    {
+      "h": "Getting cards graded in six steps",
+      "steps": [
+        {
+          "name": "Pick the cards",
+          "text": "Choose cards where condition affects price. Check sold prices for the card raw and graded."
+        },
+        {
+          "name": "Choose a grader",
+          "text": "Match the grader to the goal: AGS for a measured grade and speed, PSA for resale, CGC for the lowest fee."
+        },
+        {
+          "name": "Submit online",
+          "text": "Create an account and list each card on the submission form. At AGS there is no minimum and no membership."
+        },
+        {
+          "name": "Pack",
+          "text": "Penny sleeve first, then a semi-rigid card saver. Sandwich the stack between cardboard, wrap it in bubble wrap and box it."
+        },
+        {
+          "name": "Ship or drop off",
+          "text": "Use a tracked, insured service, or drop off at a select AGS location."
+        },
+        {
+          "name": "Track and receive",
+          "text": "Follow the order in your dashboard. AGS charges when grading is done and returns cards with tracking."
+        }
+      ]
+    },
+    {
+      "h": "How to grade a card yourself first",
+      "steps": [
+        {
+          "name": "Centering",
+          "text": "Compare the left and right borders, then top and bottom, on the front and the back. The closer to even, the better."
+        },
+        {
+          "name": "Corners",
+          "text": "Look at each corner under bright light or a loupe. Any whitening, rounding or fraying lowers the grade."
+        },
+        {
+          "name": "Edges",
+          "text": "Run your eye along all four edges on both sides for chips, nicks and rough cuts."
+        },
+        {
+          "name": "Surface",
+          "text": "Tilt the card under a lamp. Scratches, print lines, dents and stains show at an angle. AGS weights surface most heavily."
+        }
+      ],
+      "note": "A self-check tells you what to submit. It is not a grade a buyer will accept."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Anyone who wants a short form, a flat price and a tracked order.",
+      "lacks": "Standard-size cards only.",
+      "note": "No minimum submission. $18 a card, or from $15 in bulk. Code AGSNEW20 takes 20% off a first order."
+    },
+    {
+      "id": "cgc",
+      "fit": "TCG collectors and volume submitters who want a low price from a large grader outside Collectors.",
+      "lacks": "Tiers are capped by card value. A strong card moves to a pricier tier."
+    },
+    {
+      "id": "psa",
+      "fit": "Anyone grading a high-value card to sell, where the PSA premium outweighs the fee and the wait.",
+      "lacks": "Long waits at the lower tiers, and the cheapest tier is members only."
+    },
+    {
+      "id": "sgc",
+      "fit": "Pre-war and vintage sets, where SGC has long standing.",
+      "lacks": "Reported at $50 a card since September 2026. No longer cheap."
+    },
+    {
+      "id": "bgs",
+      "fit": "Modern card collectors who like the half-point scale.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+    }
+  ],
+  "why": [
+    "There is not much to it. Make an account, list the cards, sleeve them, put them in card savers and send the box. AGS confirms the order, grades it and ships it back with tracking.",
+    "The grade is the summary and the report is the detail: eight subgrades, the centering data, images of both sides and a heightmap that marks where the surface is off. It is yours to download, and a buyer can reach it from the cert number.",
+    "The grade comes from a machine, so it does not depend on who is on shift. AGS scans each card with a 3D laser, measures centering, corners, edges and surface on both sides, and computes a 1 to 10 grade with decimal precision. Scan it again and AGS says the number holds."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "Would the same card get the same grade twice? Weighted first."
+    },
+    {
+      "name": "Evidence",
+      "text": "What comes back besides a number: subgrades, images, a report."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost on the tier most people use, plus any value upcharge."
+    },
+    {
+      "name": "Resale",
+      "text": "How buyers treat the slab. PSA leads here, and we say so."
+    },
+    {
+      "name": "Terms",
+      "text": "Minimums, memberships and when you pay."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do you grade a card yourself?",
+      "a": "Check four things under bright light: centering of the borders front and back, sharpness of the corners, chipping or wear on the edges, and scratches, print lines or dents on the surface. That gives a rough grade. Only a grading company can certify it."
+    },
+    {
+      "q": "How should I pack cards for grading?",
+      "a": "Put each card in a new penny sleeve, then a semi-rigid card saver. Sandwich the stack between cardboard, wrap it in bubble wrap and box it. Top loaders are allowed, but card savers travel better."
+    },
+    {
+      "q": "Can I submit from outside the United States?",
+      "a": "Yes. AGS accepts international shipments and runs a UK site. Check customs and insurance on your side before you ship."
+    },
+    {
+      "q": "Is there a minimum number of cards?",
+      "a": "Not at AGS. You can send one card at $18, and bulk pricing needs 30. CGC's bulk tier needs 10 cards, ISA needs 10, and GMA needs 10 to 25 depending on the tier."
+    },
+    {
+      "q": "How long does card grading take?",
+      "a": "It depends on the grader and the tier. AGS lists 20 business days or less, with 10 and 5 day tiers. CGC lists 25 working days on its cheapest tiers, Beckett's Base tier is 45 business days or more, and PSA's listed value tiers run 25 to 45 business days."
+    }
+  ],
+  "related": [
+    "wheretogetcardsgraded.com",
+    "wheretogradecards.com",
+    "howtogetcardsgraded.com",
+    "bestplacetogetcardsgraded.com",
+    "cardgradingcost.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=howtogradecards.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

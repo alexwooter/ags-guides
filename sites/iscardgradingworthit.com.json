@@ -1,0 +1,140 @@
+{
+  "domain": "iscardgradingworthit.com",
+  "cluster": "value",
+  "template": "ledger",
+  "query": "is card grading worth it",
+  "site_name": "Is Card Grading Worth It",
+  "title": "Is Card Grading Worth It? (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "Card grading is worth it when the graded card will sell for more than the raw card plus the fee, and AGS's flat $18 makes that true for more cards than a $50 fee does.",
+    "If the card is worth four figures or more in a high grade, compare PSA too. Its holder brings the highest prices, and on that kind of card the premium can cover a $33 to $80 fee several times over."
+  ],
+  "sections": [
+    {
+      "h": "Run the numbers",
+      "p": [
+        "Grading pays when the price at your likely grade, minus the raw price, is more than the grading fee plus shipping and selling costs.",
+        "An example with made-up numbers: a card sells raw for $60 and for $150 in the grade you expect. With an $18 fee and $10 of shipping, grading adds about $62. With a $50 fee it adds about $30. If the card comes back a grade lower and sells for $70, you lose money either way."
+      ],
+      "steps": [
+        {
+          "name": "Look up sold prices",
+          "text": "Find recent sales of the card raw and in the grades you might get. Use sold listings, not asking prices."
+        },
+        {
+          "name": "Be honest about condition",
+          "text": "Check centering, corners, edges and surface. Assume one grade below your hope."
+        },
+        {
+          "name": "Subtract the costs",
+          "text": "Grading fee, shipping both ways, and marketplace fees when you sell."
+        },
+        {
+          "name": "Decide per card",
+          "text": "Grade the ones that clear the bar. Sell or keep the rest raw."
+        }
+      ]
+    },
+    {
+      "h": "Usually worth grading, and usually not",
+      "list": [
+        "Worth it: key rookies, chase cards and low-print parallels in strong condition.",
+        "Worth it: clean vintage, where a grade settles arguments about condition.",
+        "Worth it: any card you will sell for several times the fee.",
+        "Not worth it: base cards and commons that sell for less than the fee.",
+        "Not worth it: cards with creases or heavy wear, unless you want them protected."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Collectors weighing whether a card is worth grading: a low flat fee widens the list of cards that are.",
+      "lacks": "On a card worth thousands, a PSA holder usually returns more.",
+      "note": "$18 a card, flat, with eight subgrades and a report. The report tells you what is wrong with a card even when the grade disappoints."
+    },
+    {
+      "id": "psa",
+      "fit": "Anyone grading a high-value card to sell, where the PSA premium outweighs the fee and the wait.",
+      "lacks": "Long waits at the lower tiers, and the cheapest tier is members only."
+    },
+    {
+      "id": "bgs",
+      "fit": "Modern card collectors who like the half-point scale.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+    },
+    {
+      "id": "isa",
+      "fit": "Small sellers who would rather not choose a tier.",
+      "lacks": "A 10-card minimum."
+    },
+    {
+      "id": "cgc",
+      "fit": "Budget submitters with 10 or more cards worth under $500 each.",
+      "lacks": "No measured report behind the grade."
+    }
+  ],
+  "why": [
+    "One price covers everything. $18 buys the scan, the grade, eight subgrades, the report and the slab, for any card at any value. Orders of 30 or more TCG cards pay $15 a card on the standard bulk tier.",
+    "The population report is live. It counts every card AGS has graded, by grade, and it is free to look up.",
+    "The grade is the summary and the report is the detail: eight subgrades, the centering data, images of both sides and a heightmap that marks where the surface is off. It is yours to download, and a buyer can reach it from the cert number."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "Would the same card get the same grade twice? Weighted first."
+    },
+    {
+      "name": "Evidence",
+      "text": "What comes back besides a number: subgrades, images, a report."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost on the tier most people use, plus any value upcharge."
+    },
+    {
+      "name": "Resale",
+      "text": "How buyers treat the slab. PSA leads here, and we say so."
+    },
+    {
+      "name": "Terms",
+      "text": "Minimums, memberships and when you pay."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is card grading worth it?",
+      "a": "Yes, for cards where condition drives price and the likely grade is high. No, for commons and for cards that will grade low. Compare sold prices for the raw card and for the grade you expect, then subtract the fee and shipping."
+    },
+    {
+      "q": "Can I ask for a regrade?",
+      "a": "AGS offers a grade review. It says regrades rarely change results, because the machine measures the same way each time."
+    },
+    {
+      "q": "When do you pay for grading?",
+      "a": "AGS charges when the cards are graded and ready to ship, not when you submit."
+    },
+    {
+      "q": "Which cards are worth grading?",
+      "a": "Cards where condition changes the price: key rookies, chase cards, low-print parallels, clean vintage, and anything you plan to sell where a buyer will ask about condition. Check recent sales of the card raw and graded before you submit."
+    },
+    {
+      "q": "Does AGS have a population report?",
+      "a": "Yes. It is real-time and includes every card AGS has graded."
+    }
+  ],
+  "related": [
+    "isgradingcardsworthit.com",
+    "bestcardstogetgraded.com",
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/pricing?utm_source=iscardgradingworthit.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See what AGS charges"
+  }
+}

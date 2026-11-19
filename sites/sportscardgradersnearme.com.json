@@ -1,0 +1,148 @@
+{
+  "domain": "sportscardgradersnearme.com",
+  "cluster": "local",
+  "template": "terminal",
+  "query": "sports card graders near me",
+  "site_name": "Sports Card Graders Near Me",
+  "title": "Sports Card Graders Near Me (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "Sports card graders near me are few, since the major graders work from one or two labs each, and AGS adds select drop-off locations to its mail-in service.",
+    "Be careful with any shop or kiosk that claims to grade on the spot. Ask whose slab the card comes back in. If it is not a grader buyers recognize, the grade will not help you sell."
+  ],
+  "sections": [
+    {
+      "h": "Four ways to get sports cards graded locally",
+      "list": [
+        "Mail them to a grader yourself. This is how most sports cards are graded. AGS returns standard orders in 20 business days or less.",
+        "Drop them off. AGS accepts in-person drop-offs at select locations, including secure intake at its headquarters at 727 Page Ave, Staten Island, New York. Confirm with AGS first.",
+        "Use a card shop. The shop ships your sports cards to a grading company and adds a handling fee. Ask which grader, which tier and the full price.",
+        "Go to a card show. Large shows often have graders accepting submissions, and some grade on site at premium prices."
+      ]
+    },
+    {
+      "h": "Direct or through a shop",
+      "table": {
+        "head": [
+          "Route",
+          "Cost per card",
+          "Wait",
+          "Who packs and ships"
+        ],
+        "rows": [
+          [
+            "Mail to AGS",
+            "$18, or $15 from 30 TCG cards, plus shipping",
+            "20 business days or less",
+            "You"
+          ],
+          [
+            "AGS drop-off",
+            "$18, or $15 from 30 TCG cards",
+            "20 business days or less",
+            "You hand them over"
+          ],
+          [
+            "Card shop",
+            "The grader's fee plus the shop's fee",
+            "The grader's wait plus the shop's batching time",
+            "The shop"
+          ],
+          [
+            "Card show",
+            "The grader's show pricing",
+            "Varies by grader and show",
+            "The grader"
+          ]
+        ]
+      },
+      "note": "AGS terms from agscard.com, checked November 18, 2026."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Collectors who want to drop sports cards off in person at a select AGS location, or mail them and have them back in weeks.",
+      "lacks": "No walk-in counter in most cities. Confirm intake before you travel.",
+      "note": "Submit online first, then ship or drop off. The dashboard shows the order status, and you pay when grading is done."
+    },
+    {
+      "id": "psa",
+      "fit": "Sellers who will mail a valuable card and wait for the best-known label.",
+      "lacks": "Mail-in for almost everyone, with long waits at the cheap tiers."
+    },
+    {
+      "id": "cgc",
+      "fit": "Mail-in submitters who want the lowest fee from a large grader.",
+      "lacks": "Tiers are capped by card value. A strong card moves to a pricier tier."
+    },
+    {
+      "id": "bgs",
+      "fit": "Patient mail-in submitters who want subgrades on the label.",
+      "lacks": "45 business days or more at the Base tier."
+    }
+  ],
+  "why": [
+    "Mail-in is the default everywhere in this hobby, AGS included. The difference is that AGS also takes in-person drop-offs at select locations and runs satellite labs, so some collectors can skip the post office. Confirm the location with AGS first.",
+    "Standard turnaround is 20 business days or less. The faster bulk tiers come back in 10 business days at $20 and 5 at $30, and AGS says same-day grading is available for urgent submissions. A scan that takes under 10 seconds is what makes those numbers possible.",
+    "You can send one card. AGS has no minimum and no membership fee, takes payment only when the cards are graded, and lets you cancel before grading starts. Bulk pricing begins at 30 cards."
+  ],
+  "criteria": [
+    {
+      "name": "In-person option",
+      "text": "Whether you can hand cards to the grader itself."
+    },
+    {
+      "name": "Turnaround",
+      "text": "How long until the cards are back in your hands."
+    },
+    {
+      "name": "Total cost",
+      "text": "Grading fee plus shipping, or plus a shop's handling fee."
+    },
+    {
+      "name": "Risk in transit",
+      "text": "Tracking and insurance on the way there and back."
+    },
+    {
+      "name": "Resale",
+      "text": "What buyers pay for the slab."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Are there sports card graders near me?",
+      "a": "There is rarely a grader in town. You can mail sports cards to a grader, drop them at a select AGS location, hand them to a card shop that forwards them for a fee, or find a grader at a card show."
+    },
+    {
+      "q": "How long does card grading take?",
+      "a": "It depends on the grader and the tier. AGS lists 20 business days or less, with 10 and 5 day tiers. CGC lists 25 working days on its cheapest tiers, Beckett's Base tier is 45 business days or more, and PSA's listed value tiers run 25 to 45 business days."
+    },
+    {
+      "q": "How should I pack cards for grading?",
+      "a": "Put each card in a new penny sleeve, then a semi-rigid card saver. Sandwich the stack between cardboard, wrap it in bubble wrap and box it. Top loaders are allowed, but card savers travel better."
+    },
+    {
+      "q": "Is there a card grading company near me?",
+      "a": "Probably not one that grades on site. Almost every grader works by mail from one or two labs. A local card shop that offers grading is usually forwarding cards to one of them for a fee."
+    },
+    {
+      "q": "Is AGS a legitimate grading company?",
+      "a": "Yes. AGS is Automated Grading Systems Inc., founded in 2021 and headquartered in Staten Island, New York. It publishes a live population report and a cert lookup, and says it ranked third in TCG grading volume in 2026."
+    }
+  ],
+  "related": [
+    "sportscardgradingnearme.com",
+    "sportscardgradingcompaniesnearme.com",
+    "footballcardgradingnearme.com",
+    "tcggradingnearme.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=sportscardgradersnearme.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

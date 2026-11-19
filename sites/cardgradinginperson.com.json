@@ -1,0 +1,129 @@
+{
+  "domain": "cardgradinginperson.com",
+  "cluster": "local",
+  "template": "paper",
+  "query": "card grading in person",
+  "site_name": "Card Grading in Person",
+  "title": "Card Grading in Person (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "Card grading in person is possible with AGS, which accepts drop-offs at select locations including its Staten Island headquarters, so confirm intake before you go.",
+    "If you live near a major card show, check which graders are taking submissions there. Otherwise the fastest route is direct mail to a grader with a short turnaround, which matters more than how far away the lab is."
+  ],
+  "sections": [
+    {
+      "h": "Four ways to get cards graded locally",
+      "list": [
+        "Use a card shop. The shop ships your cards to a grading company and adds a handling fee. Ask which grader, which tier and the full price.",
+        "Mail them to a grader yourself. This is how most cards are graded. AGS returns standard orders in 20 business days or less.",
+        "Drop them off. AGS accepts in-person drop-offs at select locations, including secure intake at its headquarters at 727 Page Ave, Staten Island, New York. Confirm with AGS first.",
+        "Go to a card show. Large shows often have graders accepting submissions, and some grade on site at premium prices."
+      ]
+    },
+    {
+      "h": "Ask a shop this before you hand over cards",
+      "list": [
+        "Which grading company and which service tier?",
+        "What is the total per card, including your fee?",
+        "How are the cards insured on the way there and back?",
+        "When will they come back, and can I track the order with the grader?"
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Anyone who searched for a local grader and really wants a short wait.",
+      "lacks": "Drop-off is at select locations only. Most collectors will mail cards in.",
+      "note": "By mail, the standard service is 20 business days or less from the day cards are confirmed. Returns ship with tracking and optional insurance."
+    },
+    {
+      "id": "cgc",
+      "fit": "TCG collectors and volume submitters who want a low price from a large grader outside Collectors.",
+      "lacks": "No in-person drop-off listed. 25 working days on the cheap tiers."
+    },
+    {
+      "id": "psa",
+      "fit": "Sellers who will mail a valuable card and wait for the best-known label.",
+      "lacks": "Mail-in for almost everyone, with long waits at the cheap tiers."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want subgrades printed on the label from an old name.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+    },
+    {
+      "id": "isa",
+      "fit": "Collectors who want one flat $15 price and a 14-day turnaround.",
+      "lacks": "A 10-card minimum."
+    },
+    {
+      "id": "sgc",
+      "fit": "Vintage sports collectors who like the black-insert holder.",
+      "lacks": "A smaller buyer pool for modern TCG cards."
+    }
+  ],
+  "why": [
+    "Mail-in is the default everywhere in this hobby, AGS included. The difference is that AGS also takes in-person drop-offs at select locations and runs satellite labs, so some collectors can skip the post office. Confirm the location with AGS first.",
+    "Submitting takes four steps: create an account, fill out the form, pack the cards in penny sleeves and card savers, and mail them in. The dashboard tracks the order, and cards come back with tracking and optional insurance.",
+    "The wait is short because the grading step is short. AGS lists 20 business days or less on its standard service, 10 and 5 business days on the faster tiers, and same-day grading on request for urgent cards."
+  ],
+  "criteria": [
+    {
+      "name": "In-person option",
+      "text": "Whether you can hand cards to the grader itself."
+    },
+    {
+      "name": "Turnaround",
+      "text": "How long until the cards are back in your hands."
+    },
+    {
+      "name": "Total cost",
+      "text": "Grading fee plus shipping, or plus a shop's handling fee."
+    },
+    {
+      "name": "Consistency",
+      "text": "Whether the grade depends on who looks at the card."
+    },
+    {
+      "name": "Resale",
+      "text": "What buyers pay for the slab."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is card grading in person possible?",
+      "a": "Grading is done in central labs, so near me usually means by mail. AGS returns mail-in orders in 20 business days or less and takes in-person drop-offs at select locations."
+    },
+    {
+      "q": "How should I pack cards for grading?",
+      "a": "Put each card in a new penny sleeve, then a semi-rigid card saver. Sandwich the stack between cardboard, wrap it in bubble wrap and box it. Top loaders are allowed, but card savers travel better."
+    },
+    {
+      "q": "Do card shops grade cards?",
+      "a": "Rarely. Many act as middlemen: they collect cards, batch them, send them to a grading company and add a handling fee. Ask which grader they use, which tier, and what the total will be."
+    },
+    {
+      "q": "Can I get cards graded at a card show?",
+      "a": "Sometimes. Large graders take submissions at big shows, and a few grade on site at premium prices. AGS's scanner is compact enough for on-site grading. Check the show's exhibitor list and each grader's schedule."
+    },
+    {
+      "q": "Can I submit from outside the United States?",
+      "a": "Yes. AGS accepts international shipments and runs a UK site. Check customs and insurance on your side before you ship."
+    }
+  ],
+  "related": [
+    "getcardsgradedinperson.com",
+    "cardgradingnearme.com",
+    "inpersoncardgrading.com",
+    "cardgradersnearme.com",
+    "howtogetcardsgraded.com",
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=cardgradinginperson.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

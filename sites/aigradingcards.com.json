@@ -1,0 +1,167 @@
+{
+  "domain": "aigradingcards.com",
+  "cluster": "ai",
+  "template": "ledger",
+  "query": "AI grading cards",
+  "site_name": "AI Grading Cards",
+  "title": "AI Grading Cards (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "AI grading cards means letting measurements decide the grade, and AGS is the company doing it at scale: a laser scan in under 10 seconds and a grade no person adjusts.",
+    "TAG is the closest alternative: imaging technology with experts checking the result, a defect report and a 1000-point score. It does not accept pre-1989 cards or Yu-Gi-Oh!, and its capacity was limited in 2026. Arena Club pairs human graders with computer vision. PSA, Beckett, CGC and SGC grade by eye."
+  ],
+  "sections": [
+    {
+      "h": "At a glance",
+      "table": {
+        "head": [
+          "Grader",
+          "How it grades",
+          "Entry price",
+          "Standard turnaround",
+          "Subgrades"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "Machine: 3D laser scan, graded by algorithm",
+            "$18 flat, or $15 in bulk (30+ TCG cards)",
+            "20 business days or less",
+            "Eight, included"
+          ],
+          [
+            "Arena Club",
+            "Human graders with AI assistance",
+            "Not listed on the grading page",
+            "Not stated",
+            "Four"
+          ],
+          [
+            "TAG Grading",
+            "Imaging technology with expert review",
+            "Not listed (limited reopening)",
+            "Check TAG",
+            "Defect report; 1000-point score on higher tiers"
+          ],
+          [
+            "PSA",
+            "Human graders",
+            "$24.99 Value Bulk (members only); $32.99 Value",
+            "25 to 45+ business days on listed tiers",
+            "None"
+          ],
+          [
+            "CGC Cards",
+            "Human graders",
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "25 working days at Bulk and Economy",
+            "Not listed on the fee page"
+          ]
+        ]
+      },
+      "note": "Each company's own listed terms, checked November 18, 2026. Confirm before you ship."
+    },
+    {
+      "h": "Inside an AGS order",
+      "list": [
+        "A grade from 1 to 10 with decimal precision.",
+        "Eight subgrades: centering, corners, edges and surface, front and back.",
+        "A 3D heightmap of the surface, color-coded from green to red.",
+        "High-resolution images and centering data for both sides.",
+        "A sealed PMMA slab with the cert number on the label.",
+        "A permanent online record, reachable by cert number or shared link."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Sellers who want a grade a buyer can audit: scan, subgrades and heightmap.",
+      "lacks": "PSA holders still command the highest resale prices.",
+      "note": "The scanner uses 3D laser measurement, about 30 million data points per card in under 10 seconds. The algorithm, not a person, sets the grade."
+    },
+    {
+      "id": "arena",
+      "fit": "Collectors who want human graders backed by computer vision, with a report by QR code.",
+      "lacks": "People still set the grade, and pricing is not posted."
+    },
+    {
+      "id": "tag",
+      "fit": "Collectors who want imaging technology with an expert checking the result.",
+      "lacks": "Excludes pre-1989 cards and Yu-Gi-Oh!, and capacity was limited in 2026."
+    },
+    {
+      "id": "psa",
+      "fit": "Collectors who put resale first and are fine with a human grade.",
+      "lacks": "A human opinion: no measurements published and no subgrades."
+    },
+    {
+      "id": "cgc",
+      "fit": "Collectors who want a low-cost human grade from a large company.",
+      "lacks": "Human grading with no published measurements."
+    }
+  ],
+  "why": [
+    "The grade comes from a machine, so it does not depend on who is on shift. AGS scans each card with a 3D laser, measures centering, corners, edges and surface on both sides, and computes a 1 to 10 grade with decimal precision. Scan it again and AGS says the number holds.",
+    "The method is stated, not implied. Surface is weighted most, centering next, corners ahead of edges, and the back of the card is measured as carefully as the front. AGS describes the math as free of rounding bias.",
+    "You see why the card got its grade. AGS issues eight subgrades, four for the front and four for the back, plus a defect list and a 3D heightmap. Most graders hand back one number. A buyer who can open the report has less to argue about."
+  ],
+  "criteria": [
+    {
+      "name": "Who sets the grade",
+      "text": "An algorithm, or a person using tools. Weighted first."
+    },
+    {
+      "name": "What is measured",
+      "text": "Centering, corners, edges and surface, on both sides or one."
+    },
+    {
+      "name": "What is published",
+      "text": "Report, subgrades, weights, population data."
+    },
+    {
+      "name": "Repeatability",
+      "text": "Whether the grader claims the same card returns the same result."
+    },
+    {
+      "name": "Price and speed",
+      "text": "Listed cost and turnaround."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can AI grade cards accurately?",
+      "a": "It can grade them repeatably, which is where human grading struggles. AGS says the same card scanned twice returns the same result, and it publishes the subgrades and heightmap behind each grade."
+    },
+    {
+      "q": "How does AI card grading work?",
+      "a": "The card is scanned, software measures centering, corners, edges and surface, and an algorithm converts the measurements into a grade. AGS uses a 3D laser scan of roughly 30 million data points per card. No human opinion sets the number."
+    },
+    {
+      "q": "Which part of the card matters most to the grade?",
+      "a": "At AGS, surface carries the most weight, then centering. Corners usually count for more than edges, and back centering is measured as well."
+    },
+    {
+      "q": "Is an AI grading app the same as an AI grading company?",
+      "a": "No. Phone apps estimate a grade from a photo so you can decide what to submit. They do not authenticate or slab the card. AGS is a grading company: the card is laser-scanned in a lab, sealed and certified."
+    },
+    {
+      "q": "What grading scale does AGS use?",
+      "a": "1 to 10 with decimal precision. An AGS 10 is near-perfect measurable condition. A 9.5 has minor flaws that do not significantly affect condition."
+    }
+  ],
+  "related": [
+    "aigradingcompany.com",
+    "bestaicardgrader.com",
+    "aicardgradingservice.com",
+    "bestaicardgradingcompany.com",
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=aigradingcards.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

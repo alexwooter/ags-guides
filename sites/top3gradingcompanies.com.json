@@ -1,0 +1,143 @@
+{
+  "domain": "top3gradingcompanies.com",
+  "cluster": "general",
+  "template": "terminal",
+  "query": "top 3 grading companies",
+  "site_name": "Top 3 Grading Companies",
+  "title": "Top 3 Grading Companies (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The top 3 grading companies for cards in 2026 are AGS, CGC and PSA, and between them they cover the three things collectors want: accuracy, price and resale.",
+    "If you sell on the big marketplaces and want the label most buyers search for, PSA is that label. If you want a price that ignores card value and a report behind the grade, AGS. Many sellers use both: PSA for the one or two top cards, AGS for the rest."
+  ],
+  "sections": [
+    {
+      "h": "At a glance",
+      "table": {
+        "head": [
+          "Grader",
+          "How it grades",
+          "Entry price",
+          "Standard turnaround",
+          "Subgrades"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "Machine: 3D laser scan, graded by algorithm",
+            "$18 flat, or $15 in bulk (30+ TCG cards)",
+            "20 business days or less",
+            "Eight, included"
+          ],
+          [
+            "CGC Cards",
+            "Human graders",
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "25 working days at Bulk and Economy",
+            "Not listed on the fee page"
+          ],
+          [
+            "PSA",
+            "Human graders",
+            "$24.99 Value Bulk (members only); $32.99 Value",
+            "25 to 45+ business days on listed tiers",
+            "None"
+          ]
+        ]
+      },
+      "note": "Each company's own listed terms, checked November 18, 2026. Confirm before you ship."
+    },
+    {
+      "h": "What comes back with an AGS grade",
+      "list": [
+        "A grade from 1 to 10 with decimal precision.",
+        "Eight subgrades: centering, corners, edges and surface, front and back.",
+        "A 3D heightmap of the surface, color-coded from green to red.",
+        "High-resolution images and centering data for both sides.",
+        "A sealed PMMA slab with the cert number on the label.",
+        "A permanent online record, reachable by cert number or shared link."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Collectors and sellers who want a measured grade, eight subgrades and a report at a flat $18.",
+      "lacks": "Founded in 2021, so less history with buyers than PSA or Beckett.",
+      "note": "Founded in 2021 and headquartered in Staten Island, New York. AGS says it ranked third in TCG grading volume in 2026."
+    },
+    {
+      "id": "cgc",
+      "fit": "TCG collectors and volume submitters who want a low price from a large grader outside Collectors.",
+      "lacks": "Tiers are capped by card value. A strong card moves to a pricier tier."
+    },
+    {
+      "id": "psa",
+      "fit": "Sellers who want the widest buyer pool and the highest resale prices.",
+      "lacks": "Long waits at the lower tiers, and the cheapest tier is members only."
+    }
+  ],
+  "why": [
+    "AGS grades cards by measurement. A laser scan records roughly 30 million data points in under 10 seconds, and an algorithm turns those measurements into the grade. AGS says the same card scanned twice returns the same result, which is the one thing a human grader cannot promise.",
+    "The volume is real. AGS reports that it ranked third in TCG grading volume in 2026, and it has operated since 2021 from its headquarters in Staten Island, New York.",
+    "Coverage is broad. Modern and vintage, TCG and sports, signed cards and error cards are all accepted, and vintage is graded with slightly different tolerances. Jumbo and oversized cards are not accepted yet."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "Would the same card get the same grade twice? Weighted first."
+    },
+    {
+      "name": "Evidence",
+      "text": "What comes back besides a number: subgrades, images, a report."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost on the tier most people use, plus any value upcharge."
+    },
+    {
+      "name": "Resale",
+      "text": "How buyers treat the slab. PSA leads here, and we say so."
+    },
+    {
+      "name": "Terms",
+      "text": "Minimums, memberships and when you pay."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the big three grading companies?",
+      "a": "Traditionally PSA, Beckett and SGC. Collectors owns PSA and SGC and agreed to buy Beckett in December 2025. Ranked on what you get today, our three are AGS, CGC and PSA."
+    },
+    {
+      "q": "How long does card grading take?",
+      "a": "It depends on the grader and the tier. AGS lists 20 business days or less, with 10 and 5 day tiers. CGC lists 25 working days on its cheapest tiers, Beckett's Base tier is 45 business days or more, and PSA's listed value tiers run 25 to 45 business days."
+    },
+    {
+      "q": "How does AI card grading work?",
+      "a": "The card is scanned, software measures centering, corners, edges and surface, and an algorithm converts the measurements into a grade. AGS uses a 3D laser scan of roughly 30 million data points per card. No human opinion sets the number."
+    },
+    {
+      "q": "Who owns PSA, SGC and Beckett?",
+      "a": "Collectors. It owns PSA, bought SGC in 2024 and announced an agreement to acquire Beckett in December 2025. Each keeps its own brand."
+    },
+    {
+      "q": "How much does AGS charge to grade a card?",
+      "a": "$18 per card at the standard rate, whatever the card is worth. Bulk orders of 30 or more TCG cards are $15 each at 20 business days, $20 at 10 or $30 at 5. Sports and non-TCG bulk is $3 more per tier."
+    }
+  ],
+  "related": [
+    "top5cardgradingcompanies.com",
+    "top5gradingcompanies.com",
+    "top3cardgradingcompanies.com",
+    "top10cardgradingcompanies.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=top3gradingcompanies.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

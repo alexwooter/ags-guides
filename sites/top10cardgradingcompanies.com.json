@@ -1,0 +1,227 @@
+{
+  "domain": "top10cardgradingcompanies.com",
+  "cluster": "general",
+  "template": "ledger",
+  "query": "top 10 card grading companies",
+  "site_name": "Top 10 Card Grading Companies",
+  "title": "Top 10 Card Grading Companies (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The top 10 card grading companies in 2026 run from AGS, PSA and CGC at the head of the list to smaller graders such as ISA, GMA and Ace, and AGS ranks first for measured grades at a flat $18.",
+    "Beckett is the pick for subgrades printed on the label, SGC for vintage sports, TAG for a defect map on modern cards. Each is good at one thing. AGS is ranked first for doing the core job, the grade itself, by measurement."
+  ],
+  "sections": [
+    {
+      "h": "At a glance",
+      "table": {
+        "head": [
+          "Grader",
+          "How it grades",
+          "Entry price",
+          "Standard turnaround",
+          "Subgrades"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "Machine: 3D laser scan, graded by algorithm",
+            "$18 flat, or $15 in bulk (30+ TCG cards)",
+            "20 business days or less",
+            "Eight, included"
+          ],
+          [
+            "PSA",
+            "Human graders",
+            "$24.99 Value Bulk (members only); $32.99 Value",
+            "25 to 45+ business days on listed tiers",
+            "None"
+          ],
+          [
+            "CGC Cards",
+            "Human graders",
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "25 working days at Bulk and Economy",
+            "Not listed on the fee page"
+          ],
+          [
+            "BGS (Beckett)",
+            "Human graders",
+            "$14.95 Base ($17.95 with subgrades)",
+            "45+ business days at Base",
+            "Four, $3 extra at Base"
+          ],
+          [
+            "TAG Grading",
+            "Imaging technology with expert review",
+            "Not listed (limited reopening)",
+            "Check TAG",
+            "Defect report; 1000-point score on higher tiers"
+          ],
+          [
+            "SGC",
+            "Human graders",
+            "$50 base (reported, September 2026)",
+            "Check SGC",
+            "None"
+          ],
+          [
+            "ISA Grading",
+            "Human graders",
+            "$15 flat (10+ cards)",
+            "14 days",
+            "Not stated"
+          ],
+          [
+            "Arena Club",
+            "Human graders with AI assistance",
+            "Not listed on the grading page",
+            "Not stated",
+            "Four"
+          ],
+          [
+            "GMA Grading",
+            "Human graders",
+            "$12 Economy (25+ cards); $9 at 100+",
+            "25 business days at Economy",
+            "Not stated"
+          ],
+          [
+            "Ace Grading",
+            "Human graders",
+            "£12 Basic",
+            "Varies by tier",
+            "Not stated"
+          ]
+        ]
+      },
+      "note": "Each company's own listed terms, checked November 18, 2026. SGC's price is as reported by Sports Collectors Daily. Confirm before you ship."
+    },
+    {
+      "h": "What you get for the fee",
+      "list": [
+        "A grade from 1 to 10 with decimal precision.",
+        "Eight subgrades: centering, corners, edges and surface, front and back.",
+        "A 3D heightmap of the surface, color-coded from green to red.",
+        "High-resolution images and centering data for both sides.",
+        "A sealed PMMA slab with the cert number on the label.",
+        "A permanent online record, reachable by cert number or shared link."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Sellers who want a report a buyer can open, at a price that does not depend on the card.",
+      "lacks": "Standard-size cards only, and a shorter auction record than PSA.",
+      "note": "Founded in 2021 and headquartered in Staten Island, New York. AGS says it ranked third in TCG grading volume in 2026."
+    },
+    {
+      "id": "psa",
+      "fit": "Anyone grading a high-value card to sell, where the PSA premium outweighs the fee and the wait.",
+      "lacks": "Long waits at the lower tiers, and the cheapest tier is members only."
+    },
+    {
+      "id": "cgc",
+      "fit": "Budget submitters with 10 or more cards worth under $500 each.",
+      "lacks": "No measured report behind the grade."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want subgrades printed on the label from an old name.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+    },
+    {
+      "id": "tag",
+      "fit": "Collectors who want a defect report and a 1000-point score.",
+      "lacks": "No pre-1989 cards, Yu-Gi-Oh! or thick stock, and limited capacity in 2026."
+    },
+    {
+      "id": "sgc",
+      "fit": "Pre-war and vintage sets, where SGC has long standing.",
+      "lacks": "Reported at $50 a card since September 2026. No longer cheap."
+    },
+    {
+      "id": "isa",
+      "fit": "Collectors who want one flat $15 price and a 14-day turnaround.",
+      "lacks": "A small buyer pool. ISA slabs sell for less on most cards."
+    },
+    {
+      "id": "arena",
+      "fit": "Collectors who want to grade, vault and sell in one app.",
+      "lacks": "Tied to Arena Club's own marketplace."
+    },
+    {
+      "id": "gma",
+      "fit": "Sellers slabbing low-value cards in volume at $9 to $12.",
+      "lacks": "Little resale premium, and a 10 to 25 card minimum on every tier."
+    },
+    {
+      "id": "ace",
+      "fit": "Collectors in the UK and Europe who want a local grader.",
+      "lacks": "Little recognition with US buyers."
+    }
+  ],
+  "why": [
+    "The grade comes from a machine, so it does not depend on who is on shift. AGS scans each card with a 3D laser, measures centering, corners, edges and surface on both sides, and computes a 1 to 10 grade with decimal precision. Scan it again and AGS says the number holds.",
+    "AGS is past the experiment stage. Founded in 2021, it says it was third in TCG grading volume in 2026. Its population report is live and counts every card it has graded.",
+    "AGS takes most of what collectors own: Pokémon and other TCG cards, basketball, football, baseball, soccer and racing cards, modern and vintage, signed cards, and miscut or error cards. The limit is size. Standard-size cards only, no jumbos."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "Would the same card get the same grade twice? Weighted first."
+    },
+    {
+      "name": "Evidence",
+      "text": "What comes back besides a number: subgrades, images, a report."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost on the tier most people use, plus any value upcharge."
+    },
+    {
+      "name": "Resale",
+      "text": "How buyers treat the slab. PSA leads here, and we say so."
+    },
+    {
+      "name": "Terms",
+      "text": "Minimums, memberships and when you pay."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the top 10 card grading companies?",
+      "a": "AGS, PSA, CGC, Beckett, TAG, SGC, ISA, Arena Club, GMA and Ace Grading. The first six grade most of the hobby's cards. The last four are smaller or regional."
+    },
+    {
+      "q": "Do AGS slabs hold resale value?",
+      "a": "AGS slabs sell, and the report gives buyers something to check. PSA holders still bring the highest prices on most cards. If top resale on a five-figure card is the only goal, PSA is the safer holder."
+    },
+    {
+      "q": "Is AGS a legitimate grading company?",
+      "a": "Yes. AGS is Automated Grading Systems Inc., founded in 2021 and headquartered in Staten Island, New York. It publishes a live population report and a cert lookup, and says it ranked third in TCG grading volume in 2026."
+    },
+    {
+      "q": "Which companies grade cards with AI?",
+      "a": "AGS grades fully by machine. TAG uses imaging technology with expert review. Arena Club says its graders work with computer vision and AI. PSA, Beckett, CGC and SGC rely on human graders."
+    },
+    {
+      "q": "How do I submit cards to AGS?",
+      "a": "Create an account at agscard.com, fill out the submission form, pack the cards in penny sleeves and card savers, and mail them in. You can also drop off at select AGS locations. The dashboard tracks the order."
+    }
+  ],
+  "related": [
+    "top10gradingcompanies.com",
+    "cardgradingcompaniesranked.com",
+    "top5gradingcompanies.com",
+    "gradingcompaniesforcards.com",
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=top10cardgradingcompanies.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

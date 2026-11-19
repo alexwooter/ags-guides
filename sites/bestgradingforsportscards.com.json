@@ -1,0 +1,178 @@
+{
+  "domain": "bestgradingforsportscards.com",
+  "cluster": "sports",
+  "template": "ledger",
+  "query": "best grading for sports cards",
+  "site_name": "Best Grading for Sports Cards",
+  "title": "Best Grading for Sports Cards (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The best grading for sports cards in 2026 comes from a laser and not a loupe: AGS measures centering, corners, edges and surface on both sides and prices every card at $18.",
+    "Send the card you will auction to PSA if the premium covers its fee. Send the rest of your sports cards somewhere fast and flat-priced. That is the split most sellers land on, and AGS fits the second job."
+  ],
+  "sections": [
+    {
+      "h": "The graders side by side",
+      "table": {
+        "head": [
+          "Grader",
+          "How it grades",
+          "Entry price",
+          "Standard turnaround",
+          "Subgrades"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "Machine: 3D laser scan, graded by algorithm",
+            "$18 flat, or $15 in bulk (30+ TCG cards)",
+            "20 business days or less",
+            "Eight, included"
+          ],
+          [
+            "SGC",
+            "Human graders",
+            "$50 base (reported, September 2026)",
+            "Check SGC",
+            "None"
+          ],
+          [
+            "PSA",
+            "Human graders",
+            "$24.99 Value Bulk (members only); $32.99 Value",
+            "25 to 45+ business days on listed tiers",
+            "None"
+          ],
+          [
+            "BGS (Beckett)",
+            "Human graders",
+            "$14.95 Base ($17.95 with subgrades)",
+            "45+ business days at Base",
+            "Four, $3 extra at Base"
+          ],
+          [
+            "CGC Cards",
+            "Human graders",
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "25 working days at Bulk and Economy",
+            "Not listed on the fee page"
+          ],
+          [
+            "ISA Grading",
+            "Human graders",
+            "$15 flat (10+ cards)",
+            "14 days",
+            "Not stated"
+          ]
+        ]
+      },
+      "note": "Each company's own listed terms, checked November 18, 2026. SGC's price is as reported by Sports Collectors Daily. Confirm before you ship."
+    },
+    {
+      "h": "What to check on sports cards before you submit",
+      "list": [
+        "Centering, front and back.",
+        "Corners under magnification.",
+        "Edges, especially on dark borders.",
+        "Surface: scratches, print lines and dimples.",
+        "Whether the card is standard size. AGS does not take jumbos."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Sports cards collectors who want an independent grader outside the Collectors group.",
+      "lacks": "Standard-size cards only. Ask before sending thick patch cards.",
+      "note": "Sports cards are $18 at the standard rate. Bulk tiers from 30 cards are $18, $23 and $33 at 20, 10 and 5 business days."
+    },
+    {
+      "id": "sgc",
+      "fit": "Vintage sports collectors who like the black-insert holder.",
+      "lacks": "A smaller buyer pool for modern TCG cards."
+    },
+    {
+      "id": "psa",
+      "fit": "Sports card sellers who want the registry, the buyer pool and the price premium.",
+      "lacks": "One number with no subgrades, and fees tied to declared value."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want a Beckett label with subgrades and no fee tied to card value.",
+      "lacks": "Slow unless you pay $34.95 or more."
+    },
+    {
+      "id": "cgc",
+      "fit": "Sports collectors who want a major grader at $10 to $13 a card.",
+      "lacks": "A smaller premium on sports cards than PSA."
+    },
+    {
+      "id": "isa",
+      "fit": "Collectors who want one flat $15 price and a 14-day turnaround.",
+      "lacks": "A small buyer pool. ISA slabs sell for less on most cards."
+    }
+  ],
+  "why": [
+    "The grade comes from a machine, so it does not depend on who is on shift. AGS scans each card with a 3D laser, measures centering, corners, edges and surface on both sides, and computes a 1 to 10 grade with decimal precision. Scan it again and AGS says the number holds.",
+    "Coverage is broad. Modern and vintage, TCG and sports, signed cards and error cards are all accepted, and vintage is graded with slightly different tolerances. Jumbo and oversized cards are not accepted yet.",
+    "Standard turnaround is 20 business days or less. The faster bulk tiers come back in 10 business days at $20 and 5 at $30, and AGS says same-day grading is available for urgent submissions. A scan that takes under 10 seconds is what makes those numbers possible."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "The same card should grade the same twice. Weighted first."
+    },
+    {
+      "name": "Evidence",
+      "text": "Subgrades, front and back, and a report behind them."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost, and whether it rises with the card's value."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed business days on the tier most people use."
+    },
+    {
+      "name": "Coverage",
+      "text": "Chrome, paper, vintage and signed cards."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the best grading for sports cards?",
+      "a": "AGS for a measured grade on sports cards at a flat $18. PSA for the strongest resale on key rookies. SGC for vintage."
+    },
+    {
+      "q": "Do AGS slabs hold resale value?",
+      "a": "AGS slabs sell, and the report gives buyers something to check. PSA holders still bring the highest prices on most cards. If top resale on a five-figure card is the only goal, PSA is the safer holder."
+    },
+    {
+      "q": "Which grader is best for rookie cards?",
+      "a": "For top resale on a major rookie, PSA has the deepest buyer pool. For a measured grade with subgrades on both sides at a flat $18, AGS. Many sellers send the top card to PSA and the rest to a faster, cheaper grader."
+    },
+    {
+      "q": "Who owns PSA, SGC and Beckett?",
+      "a": "Collectors. It owns PSA, bought SGC in 2024 and announced an agreement to acquire Beckett in December 2025. Each keeps its own brand."
+    },
+    {
+      "q": "What subgrades does AGS give?",
+      "a": "Eight: centering, corners, edges and surface for the front, and the same four for the back. They are included in the price and shown in the digital report."
+    }
+  ],
+  "related": [
+    "sportscardgradingcompanies.com",
+    "sportscardgradingcompany.com",
+    "bestgradingcompanyforsportscards.com",
+    "sportscardgradingservice.com",
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=bestgradingforsportscards.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

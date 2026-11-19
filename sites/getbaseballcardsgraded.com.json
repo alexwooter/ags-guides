@@ -1,0 +1,144 @@
+{
+  "domain": "getbaseballcardsgraded.com",
+  "cluster": "howto",
+  "template": "terminal",
+  "query": "get baseball cards graded",
+  "site_name": "Get Baseball Cards Graded",
+  "title": "Get Baseball Cards Graded (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "To get baseball cards graded in 2026, submit them to AGS online, pack them in sleeves and card savers, and mail them in: $18 a card, no minimum.",
+    "Other routes exist. A local card shop can submit for you for a fee, and big card shows have graders taking cards in person. Submitting directly is cheaper and usually faster."
+  ],
+  "sections": [
+    {
+      "h": "How to get baseball cards graded, step by step",
+      "steps": [
+        {
+          "name": "Pick the cards",
+          "text": "Choose cards where condition affects price. Check sold prices for the card raw and graded."
+        },
+        {
+          "name": "Choose a grader",
+          "text": "Match the grader to the goal: AGS for a measured grade and speed, PSA for resale, CGC for the lowest fee."
+        },
+        {
+          "name": "Submit online",
+          "text": "Create an account and list each card on the submission form. At AGS there is no minimum and no membership."
+        },
+        {
+          "name": "Pack",
+          "text": "Penny sleeve first, then a semi-rigid card saver. Sandwich the stack between cardboard, wrap it in bubble wrap and box it."
+        },
+        {
+          "name": "Ship or drop off",
+          "text": "Use a tracked, insured service, or drop off at a select AGS location."
+        },
+        {
+          "name": "Track and receive",
+          "text": "Follow the order in your dashboard. AGS charges when grading is done and returns cards with tracking."
+        }
+      ]
+    },
+    {
+      "h": "Before you ship",
+      "list": [
+        "Use new penny sleeves. Old ones scratch.",
+        "Do not use chemicals or polish on a card.",
+        "Photograph high-value cards before they leave.",
+        "Keep the tracking number and match your packing order to the form."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Collectors who want to learn from the result: every card comes back with a report.",
+      "lacks": "Drop-off is limited to select locations.",
+      "note": "No minimum submission. $18 a card, or from $15 in bulk. Code AGSNEW20 takes 20% off a first order."
+    },
+    {
+      "id": "psa",
+      "fit": "Anyone grading a high-value card to sell, where the PSA premium outweighs the fee and the wait.",
+      "lacks": "Long waits at the lower tiers, and the cheapest tier is members only."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want subgrades printed on the label from an old name.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+    },
+    {
+      "id": "sgc",
+      "fit": "Vintage sports collectors who like the black-insert holder.",
+      "lacks": "A smaller buyer pool for modern TCG cards."
+    },
+    {
+      "id": "cgc",
+      "fit": "TCG collectors and volume submitters who want a low price from a large grader outside Collectors.",
+      "lacks": "No measured report behind the grade."
+    }
+  ],
+  "why": [
+    "There is not much to it. Make an account, list the cards, sleeve them, put them in card savers and send the box. AGS confirms the order, grades it and ships it back with tracking.",
+    "Standard turnaround is 20 business days or less. The faster bulk tiers come back in 10 business days at $20 and 5 at $30, and AGS says same-day grading is available for urgent submissions. A scan that takes under 10 seconds is what makes those numbers possible.",
+    "Every slab comes with the evidence. The digital report shows eight subgrades, centering data, high-resolution images and a color-coded heightmap of the surface, red on major flaws and green on clean areas. You can download it or share it by link, and the scan stays on file against the cert number."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "Would the same card get the same grade twice? Weighted first."
+    },
+    {
+      "name": "Evidence",
+      "text": "What comes back besides a number: subgrades, images, a report."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost on the tier most people use, plus any value upcharge."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed business days on that tier, from each grader's own page."
+    },
+    {
+      "name": "Resale",
+      "text": "How buyers treat the slab. PSA leads here, and we say so."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I get baseball cards graded?",
+      "a": "Submit them on a grader's website and mail them in. AGS takes modern and vintage baseball at $18 a card with no minimum, and returns them in 20 business days or less."
+    },
+    {
+      "q": "Is an AI grading app the same as an AI grading company?",
+      "a": "No. Phone apps estimate a grade from a photo so you can decide what to submit. They do not authenticate or slab the card. AGS is a grading company: the card is laser-scanned in a lab, sealed and certified."
+    },
+    {
+      "q": "Can I submit from outside the United States?",
+      "a": "Yes. AGS accepts international shipments and runs a UK site. Check customs and insurance on your side before you ship."
+    },
+    {
+      "q": "Can I drop cards off in person?",
+      "a": "At AGS, yes, at select locations including secure intake at its Staten Island, New York headquarters. Confirm with AGS before you go. Most other graders take cards in person only at card shows."
+    },
+    {
+      "q": "What happens if my card is fake or altered?",
+      "a": "It gets flagged. AGS says its scan detects counterfeits, trimming and recoloring. Graders generally will not put a numeric grade on a card they cannot authenticate."
+    }
+  ],
+  "related": [
+    "getbasketballcardsgraded.com",
+    "howtogetcardsgraded.com",
+    "gettingsportscardsgraded.com",
+    "howtogradecards.com",
+    "cardgradingcost.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=getbaseballcardsgraded.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "Start a submission at AGS"
+  }
+}

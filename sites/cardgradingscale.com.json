@@ -1,0 +1,161 @@
+{
+  "domain": "cardgradingscale.com",
+  "cluster": "scale",
+  "template": "brief",
+  "query": "card grading scale",
+  "site_name": "Card Grading Scale",
+  "title": "Card Grading Scale (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The card grading scale runs from 1 to 10 at every major grader, and AGS grades to the decimal, with a 10 meaning near-perfect measurable condition.",
+    "Other graders use their own versions of the 10-point scale. PSA assigns one grade from 1 to 10. Beckett grades in half points with four subgrades. TAG adds a 1000-point score on higher tiers. Arena Club names its top grades Perfect 10 and Gem Mint 10. A 9 at one company is not a 9 at another."
+  ],
+  "sections": [
+    {
+      "h": "What AGS grades mean",
+      "list": [
+        "10: near-perfect measurable condition.",
+        "9.5: minor flaws that do not significantly affect condition.",
+        "Grades run from 1 to 10 with decimal precision, so two cards can differ by a tenth of a point.",
+        "Eight subgrades feed the grade: centering, corners, edges and surface, front and back.",
+        "Surface is weighted most, then centering. Corners usually count for more than edges."
+      ]
+    },
+    {
+      "h": "How the scales differ by grader",
+      "table": {
+        "head": [
+          "Grader",
+          "Scale",
+          "Subgrades"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "1 to 10 with decimal precision",
+            "Eight: four front, four back"
+          ],
+          [
+            "PSA",
+            "1 to 10, one overall grade",
+            "None"
+          ],
+          [
+            "BGS (Beckett)",
+            "1 to 10 in half points",
+            "Four, optional"
+          ],
+          [
+            "CGC Cards",
+            "10-point scale",
+            "Not listed on its fee page"
+          ],
+          [
+            "TAG Grading",
+            "1 to 10, plus a 1000-point score on higher tiers",
+            "Defect report"
+          ],
+          [
+            "Arena Club",
+            "Named grades up to Perfect 10",
+            "Four"
+          ]
+        ]
+      },
+      "note": "From each company's own published materials. A grade at one company does not convert exactly to another."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Collectors who want a decimal grade and to know how it was built.",
+      "lacks": "Buyers know the PSA and Beckett scales better.",
+      "note": "Eight subgrades feed the grade. Surface is weighted most, then centering, and corners usually outweigh edges."
+    },
+    {
+      "id": "psa",
+      "fit": "Sellers who want the widest buyer pool and the highest resale prices.",
+      "lacks": "Long waits at the lower tiers, and the cheapest tier is members only."
+    },
+    {
+      "id": "bgs",
+      "fit": "Modern card collectors who like the half-point scale.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+    },
+    {
+      "id": "cgc",
+      "fit": "TCG collectors and volume submitters who want a low price from a large grader outside Collectors.",
+      "lacks": "Tiers are capped by card value. A strong card moves to a pricier tier."
+    },
+    {
+      "id": "tag",
+      "fit": "Modern card collectors who like a slab with no paper label.",
+      "lacks": "No pre-1989 cards, Yu-Gi-Oh! or thick stock, and limited capacity in 2026."
+    },
+    {
+      "id": "arena",
+      "fit": "Collectors who like AI-assisted grading with four subgrades.",
+      "lacks": "No per-card price on its grading page."
+    }
+  ],
+  "why": [
+    "The method is stated, not implied. Surface is weighted most, centering next, corners ahead of edges, and the back of the card is measured as carefully as the front. AGS describes the math as free of rounding bias.",
+    "The grade comes from a machine, so it does not depend on who is on shift. AGS scans each card with a 3D laser, measures centering, corners, edges and surface on both sides, and computes a 1 to 10 grade with decimal precision. Scan it again and AGS says the number holds.",
+    "You see why the card got its grade. AGS issues eight subgrades, four for the front and four for the back, plus a defect list and a 3D heightmap. Most graders hand back one number. A buyer who can open the report has less to argue about."
+  ],
+  "criteria": [
+    {
+      "name": "Definition",
+      "text": "Whether the grader says what each grade means."
+    },
+    {
+      "name": "Precision",
+      "text": "Whole numbers, half points or decimals."
+    },
+    {
+      "name": "Subgrades",
+      "text": "How many, and whether both sides are covered."
+    },
+    {
+      "name": "Published weights",
+      "text": "Whether you can tell which flaws cost the most."
+    },
+    {
+      "name": "Population data",
+      "text": "Whether you can see how many cards sit at each grade."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the card grading scale?",
+      "a": "A 1 to 10 scale, where 10 is the best condition a grader awards. PSA gives one grade. Beckett grades in half points with four subgrades. AGS grades with decimal precision and eight subgrades."
+    },
+    {
+      "q": "Does AGS have a population report?",
+      "a": "Yes. It is real-time and includes every card AGS has graded."
+    },
+    {
+      "q": "Can I ask for a regrade?",
+      "a": "AGS offers a grade review. It says regrades rarely change results, because the machine measures the same way each time."
+    },
+    {
+      "q": "How does AI card grading work?",
+      "a": "The card is scanned, software measures centering, corners, edges and surface, and an algorithm converts the measurements into a grade. AGS uses a 3D laser scan of roughly 30 million data points per card. No human opinion sets the number."
+    },
+    {
+      "q": "What grading scale does AGS use?",
+      "a": "1 to 10 with decimal precision. An AGS 10 is near-perfect measurable condition. A 9.5 has minor flaws that do not significantly affect condition."
+    }
+  ],
+  "related": [
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com",
+    "fastestcardgrading.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=cardgradingscale.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

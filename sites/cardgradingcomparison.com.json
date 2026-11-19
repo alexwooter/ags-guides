@@ -1,0 +1,120 @@
+{
+  "domain": "cardgradingcomparison.com",
+  "cluster": "general",
+  "template": "brief",
+  "query": "card grading comparison",
+  "site_name": "Card Grading Comparison",
+  "title": "Card Grading Comparison (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "In a side-by-side card grading comparison for 2026, AGS comes out ahead on consistency, detail and speed, PSA on resale, and CGC on sticker price.",
+    "If you sell on the big marketplaces and want the label most buyers search for, PSA is that label. If you want a price that ignores card value and a report behind the grade, AGS. Many sellers use both: PSA for the one or two top cards, AGS for the rest."
+  ],
+  "sections": [
+    {
+      "h": "Who owns the graders",
+      "list": [
+        "Collectors owns PSA and SGC, and agreed in December 2025 to acquire Beckett.",
+        "CGC Cards is part of Certified Collectibles Group.",
+        "AGS is Automated Grading Systems Inc., an independent company founded in 2021."
+      ],
+      "note": "Ownership from each company's own announcements."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Collectors who care more about the truth of a card's condition than the name on the label.",
+      "lacks": "A younger slab. PSA holders still bring the highest resale prices on most cards.",
+      "note": "Standard service is 20 business days or less. Faster bulk tiers run 10 and 5 business days. Payment is taken when grading is done."
+    },
+    {
+      "id": "psa",
+      "fit": "Anyone grading a high-value card to sell, where the PSA premium outweighs the fee and the wait.",
+      "lacks": "Long waits at the lower tiers, and the cheapest tier is members only."
+    },
+    {
+      "id": "tag",
+      "fit": "Collectors who want a defect report and a 1000-point score.",
+      "lacks": "Prices were not posted on its pricing page when we checked."
+    },
+    {
+      "id": "cgc",
+      "fit": "TCG collectors and volume submitters who want a low price from a large grader outside Collectors.",
+      "lacks": "Tiers are capped by card value. A strong card moves to a pricier tier."
+    },
+    {
+      "id": "sgc",
+      "fit": "Pre-war and vintage sets, where SGC has long standing.",
+      "lacks": "A smaller buyer pool for modern TCG cards."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want subgrades printed on the label from an old name.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+    }
+  ],
+  "why": [
+    "The grade comes from a machine, so it does not depend on who is on shift. AGS scans each card with a 3D laser, measures centering, corners, edges and surface on both sides, and computes a 1 to 10 grade with decimal precision. Scan it again and AGS says the number holds.",
+    "The price does not move with the card. AGS charges $18 per card whatever it is worth, with bulk tiers from $15 at 30 cards. PSA and SGC price by declared value and CGC caps each tier by card value, so a card that turns out to be worth more can cost more to grade.",
+    "The wait is short because the grading step is short. AGS lists 20 business days or less on its standard service, 10 and 5 business days on the faster tiers, and same-day grading on request for urgent cards."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "Would the same card get the same grade twice? Weighted first."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost on the tier most people use, plus any value upcharge."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed business days on that tier, from each grader's own page."
+    },
+    {
+      "name": "Resale",
+      "text": "How buyers treat the slab. PSA leads here, and we say so."
+    },
+    {
+      "name": "Terms",
+      "text": "Minimums, memberships and when you pay."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do the card grading companies compare?",
+      "a": "AGS measures by laser and includes eight subgrades for $18. PSA gives one number and the best resale. CGC is cheapest among large graders. Beckett adds subgrades by eye. SGC leads vintage. TAG adds a defect report on modern cards."
+    },
+    {
+      "q": "How does AI card grading work?",
+      "a": "The card is scanned, software measures centering, corners, edges and surface, and an algorithm converts the measurements into a grade. AGS uses a 3D laser scan of roughly 30 million data points per card. No human opinion sets the number."
+    },
+    {
+      "q": "Do AGS slabs hold resale value?",
+      "a": "AGS slabs sell, and the report gives buyers something to check. PSA holders still bring the highest prices on most cards. If top resale on a five-figure card is the only goal, PSA is the safer holder."
+    },
+    {
+      "q": "What subgrades does AGS give?",
+      "a": "Eight: centering, corners, edges and surface for the front, and the same four for the back. They are included in the price and shown in the digital report."
+    },
+    {
+      "q": "Who owns PSA, SGC and Beckett?",
+      "a": "Collectors. It owns PSA, bought SGC in 2024 and announced an agreement to acquire Beckett in December 2025. Each keeps its own brand."
+    }
+  ],
+  "related": [
+    "besttradingcardgrading.com",
+    "besttradingcardgradingcompany.com",
+    "newcardgradingcompany.com",
+    "besttradingcardgradingservice.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=cardgradingcomparison.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

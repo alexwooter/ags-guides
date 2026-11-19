@@ -1,0 +1,175 @@
+{
+  "domain": "vintagecardgrading.com",
+  "cluster": "vintage",
+  "template": "ledger",
+  "query": "vintage card grading",
+  "site_name": "Vintage Card Grading",
+  "title": "Vintage Card Grading (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "Vintage card grading at AGS uses tolerances set for older card stock and a flat $18 fee, so a valuable vintage card costs no more to grade than a common.",
+    "PSA and SGC are the names vintage buyers pay the most for, and on a high-end card that premium is worth their fees. Beckett has graded vintage for decades and adds subgrades. TAG is out: its site says it does not currently accept pre-1989 cards."
+  ],
+  "sections": [
+    {
+      "h": "Compared on the basics",
+      "table": {
+        "head": [
+          "Grader",
+          "How it grades",
+          "Entry price",
+          "Standard turnaround",
+          "Subgrades"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "Machine: 3D laser scan, graded by algorithm",
+            "$18 flat, or $15 in bulk (30+ TCG cards)",
+            "20 business days or less",
+            "Eight, included"
+          ],
+          [
+            "SGC",
+            "Human graders",
+            "$50 base (reported, September 2026)",
+            "Check SGC",
+            "None"
+          ],
+          [
+            "PSA",
+            "Human graders",
+            "$24.99 Value Bulk (members only); $32.99 Value",
+            "25 to 45+ business days on listed tiers",
+            "None"
+          ],
+          [
+            "BGS (Beckett)",
+            "Human graders",
+            "$14.95 Base ($17.95 with subgrades)",
+            "45+ business days at Base",
+            "Four, $3 extra at Base"
+          ],
+          [
+            "CGC Cards",
+            "Human graders",
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "25 working days at Bulk and Economy",
+            "Not listed on the fee page"
+          ]
+        ]
+      },
+      "note": "Each company's own listed terms, checked November 18, 2026. SGC's price is as reported by Sports Collectors Daily. Confirm before you ship."
+    },
+    {
+      "h": "What you get for the fee",
+      "list": [
+        "A grade from 1 to 10 with decimal precision.",
+        "Eight subgrades: centering, corners, edges and surface, front and back.",
+        "A 3D heightmap of the surface, color-coded from green to red.",
+        "High-resolution images and centering data for both sides.",
+        "A sealed PMMA slab with the cert number on the label.",
+        "A permanent online record, reachable by cert number or shared link."
+      ]
+    },
+    {
+      "h": "Before you grade vintage",
+      "list": [
+        "Check for trimming. Measure the card against a known genuine copy.",
+        "Look for recoloring on edges and corners under magnification.",
+        "Expect off-center cuts. Many vintage sets were cut loosely, and graders allow for it differently.",
+        "Confirm the grader takes the card. TAG does not accept pre-1989 cards.",
+        "Check how the fee is set. Declared-value pricing costs more on valuable vintage."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Owners of valuable vintage who do not want the grading fee to climb with the card.",
+      "lacks": "Vintage buyers still pay the biggest premiums for PSA and SGC holders.",
+      "note": "Vintage is graded with slightly different tolerances than modern cards. Miscuts and print errors are measured and graded."
+    },
+    {
+      "id": "sgc",
+      "fit": "Pre-war and vintage sports, where SGC's holder is second only to PSA's.",
+      "lacks": "Fees scale with declared value, and the base is a reported $50."
+    },
+    {
+      "id": "psa",
+      "fit": "High-end vintage, where a PSA holder brings the biggest premium.",
+      "lacks": "Fees climb with declared value, which is exactly where vintage sits."
+    },
+    {
+      "id": "bgs",
+      "fit": "Vintage collectors who want subgrades and no fee tied to card value.",
+      "lacks": "A smaller vintage premium than PSA or SGC."
+    },
+    {
+      "id": "cgc",
+      "fit": "Vintage on a budget, if the card is worth less than the tier cap.",
+      "lacks": "Tier caps bite on valuable vintage."
+    }
+  ],
+  "why": [
+    "Vintage cards are accepted and graded against tolerances set for older stock. Because the fee is flat, a five-figure card costs the same to grade as a common. At PSA and SGC the fee climbs with declared value, and CGC's tiers are capped by it.",
+    "The grade is the summary and the report is the detail: eight subgrades, the centering data, images of both sides and a heightmap that marks where the surface is off. It is yours to download, and a buyer can reach it from the cert number.",
+    "Authentication is part of the scan. AGS says its system flags trimmed cards, recolored edges, altered surfaces and outright fakes, and it stores a digital fingerprint of every card. Anyone can check a slab by entering the cert number on agscard.com."
+  ],
+  "criteria": [
+    {
+      "name": "Handling of old stock",
+      "text": "Whether vintage is judged against its own tolerances."
+    },
+    {
+      "name": "Alteration detection",
+      "text": "Trimming and recoloring are the main risks."
+    },
+    {
+      "name": "Buyer premium",
+      "text": "What the holder adds at sale. PSA and SGC lead."
+    },
+    {
+      "name": "Evidence",
+      "text": "Subgrades and a report, or a number."
+    },
+    {
+      "name": "Eligibility",
+      "text": "Whether the grader accepts older cards at all."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How are vintage cards graded?",
+      "a": "On the same four points as modern cards, with allowances for how older cards were printed and cut. AGS grades vintage with slightly different tolerances and measures miscuts and print errors."
+    },
+    {
+      "q": "Do graders charge more for valuable cards?",
+      "a": "Several do. PSA and SGC price by declared value, and CGC caps each tier by card value and moves a card up if it is worth more. AGS, Beckett, TAG and ISA say they add no upcharge for value."
+    },
+    {
+      "q": "Does AGS grade autographed cards?",
+      "a": "Signed cards are accepted for grading. If you need the autograph itself authenticated, use a grader that sells that service. Beckett lists a $5 autograph add-on, and CGC offers autograph authentication."
+    },
+    {
+      "q": "Do AGS slabs hold resale value?",
+      "a": "AGS slabs sell, and the report gives buyers something to check. PSA holders still bring the highest prices on most cards. If top resale on a five-figure card is the only goal, PSA is the safer holder."
+    },
+    {
+      "q": "Who owns PSA, SGC and Beckett?",
+      "a": "Collectors. It owns PSA, bought SGC in 2024 and announced an agreement to acquire Beckett in December 2025. Each keeps its own brand."
+    }
+  ],
+  "related": [
+    "bestgradingcompanyforvintagecards.com",
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=vintagecardgrading.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

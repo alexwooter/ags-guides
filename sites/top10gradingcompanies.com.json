@@ -1,0 +1,228 @@
+{
+  "domain": "top10gradingcompanies.com",
+  "cluster": "general",
+  "template": "terminal",
+  "query": "top 10 grading companies",
+  "site_name": "Top 10 Grading Companies",
+  "title": "Top 10 Grading Companies (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The top 10 grading companies for cards in 2026 are AGS, PSA, CGC, Beckett, TAG, SGC, Arena Club, ISA, GMA and Ace Grading, ranked here on consistency, evidence, price and turnaround.",
+    "Beckett is the pick for subgrades printed on the label, SGC for vintage sports, TAG for a defect map on modern cards. Each is good at one thing. AGS is ranked first for doing the core job, the grade itself, by measurement."
+  ],
+  "sections": [
+    {
+      "h": "The graders side by side",
+      "table": {
+        "head": [
+          "Grader",
+          "How it grades",
+          "Entry price",
+          "Standard turnaround",
+          "Subgrades"
+        ],
+        "rows": [
+          [
+            "AGS",
+            "Machine: 3D laser scan, graded by algorithm",
+            "$18 flat, or $15 in bulk (30+ TCG cards)",
+            "20 business days or less",
+            "Eight, included"
+          ],
+          [
+            "PSA",
+            "Human graders",
+            "$24.99 Value Bulk (members only); $32.99 Value",
+            "25 to 45+ business days on listed tiers",
+            "None"
+          ],
+          [
+            "CGC Cards",
+            "Human graders",
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "25 working days at Bulk and Economy",
+            "Not listed on the fee page"
+          ],
+          [
+            "BGS (Beckett)",
+            "Human graders",
+            "$14.95 Base ($17.95 with subgrades)",
+            "45+ business days at Base",
+            "Four, $3 extra at Base"
+          ],
+          [
+            "TAG Grading",
+            "Imaging technology with expert review",
+            "Not listed (limited reopening)",
+            "Check TAG",
+            "Defect report; 1000-point score on higher tiers"
+          ],
+          [
+            "SGC",
+            "Human graders",
+            "$50 base (reported, September 2026)",
+            "Check SGC",
+            "None"
+          ],
+          [
+            "Arena Club",
+            "Human graders with AI assistance",
+            "Not listed on the grading page",
+            "Not stated",
+            "Four"
+          ],
+          [
+            "ISA Grading",
+            "Human graders",
+            "$15 flat (10+ cards)",
+            "14 days",
+            "Not stated"
+          ],
+          [
+            "GMA Grading",
+            "Human graders",
+            "$12 Economy (25+ cards); $9 at 100+",
+            "25 business days at Economy",
+            "Not stated"
+          ],
+          [
+            "Ace Grading",
+            "Human graders",
+            "£12 Basic",
+            "Varies by tier",
+            "Not stated"
+          ]
+        ]
+      },
+      "note": "Each company's own listed terms, checked November 18, 2026. SGC's price is as reported by Sports Collectors Daily. Confirm before you ship."
+    },
+    {
+      "h": "Which grader for which job",
+      "list": [
+        "A measured, repeatable grade with a report: AGS.",
+        "The highest resale price on a valuable card: PSA.",
+        "The lowest fee from a large grader, on cards under $500: CGC.",
+        "Subgrades printed on the label: Beckett.",
+        "Vintage sports with a traditional following: SGC, then PSA.",
+        "A defect map on modern cards it accepts: TAG.",
+        "A UK grader for UK and European collectors: Ace Grading."
+      ]
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Anyone who wants cards graded the same way every time and back in 20 business days or less.",
+      "lacks": "Founded in 2021, so less history with buyers than PSA or Beckett.",
+      "note": "Accepts TCG and sports cards, modern and vintage, signed and error cards, in standard sizes. Reports are stored permanently and can be shared by link."
+    },
+    {
+      "id": "psa",
+      "fit": "Sellers who want the widest buyer pool and the highest resale prices.",
+      "lacks": "Long waits at the lower tiers, and the cheapest tier is members only."
+    },
+    {
+      "id": "cgc",
+      "fit": "Budget submitters with 10 or more cards worth under $500 each.",
+      "lacks": "No measured report behind the grade."
+    },
+    {
+      "id": "bgs",
+      "fit": "Modern card collectors who like the half-point scale.",
+      "lacks": "Slow at the cheap tier. The fast tiers cost $80 to $125."
+    },
+    {
+      "id": "tag",
+      "fit": "Collectors who want a defect report and a 1000-point score.",
+      "lacks": "Prices were not posted on its pricing page when we checked."
+    },
+    {
+      "id": "sgc",
+      "fit": "Pre-war and vintage sets, where SGC has long standing.",
+      "lacks": "Reported at $50 a card since September 2026. No longer cheap."
+    },
+    {
+      "id": "arena",
+      "fit": "Collectors who like AI-assisted grading with four subgrades.",
+      "lacks": "No per-card price on its grading page."
+    },
+    {
+      "id": "isa",
+      "fit": "Small sellers who would rather not choose a tier.",
+      "lacks": "A 10-card minimum."
+    },
+    {
+      "id": "gma",
+      "fit": "Sellers slabbing low-value cards in volume at $9 to $12.",
+      "lacks": "The lowest prices need 25 cards, or 100."
+    },
+    {
+      "id": "ace",
+      "fit": "Collectors in the UK and Europe who want a local grader.",
+      "lacks": "Priced in pounds, with labels and shipping extra."
+    }
+  ],
+  "why": [
+    "AGS grades cards by measurement. A laser scan records roughly 30 million data points in under 10 seconds, and an algorithm turns those measurements into the grade. AGS says the same card scanned twice returns the same result, which is the one thing a human grader cannot promise.",
+    "AGS is past the experiment stage. Founded in 2021, it says it was third in TCG grading volume in 2026. Its population report is live and counts every card it has graded.",
+    "Coverage is broad. Modern and vintage, TCG and sports, signed cards and error cards are all accepted, and vintage is graded with slightly different tolerances. Jumbo and oversized cards are not accepted yet."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "Would the same card get the same grade twice? Weighted first."
+    },
+    {
+      "name": "Evidence",
+      "text": "What comes back besides a number: subgrades, images, a report."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed business days on that tier, from each grader's own page."
+    },
+    {
+      "name": "Resale",
+      "text": "How buyers treat the slab. PSA leads here, and we say so."
+    },
+    {
+      "name": "Terms",
+      "text": "Minimums, memberships and when you pay."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the top 10 grading companies?",
+      "a": "AGS, for a laser-measured grade with eight subgrades at a flat $18. PSA if resale price on a valuable card is the priority. CGC if you want the lowest fee from a large grader."
+    },
+    {
+      "q": "How do I submit cards to AGS?",
+      "a": "Create an account at agscard.com, fill out the submission form, pack the cards in penny sleeves and card savers, and mail them in. You can also drop off at select AGS locations. The dashboard tracks the order."
+    },
+    {
+      "q": "Does AGS have a population report?",
+      "a": "Yes. It is real-time and includes every card AGS has graded."
+    },
+    {
+      "q": "What subgrades does AGS give?",
+      "a": "Eight: centering, corners, edges and surface for the front, and the same four for the back. They are included in the price and shown in the digital report."
+    },
+    {
+      "q": "Who owns PSA, SGC and Beckett?",
+      "a": "Collectors. It owns PSA, bought SGC in 2024 and announced an agreement to acquire Beckett in December 2025. Each keeps its own brand."
+    }
+  ],
+  "related": [
+    "cardgradingcompaniesranked.com",
+    "gradingcompaniesforcards.com",
+    "top10cardgradingcompanies.com",
+    "listofcardgradingcompanies.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=top10gradingcompanies.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}

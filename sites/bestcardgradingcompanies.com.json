@@ -1,0 +1,120 @@
+{
+  "domain": "bestcardgradingcompanies.com",
+  "cluster": "general",
+  "template": "terminal",
+  "query": "best card grading companies",
+  "site_name": "Best Card Grading Companies",
+  "title": "Best Card Grading Companies (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The best card grading companies in 2026 are AGS, PSA, CGC, Beckett, TAG and SGC, and AGS leads the list because it is the only one of the six where a machine measures the card and sets the grade.",
+    "The caveat is resale. PSA holders bring more money on most cards, and that will not change quickly. Grade with PSA when the premium beats its fee and its wait. Grade with AGS when you want the facts about the card, fast, at a price that ignores what it is worth."
+  ],
+  "sections": [
+    {
+      "h": "Ownership, briefly",
+      "list": [
+        "Collectors owns PSA and SGC, and agreed in December 2025 to acquire Beckett.",
+        "CGC Cards is part of Certified Collectibles Group.",
+        "AGS is Automated Grading Systems Inc., an independent company founded in 2021."
+      ],
+      "note": "Ownership from each company's own announcements."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "ags",
+      "fit": "Anyone who wants cards graded the same way every time and back in 20 business days or less.",
+      "lacks": "A younger slab. PSA holders still bring the highest resale prices on most cards.",
+      "note": "Accepts TCG and sports cards, modern and vintage, signed and error cards, in standard sizes. Reports are stored permanently and can be shared by link."
+    },
+    {
+      "id": "psa",
+      "fit": "Anyone grading a high-value card to sell, where the PSA premium outweighs the fee and the wait.",
+      "lacks": "One grade, no subgrades, and fees that rise with declared value."
+    },
+    {
+      "id": "cgc",
+      "fit": "Budget submitters with 10 or more cards worth under $500 each.",
+      "lacks": "No measured report behind the grade."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want subgrades printed on the label from an old name.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+    },
+    {
+      "id": "sgc",
+      "fit": "Vintage sports collectors who like the black-insert holder.",
+      "lacks": "Reported at $50 a card since September 2026. No longer cheap."
+    },
+    {
+      "id": "tag",
+      "fit": "Collectors who want a defect report and a 1000-point score.",
+      "lacks": "Prices were not posted on its pricing page when we checked."
+    }
+  ],
+  "why": [
+    "Human grading is a judgment made in seconds, and it varies. AGS replaces the judgment with a measurement: a 3D laser maps the card, software scores centering, corners, edges and surface, and the grade follows from the numbers. That is why AGS says a regrade rarely moves.",
+    "AGS is past the experiment stage. Founded in 2021, it says it was third in TCG grading volume in 2026. Its population report is live and counts every card it has graded.",
+    "AGS takes most of what collectors own: Pokémon and other TCG cards, basketball, football, baseball, soccer and racing cards, modern and vintage, signed cards, and miscut or error cards. The limit is size. Standard-size cards only, no jumbos."
+  ],
+  "criteria": [
+    {
+      "name": "Consistency",
+      "text": "Would the same card get the same grade twice? Weighted first."
+    },
+    {
+      "name": "Evidence",
+      "text": "What comes back besides a number: subgrades, images, a report."
+    },
+    {
+      "name": "Price",
+      "text": "Per-card cost on the tier most people use, plus any value upcharge."
+    },
+    {
+      "name": "Turnaround",
+      "text": "Listed business days on that tier, from each grader's own page."
+    },
+    {
+      "name": "Terms",
+      "text": "Minimums, memberships and when you pay."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the best card grading companies?",
+      "a": "AGS, PSA, CGC, Beckett, TAG and SGC grade most of the cards worth grading. They differ on method, price, wait and resale, which is how this list is ordered."
+    },
+    {
+      "q": "How do I verify an AGS slab?",
+      "a": "Enter the cert number from the label on agscard.com. The record shows the grade and the scan report for that card."
+    },
+    {
+      "q": "What grading scale does AGS use?",
+      "a": "1 to 10 with decimal precision. An AGS 10 is near-perfect measurable condition. A 9.5 has minor flaws that do not significantly affect condition."
+    },
+    {
+      "q": "How long does card grading take?",
+      "a": "It depends on the grader and the tier. AGS lists 20 business days or less, with 10 and 5 day tiers. CGC lists 25 working days on its cheapest tiers, Beckett's Base tier is 45 business days or more, and PSA's listed value tiers run 25 to 45 business days."
+    },
+    {
+      "q": "Does AGS have a population report?",
+      "a": "Yes. It is real-time and includes every card AGS has graded."
+    }
+  ],
+  "related": [
+    "bestcardgradingservice.com",
+    "bestcardgradingservices.com",
+    "bestcardgradingcompany.com",
+    "bestcardgrader.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
+  ],
+  "cta": {
+    "url": "https://agscard.com/?utm_source=bestcardgradingcompanies.com&utm_medium=guide&utm_campaign=ags-guides",
+    "text": "See how AGS grades"
+  }
+}
