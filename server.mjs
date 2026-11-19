@@ -90,6 +90,12 @@ function readBody(req, limit = 2048) {
     req.on("error", () => resolve(""));
   });
 }
+function publisher() {
+  try { return JSON.parse(readFileSync(join(root, "data/publisher.json"), "utf8")); } catch { return {}; }
+}
+function publisherHost() {
+  try { return new URL(publisher().url).hostname.toLowerCase().replace(/^www\./, ""); } catch { return ""; }
+}
 // The dashboard is open when DASH_KEY is unset; set the secret and pass ?key= to lock it.
 function dashAllowed(url) {
   const key = process.env.DASH_KEY;
@@ -106,11 +112,18 @@ createServer((req, res) => {
   const gsv = googleVerification();
   if (gsv && url.pathname === `/${gsv}.html`) return send(res, 200, `google-site-verification: ${gsv}.html`, "text/html; charset=utf-8", { "Cache-Control": "no-store" });
 
-  // Pageview beacon sent by the page's own script. Only browsers run it, so it counts people.
+  // Pageview and outbound-click beacons sent by the page's own script. Only browsers run it, so it counts people.
   if (url.pathname === "/_/hit" && req.method === "POST") {
     readBody(req).then((raw) => {
       let b = {}; try { b = JSON.parse(raw || "{}"); } catch {}
-      record({ req, host, path: typeof b.p === "string" ? b.p : "/", kind: "beacon", ref: typeof b.r === "string" ? b.r : "" });
+      const ref = typeof b.r === "string" ? b.r : "";
+      if (b.k === "click") {
+        // A click on a link out of the page. Only clicks through to the publisher's own site are kept.
+        const to = String(b.u ?? "").toLowerCase().replace(/^www\./, "");
+        if (to && to === publisherHost()) record({ req, host, path: to, kind: "click", ref });
+      } else {
+        record({ req, host, path: typeof b.p === "string" ? b.p : "/", kind: "beacon", ref });
+      }
       res.writeHead(204, { "Cache-Control": "no-store" }); res.end();
     });
     return;
@@ -143,7 +156,7 @@ createServer((req, res) => {
     const days = Math.min(365, Math.max(1, Number(url.searchParams.get("days")) || 30));
     stats({ days, domains: manifest().map((s) => s.domain) }).then((s) => {
       if (url.pathname === "/_/stats.json") return send(res, 200, JSON.stringify(s, null, 2), "application/json; charset=utf-8", { "Cache-Control": "no-store" });
-      send(res, 200, renderDashboard(s, { key: url.searchParams.get("key") ?? "", path: "/_/dashboard" }), "text/html; charset=utf-8", { "Cache-Control": "no-store" });
+      send(res, 200, renderDashboard(s, { key: url.searchParams.get("key") ?? "", path: "/_/dashboard", product: publisher().name ?? "" }), "text/html; charset=utf-8", { "Cache-Control": "no-store" });
     }).catch((e) => send(res, 500, `stats failed: ${e.message}`, "text/plain; charset=utf-8", { "Cache-Control": "no-store" }));
     return;
   }

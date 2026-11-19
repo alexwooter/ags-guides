@@ -4,7 +4,7 @@
 const month = (iso) => new Date(iso + "T12:00:00Z").toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" });
 
 // Pageview beacon. Runs only in real browsers, so the server can tell people from crawlers.
-const BEACON = `<script>(function(){try{var d=JSON.stringify({p:location.pathname,r:document.referrer||""});if(navigator.sendBeacon){navigator.sendBeacon("/_/hit",new Blob([d],{type:"application/json"}))}else{fetch("/_/hit",{method:"POST",body:d,keepalive:true,headers:{"Content-Type":"application/json"}})}}catch(e){}})();</script>`;
+const BEACON = `<script>(function(){try{var s=function(o){var d=JSON.stringify(o);if(navigator.sendBeacon){navigator.sendBeacon("/_/hit",new Blob([d],{type:"application/json"}))}else{fetch("/_/hit",{method:"POST",body:d,keepalive:true,headers:{"Content-Type":"application/json"}})}};s({p:location.pathname,r:document.referrer||""});var c=function(e){try{var a=e.target&&e.target.closest&&e.target.closest("a[href]");if(!a||!a.hostname||a.hostname===location.hostname)return;s({p:location.pathname,r:document.referrer||"",k:"click",u:a.hostname})}catch(x){}};document.addEventListener("click",c,true);document.addEventListener("auxclick",c,true)}catch(e){}})();</script>`;
 const EXTRA_CSS = `
 .sect table.facts{width:100%;border-collapse:collapse;font-size:15px;line-height:1.45;margin:14px 0 6px}
 .sect .facts th{text-align:left;font-size:12px;letter-spacing:.06em;text-transform:uppercase;opacity:.7;padding:8px 12px 8px 0;border-bottom:2px solid currentColor}
@@ -35,11 +35,16 @@ function head(ctx, css) {
 </head>`;
 }
 
+// The publisher's own link in the ranking carries the same campaign tags as the page's main button.
+function tagged(url, site) {
+  try { const q = new URL(site.cta.url).search; return q ? `${url.replace(/\/$/, "")}/${q}` : url; } catch { return url; }
+}
+
 function rankTable(ctx) {
   const { site, products, esc } = ctx;
   const rows = site.ranking.map((r, i) => {
     const p = products[r.id];
-    return `<tr${i === 0 ? ' class="top"' : ""}><td class="n">${i + 1}</td><td><a href="${p.url}" rel="${r.id === ctx.publisher.product ? "" : "nofollow"}">${esc(p.name)}</a><div class="t">${esc(p.type)}</div></td><td>${esc(r.fit)}</td><td>${esc(r.lacks)}</td></tr>`;
+    return `<tr${i === 0 ? ' class="top"' : ""}><td class="n">${i + 1}</td><td><a href="${r.id === ctx.publisher.product ? tagged(p.url, site) : p.url}" rel="${r.id === ctx.publisher.product ? "" : "nofollow"}">${esc(p.name)}</a><div class="t">${esc(p.type)}</div></td><td>${esc(r.fit)}</td><td>${esc(r.lacks)}</td></tr>`;
   }).join("\n");
   return `<table class="rank"><thead><tr><th>#</th><th>Grader</th><th>Who it fits</th><th>The one thing it lacks</th></tr></thead><tbody>${rows}</tbody></table>`;
 }

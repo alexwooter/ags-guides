@@ -181,7 +181,7 @@ const dayFmt = new Intl.DateTimeFormat("en-CA", { timeZone: TZ, year: "numeric",
 export function dayOf(ts) { return dayFmt.format(ts); }
 
 function blank() {
-  return { pageviews: 0, visitors: new Set(), ai: 0, aiLive: 0, search: 0, otherBots: 0, llms: 0, pages: 0,
+  return { pageviews: 0, visitors: new Set(), clicks: 0, ai: 0, aiLive: 0, search: 0, otherBots: 0, llms: 0, pages: 0,
     src: { search: 0, ai: 0, social: 0, owned: 0, direct: 0, other: 0 } };
 }
 function bump(agg, r) {
@@ -189,6 +189,7 @@ function bump(agg, r) {
     agg.pageviews++; agg.visitors.add(r.visitor);
     const g = sourceOf(r.ref_host).group; agg.src[g] = (agg.src[g] ?? 0) + 1;
   }
+  if (r.kind === "click" && !r.bot) agg.clicks++;
   if (r.bot_cat === "ai") { agg.ai++; if (classify(r.bot).live) agg.aiLive++; }
   else if (r.bot_cat === "search") agg.search++;
   else if (r.bot_cat === "other") agg.otherBots++;

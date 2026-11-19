@@ -26,7 +26,8 @@ ${dots("pageviews", "d-pv")}${dots("visitors", "d-vis")}${dots("ai", "d-ai")}
 
 const GROUP = { search: "Search", ai: "AI assistant", social: "Social", owned: "Own sites", direct: "Direct", other: "Other site" };
 
-export function renderDashboard(s, { key = "", path = "/_/dashboard" } = {}) {
+export function renderDashboard(s, { key = "", path = "/_/dashboard", product = "" } = {}) {
+  const clicksLabel = product ? `Clicks to ${esc(product)}` : "Clicks out";
   const q = (days) => `${path}?days=${days}${key ? `&key=${encodeURIComponent(key)}` : ""}`;
   const range = [1, 7, 30, 90].map((d) => `<a href="${q(d)}" class="${s.days === d ? "on" : ""}">${d === 1 ? "Today" : `${d} days`}</a>`).join("");
   const t = s.totals;
@@ -40,7 +41,7 @@ export function renderDashboard(s, { key = "", path = "/_/dashboard" } = {}) {
 
   const domRows = s.domains.map((d) => `<tr>
 <td><a href="https://${esc(d.host)}/" target="_blank" rel="noopener">${esc(d.host)}</a></td>
-<td class="num">${n(d.visitors)}</td><td class="num">${n(d.src.search)}</td><td class="num">${n(d.src.ai)}</td><td class="num">${n(d.src.social)}</td><td class="num">${n(d.src.direct)}</td><td class="num">${n(d.src.other + (d.src.owned ?? 0))}</td>
+<td class="num">${n(d.visitors)}</td><td class="num clk">${n(d.clicks ?? 0)}</td><td class="num">${n(d.src.search)}</td><td class="num">${n(d.src.ai)}</td><td class="num">${n(d.src.social)}</td><td class="num">${n(d.src.direct)}</td><td class="num">${n(d.src.other + (d.src.owned ?? 0))}</td>
 <td class="num ai">${n(d.ai)}</td><td class="num ai">${n(d.aiLive)}</td><td class="num">${n(d.search)}</td><td class="num">${n(d.llms)}</td>
 <td class="num muted">${n(d.today.visitors)} / ${n(d.today.ai)}</td></tr>`).join("");
   const quiet = s.domains.filter((d) => d.visitors === 0 && d.ai === 0 && d.search === 0).length;
@@ -56,7 +57,7 @@ main{max-width:1180px;margin:0 auto;padding:24px 20px 60px}
 h1{font-size:20px;margin:0 0 4px}h2{font-size:13px;margin:28px 0 10px;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.05em}
 .sub{color:var(--muted);margin:0 0 18px}
 .range a{display:inline-block;padding:6px 12px;border:1px solid var(--line);border-radius:6px;color:var(--fg);text-decoration:none;margin-right:6px}.range a.on{background:var(--on);border-color:var(--on)}
-.tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:18px 0}
+.tiles{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:18px 0}
 .tile{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px 14px}.tile b{display:block;font-size:24px;font-weight:600}.tile span{color:var(--muted);font-size:12px}
 .chart{width:100%;height:auto;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:6px}
 .grid{stroke:var(--line);stroke-width:1}.tick{fill:var(--muted);font-size:11px}
@@ -65,7 +66,7 @@ h1{font-size:20px;margin:0 0 4px}h2{font-size:13px;margin:28px 0 10px;color:var(
 .legend{display:flex;gap:18px;color:var(--muted);font-size:12px;margin:8px 2px 0}.sw{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}.sw-vis{background:var(--vis)}.sw-pv{background:var(--pv)}.sw-ai{background:var(--ai)}
 table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:8px;overflow:hidden}
 th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}th{color:var(--muted);font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.03em;white-space:nowrap}
-tr:last-child td{border-bottom:0}.num{text-align:right;font-variant-numeric:tabular-nums}.muted{color:var(--muted)}.small{font-size:12px}.ai{color:var(--ai)}
+tr:last-child td{border-bottom:0}.num{text-align:right;font-variant-numeric:tabular-nums}.muted{color:var(--muted)}.small{font-size:12px}.ai{color:var(--ai)}.clk{color:#f0883e}
 td a{color:var(--fg);text-decoration:none}td a:hover{text-decoration:underline}
 .tag{display:inline-block;font-size:11px;padding:1px 7px;border-radius:10px;border:1px solid var(--line);color:var(--muted)}
 .g-search{color:#58a6ff;border-color:#1f6feb66}.g-ai{color:#3fb950;border-color:#3fb95066}.g-social{color:#d2a8ff;border-color:#d2a8ff66}.g-owned{color:#f0883e;border-color:#f0883e66}
@@ -77,6 +78,7 @@ td a{color:var(--fg);text-decoration:none}td a:hover{text-decoration:underline}
 <div class="range">${range}</div>
 <div class="tiles">
 <div class="tile"><b>${n(t.visitors)}</b><span>Visitors (people)</span></div>
+<div class="tile"><b class="clk">${n(t.clicks ?? 0)}</b><span>${clicksLabel}</span></div>
 <div class="tile"><b>${n(fromSearch)}</b><span>Visits from search</span></div>
 <div class="tile"><b>${n(fromAi)}</b><span>Visits from AI assistants</span></div>
 <div class="tile"><b class="ai">${n(t.ai)}</b><span>AI crawler hits</span></div>
@@ -96,9 +98,9 @@ ${chart(s.daily)}
 <table><thead><tr><th>Site</th><th>Source</th><th class="num">Visits</th></tr></thead><tbody>${refRows}</tbody></table>
 <h2>Per domain</h2>
 <div class="wrap"><table><thead>
-<tr><th></th><th class="grp" colspan="6">People</th><th class="grp" colspan="4">Crawlers</th><th></th></tr>
-<tr><th>Domain</th><th class="num">Visitors</th><th class="num">Search</th><th class="num">AI</th><th class="num">Social</th><th class="num">Direct</th><th class="num">Other</th><th class="num">AI hits</th><th class="num">AI live</th><th class="num">Search</th><th class="num">llms.txt</th><th class="num">Today vis / AI</th></tr>
+<tr><th></th><th class="grp" colspan="7">People</th><th class="grp" colspan="4">Crawlers</th><th></th></tr>
+<tr><th>Domain</th><th class="num">Visitors</th><th class="num">${clicksLabel}</th><th class="num">Search</th><th class="num">AI</th><th class="num">Social</th><th class="num">Direct</th><th class="num">Other</th><th class="num">AI hits</th><th class="num">AI live</th><th class="num">Search</th><th class="num">llms.txt</th><th class="num">Today vis / AI</th></tr>
 </thead><tbody>${domRows}</tbody></table></div>
-<p class="muted small" style="margin-top:24px">People are counted without cookies: one visitor is one hash of IP, browser and day. "Search", "AI", "Social" and "Direct" under People are visits by referrer. AI crawler hits are requests from the AI companies' own bots; "Live" are the fetchers that fire while an assistant answers someone (ChatGPT-User, Perplexity-User, Claude-User, Gemini Deep Research), which means the page is being read for an answer right then. JSON: <code>${esc(path.replace("dashboard", "stats.json"))}?days=${s.days}</code>.</p>
+<p class="muted small" style="margin-top:24px">People are counted without cookies: one visitor is one hash of IP, browser and day. ${clicksLabel} counts clicks on any link from a guide to the publisher's site. "Search", "AI", "Social" and "Direct" under People are visits by referrer. AI crawler hits are requests from the AI companies' own bots; "Live" are the fetchers that fire while an assistant answers someone (ChatGPT-User, Perplexity-User, Claude-User, Gemini Deep Research), which means the page is being read for an answer right then. JSON: <code>${esc(path.replace("dashboard", "stats.json"))}?days=${s.days}</code>.</p>
 </main></body></html>`;
 }
