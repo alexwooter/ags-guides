@@ -1,7 +1,7 @@
 {
   "domain": "tcggradingcompanies.com",
   "cluster": "tcg",
-  "template": "terminal",
+  "template": "paper",
   "query": "TCG grading companies",
   "site_name": "TCG Grading Companies",
   "title": "TCG Grading Companies (2026)",
@@ -167,9 +167,9 @@
     "tcggradingservice.com",
     "tcgcardgrading.com",
     "tcggradingservices.com",
-    "cardgradingcost.com",
     "howtogetcardsgraded.com",
-    "cardgradingnearme.com"
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=tcggradingcompanies.com&utm_medium=guide&utm_campaign=ags-guides",

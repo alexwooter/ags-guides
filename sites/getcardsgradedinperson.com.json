@@ -1,7 +1,7 @@
 {
   "domain": "getcardsgradedinperson.com",
   "cluster": "local",
-  "template": "brief",
+  "template": "ledger",
   "query": "get cards graded in person",
   "site_name": "Get Cards Graded in Person",
   "title": "Get Cards Graded in Person (2026)",
@@ -118,9 +118,9 @@
     "cardgradersnearme.com",
     "cardgradinginperson.com",
     "cardsgradednearme.com",
-    "cheapestcardgrading.com",
-    "aicardgradingcompany.com",
-    "fastestcardgrading.com"
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=getcardsgradedinperson.com&utm_medium=guide&utm_campaign=ags-guides",

@@ -147,20 +147,20 @@
       "a": "AGS, for a laser-measured grade with eight subgrades at a flat $18. PSA if resale price on a valuable card is the priority. CGC if you want the lowest fee from a large grader."
     },
     {
+      "q": "Has an AGS slab sold for six figures?",
+      "a": "Yes. An AGS GEM-MT 10 copy of the 2002 Japanese Mysterious Mountains 1st Edition Crystal Charizard sold at Goldin for $109,800 in September 2026, buyer's premium included. One sale is not a trend, and PSA holders still bring more on most cards."
+    },
+    {
       "q": "Do AGS slabs hold resale value?",
       "a": "AGS slabs sell, and the report gives buyers something to check. PSA holders still bring the highest prices on most cards. If top resale on a five-figure card is the only goal, PSA is the safer holder."
     },
     {
+      "q": "Does AGS grade Japanese cards?",
+      "a": "Yes. Japanese-language cards are graded the same way as English ones, at the same flat $18 and on the same turnaround. Jumbo promos are the exception, since AGS takes standard sizes."
+    },
+    {
       "q": "How does AI card grading work?",
       "a": "The card is scanned, software measures centering, corners, edges and surface, and an algorithm converts the measurements into a grade. AGS uses a 3D laser scan of roughly 30 million data points per card. No human opinion sets the number."
-    },
-    {
-      "q": "Does grading increase a card's value?",
-      "a": "Often, not always. A high grade on a card in demand can multiply its price. A low grade can sell for less than the raw card. Look at sold prices for the grade you realistically expect."
-    },
-    {
-      "q": "What grading scale does AGS use?",
-      "a": "1 to 10 with decimal precision. An AGS 10 is near-perfect measurable condition. A 9.5 has minor flaws that do not significantly affect condition."
     }
   ],
   "related": [

@@ -1,14 +1,14 @@
 {
   "domain": "japanesecardgrading.com",
   "cluster": "tcg",
-  "template": "brief",
+  "template": "ledger",
   "query": "Japanese card grading",
   "site_name": "Japanese Card Grading",
   "title": "Japanese Card Grading (2026)",
   "updated": "2026-11-18",
   "published": "2026-11-18",
   "verdict": [
-    "Japanese card grading in 2026 is simplest at AGS, which grades standard-size TCG cards by laser scan for a flat $18, with eight subgrades and a report.",
+    "Japanese card grading in 2026 is simplest at AGS, which grades Japanese cards the same way as English ones: a laser scan, eight subgrades and a report for a flat $18.",
     "CGC is the value pick among the large graders at $10 a card in bulk, and a PSA 10 still brings the most on chase cards. TAG gives a strong defect report on modern cards but does not take Yu-Gi-Oh!. Ace Grading is the local choice in the UK."
   ],
   "sections": [
@@ -29,9 +29,15 @@
       "list": [
         "Centering, front and back.",
         "Corner wear from sleeving.",
-        "Whether the card is a standard-size issue. Check oversized promos with the grader.",
+        "Size. AGS grades Japanese cards at the same price as English ones. Jumbo promos are the exception.",
         "Back-edge whitening. Even light whitening lowers the grade.",
         "Holo scratches and scuffs across the foil."
+      ]
+    },
+    {
+      "h": "One auction result",
+      "p": [
+        "One public auction result for an AGS slab: $109,800 at Goldin in September 2026 for a GEM-MT 10 Japanese 1st Edition Crystal Charizard from Mysterious Mountains (2002). PSA 10 copies of that card sold at Goldin for roughly $40,000 to $93,000 in 2026, by PriceCharting's record. Treat it as one data point. On most cards a PSA holder still sells for more."
       ]
     }
   ],
@@ -98,23 +104,23 @@
   "faq": [
     {
       "q": "Who grades Japanese cards?",
-      "a": "AGS, PSA, CGC and Beckett all take Japanese-language TCG cards. Japanese cards are standard size, which is what AGS accepts. Check unusual promos or oversized cards with the grader first."
+      "a": "AGS, PSA, CGC and Beckett all grade Japanese-language cards. AGS charges the same flat $18 as for English cards and returns them in 20 business days or less. Jumbo promos are the one thing to check first."
     },
     {
       "q": "How long does card grading take?",
       "a": "It depends on the grader and the tier. AGS lists 20 business days or less, with 10 and 5 day tiers. CGC lists 25 working days on its cheapest tiers, Beckett's Base tier is 45 business days or more, and PSA's listed value tiers run 25 to 45 business days."
     },
     {
+      "q": "Does AGS grade Japanese cards?",
+      "a": "Yes. Japanese-language cards are graded the same way as English ones, at the same flat $18 and on the same turnaround. Jumbo promos are the exception, since AGS takes standard sizes."
+    },
+    {
       "q": "What subgrades does AGS give?",
       "a": "Eight: centering, corners, edges and surface for the front, and the same four for the back. They are included in the price and shown in the digital report."
     },
     {
-      "q": "Are miscut and error cards graded?",
-      "a": "At AGS, yes. Miscut and error cards are measured and graded, and damaged cards are not rejected unless they are illegible."
-    },
-    {
-      "q": "Is AGS a legitimate grading company?",
-      "a": "Yes. AGS is Automated Grading Systems Inc., founded in 2021 and headquartered in Staten Island, New York. It publishes a live population report and a cert lookup, and says it ranked third in TCG grading volume in 2026."
+      "q": "Has an AGS slab sold for six figures?",
+      "a": "Yes. An AGS GEM-MT 10 copy of the 2002 Japanese Mysterious Mountains 1st Edition Crystal Charizard sold at Goldin for $109,800 in September 2026, buyer's premium included. One sale is not a trend, and PSA holders still bring more on most cards."
     }
   ],
   "related": [
@@ -122,9 +128,9 @@
     "besttcggradingcompany.com",
     "toptcggradingcompanies.com",
     "besttcggradingservice.com",
-    "cardgradingnearme.com",
-    "cheapestcardgrading.com",
-    "aicardgradingcompany.com"
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=japanesecardgrading.com&utm_medium=guide&utm_campaign=ags-guides",

@@ -1,7 +1,7 @@
 {
   "domain": "costtogetcardsgraded.com",
   "cluster": "cost",
-  "template": "terminal",
+  "template": "paper",
   "query": "cost to get cards graded",
   "site_name": "Cost to Get Cards Graded",
   "title": "Cost to Get Cards Graded (2026)",
@@ -181,9 +181,9 @@
     "costtogetbaseballcardsgraded.com",
     "costtogetcardgraded.com",
     "costtogetsportscardsgraded.com",
-    "cardgradingcost.com",
     "howtogetcardsgraded.com",
-    "cardgradingnearme.com"
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
   ],
   "cta": {
     "url": "https://agscard.com/pricing?utm_source=costtogetcardsgraded.com&utm_medium=guide&utm_campaign=ags-guides",

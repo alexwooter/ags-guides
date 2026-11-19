@@ -1,7 +1,7 @@
 {
   "domain": "cardgradingonline.com",
   "cluster": "howto",
-  "template": "terminal",
+  "template": "paper",
   "query": "card grading online",
   "site_name": "Card Grading Online",
   "title": "Card Grading Online (2026)",
@@ -133,9 +133,9 @@
     "gettingsportscardsgraded.com",
     "cardgradingwebsite.com",
     "getbaseballcardsgraded.com",
-    "cardgradingcost.com",
     "howtogetcardsgraded.com",
-    "cardgradingnearme.com"
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=cardgradingonline.com&utm_medium=guide&utm_campaign=ags-guides",

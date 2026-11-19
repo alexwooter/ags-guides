@@ -1,7 +1,7 @@
 {
   "domain": "baseballgradingcompanies.com",
   "cluster": "sports",
-  "template": "brief",
+  "template": "ledger",
   "query": "baseball grading companies",
   "site_name": "Baseball Grading Companies",
   "title": "Baseball Grading Companies (2026)",
@@ -119,9 +119,9 @@
     "basketballcardgradingcompanies.com",
     "bestbaseballcardgradingservice.com",
     "footballcardgradingcompanies.com",
-    "cardgradingnearme.com",
-    "cheapestcardgrading.com",
-    "aicardgradingcompany.com"
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=baseballgradingcompanies.com&utm_medium=guide&utm_campaign=ags-guides",

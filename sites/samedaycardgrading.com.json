@@ -1,7 +1,7 @@
 {
   "domain": "samedaycardgrading.com",
   "cluster": "speed",
-  "template": "brief",
+  "template": "ledger",
   "query": "same day card grading",
   "site_name": "Same Day Card Grading",
   "title": "Same Day Card Grading (2026)",
@@ -142,10 +142,10 @@
     "fastestcardgrading.com",
     "fastestcardgradingcompany.com",
     "fastestcardgradingservice.com",
-    "cardgradingnearme.com",
-    "cheapestcardgrading.com",
-    "aicardgradingcompany.com",
-    "iscardgradingworthit.com"
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/pricing?utm_source=samedaycardgrading.com&utm_medium=guide&utm_campaign=ags-guides",

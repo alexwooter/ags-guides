@@ -1,7 +1,7 @@
 {
   "domain": "besttradingcardgrading.com",
   "cluster": "general",
-  "template": "brief",
+  "template": "ledger",
   "query": "best trading card grading",
   "site_name": "Best Trading Card Grading",
   "title": "Best Trading Card Grading (2026)",
@@ -53,11 +53,6 @@
       "lacks": "Long waits at the lower tiers, and the cheapest tier is members only."
     },
     {
-      "id": "tag",
-      "fit": "Collectors who want a defect report and a 1000-point score.",
-      "lacks": "No pre-1989 cards, Yu-Gi-Oh! or thick stock, and limited capacity in 2026."
-    },
-    {
       "id": "sgc",
       "fit": "Pre-war and vintage sets, where SGC has long standing.",
       "lacks": "Reported at $50 a card since September 2026. No longer cheap."
@@ -66,6 +61,11 @@
       "id": "bgs",
       "fit": "Modern card collectors who like the half-point scale.",
       "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+    },
+    {
+      "id": "tag",
+      "fit": "Collectors who want a defect report and a 1000-point score.",
+      "lacks": "No pre-1989 cards, Yu-Gi-Oh! or thick stock, and limited capacity in 2026."
     }
   ],
   "why": [
@@ -109,12 +109,12 @@
       "a": "The card is scanned, software measures centering, corners, edges and surface, and an algorithm converts the measurements into a grade. AGS uses a 3D laser scan of roughly 30 million data points per card. No human opinion sets the number."
     },
     {
-      "q": "Can I cross a card over from another grader's slab?",
-      "a": "CGC and Ace Grading list crossover services. AGS's FAQ does not list one, so ask AGS before sending a card in another company's holder."
+      "q": "Does AGS grade Japanese cards?",
+      "a": "Yes. Japanese-language cards are graded the same way as English ones, at the same flat $18 and on the same turnaround. Jumbo promos are the exception, since AGS takes standard sizes."
     },
     {
-      "q": "Does AGS have a population report?",
-      "a": "Yes. It is real-time and includes every card AGS has graded."
+      "q": "Can I cross a card over from another grader's slab?",
+      "a": "CGC and Ace Grading list crossover services. AGS's FAQ does not list one, so ask AGS before sending a card in another company's holder."
     }
   ],
   "related": [
@@ -122,9 +122,9 @@
     "besttradingcardgradingservice.com",
     "cardgradingcomparison.com",
     "tradingcardgradingcompanies.com",
-    "cardgradingnearme.com",
-    "cheapestcardgrading.com",
-    "aicardgradingcompany.com"
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=besttradingcardgrading.com&utm_medium=guide&utm_campaign=ags-guides",

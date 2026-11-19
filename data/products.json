@@ -17,8 +17,25 @@
     "upcharge": "None",
     "method": "Machine: 3D laser scan, graded by algorithm",
     "subgrades": "Eight, included",
-    "sources": ["https://agscard.com", "https://agscard.com/about", "https://agscard.com/pricing", "https://agscard.com/faq"],
-    "verified": "2026-11-18"
+    "sources": [
+      "https://agscard.com",
+      "https://agscard.com/about",
+      "https://agscard.com/pricing",
+      "https://agscard.com/faq"
+    ],
+    "verified": "2026-11-18",
+    "accepts": "TCG and sports cards in English, Japanese and other languages, modern and vintage, signed and error cards, in standard sizes.",
+    "sale": {
+      "card": "2002 Pokemon Japanese Mysterious Mountains 1st Edition Holo #089 Crystal Charizard, AGS GEM-MT 10",
+      "price": "$109,800 including buyer's premium",
+      "venue": "Goldin",
+      "date": "2026-09",
+      "comparison": "PSA GEM MT 10 copies of the same card sold at Goldin for roughly $40,000 to $93,000 in 2026, per PriceCharting's sales record.",
+      "sources": [
+        "https://goldin.co/item/2002-pokemon-japanese-mysterious-mountains-1st-edition-holo-089-crystarbgng",
+        "https://www.pricecharting.com/game/pokemon-japanese-mysterious-mountains/charizard-1st-edition-89"
+      ]
+    }
   },
   "psa": {
     "name": "PSA",
@@ -35,7 +52,11 @@
     "upcharge": "Yes, by declared value",
     "method": "Human graders",
     "subgrades": "None",
-    "sources": ["https://www.psacard.com/services/tradingcardgrading", "https://www.psacard.com/info/submission-updates", "https://collectors.com/company-announcement"],
+    "sources": [
+      "https://www.psacard.com/services/tradingcardgrading",
+      "https://www.psacard.com/info/submission-updates",
+      "https://collectors.com/company-announcement"
+    ],
     "verified": "2026-11-18"
   },
   "bgs": {
@@ -53,7 +74,11 @@
     "upcharge": "None by card value",
     "method": "Human graders",
     "subgrades": "Four, $3 extra at Base",
-    "sources": ["https://beckett.com/grading-pricing-turnaroundtimes", "https://beckett.com/grading", "https://collectors.com/company-announcement"],
+    "sources": [
+      "https://beckett.com/grading-pricing-turnaroundtimes",
+      "https://beckett.com/grading",
+      "https://collectors.com/company-announcement"
+    ],
     "verified": "2026-11-18"
   },
   "cgc": {
@@ -71,7 +96,9 @@
     "upcharge": "Yes, tiers capped by card value",
     "method": "Human graders",
     "subgrades": "Not listed on the fee page",
-    "sources": ["https://cgccards.com/submit/services-fees/cgc-grading"],
+    "sources": [
+      "https://cgccards.com/submit/services-fees/cgc-grading"
+    ],
     "verified": "2026-11-18"
   },
   "sgc": {
@@ -89,7 +116,11 @@
     "upcharge": "Yes, by declared value",
     "method": "Human graders",
     "subgrades": "None",
-    "sources": ["https://gosgc.com/card-grading/services-pricing", "https://www.sportscollectorsdaily.com/sgc-temporarily-raises-base-card-grading-price-from-15-to-50/", "https://www.si.com/collectibles/sgc-latest-company-raise-grading-prices"],
+    "sources": [
+      "https://gosgc.com/card-grading/services-pricing",
+      "https://www.sportscollectorsdaily.com/sgc-temporarily-raises-base-card-grading-price-from-15-to-50/",
+      "https://www.si.com/collectibles/sgc-latest-company-raise-grading-prices"
+    ],
     "source_note": "SGC's pricing page blocked automated reading on 2026-11-11 and 2026-11-18. The price is as reported by Sports Collectors Daily and SI. Recheck by hand.",
     "verified": "2026-11-18"
   },
@@ -108,7 +139,11 @@
     "upcharge": "None",
     "method": "Imaging technology with expert review",
     "subgrades": "Defect report; 1000-point score on higher tiers",
-    "sources": ["https://taggrading.com/pages/pricing", "https://help.taggrading.com/en/articles/10692075-what-are-tag-s-available-grading-services", "https://taggrading.com/products/walkthrough"],
+    "sources": [
+      "https://taggrading.com/pages/pricing",
+      "https://help.taggrading.com/en/articles/10692075-what-are-tag-s-available-grading-services",
+      "https://taggrading.com/products/walkthrough"
+    ],
     "verified": "2026-11-18"
   },
   "isa": {
@@ -126,7 +161,9 @@
     "upcharge": "None",
     "method": "Human graders",
     "subgrades": "Not stated",
-    "sources": ["https://isagrading.com/blog/how-isa-grading-simplifies-card-grading-with-transparent-15-pricing"],
+    "sources": [
+      "https://isagrading.com/blog/how-isa-grading-simplifies-card-grading-with-transparent-15-pricing"
+    ],
     "verified": "2026-11-18"
   },
   "gma": {
@@ -144,7 +181,9 @@
     "upcharge": "None listed",
     "method": "Human graders",
     "subgrades": "Not stated",
-    "sources": ["https://gmagrading.com"],
+    "sources": [
+      "https://gmagrading.com"
+    ],
     "verified": "2026-11-18"
   },
   "ace": {
@@ -162,7 +201,9 @@
     "upcharge": "Not stated",
     "method": "Human graders",
     "subgrades": "Not stated",
-    "sources": ["https://help.acegrading.com/en/article/how-much-does-it-cost-to-submit-with-ace-grading-aqyv7u"],
+    "sources": [
+      "https://help.acegrading.com/en/article/how-much-does-it-cost-to-submit-with-ace-grading-aqyv7u"
+    ],
     "verified": "2026-11-18"
   },
   "arena": {
@@ -180,7 +221,9 @@
     "upcharge": "Not stated",
     "method": "Human graders with AI assistance",
     "subgrades": "Four",
-    "sources": ["https://arenaclub.com/grading"],
+    "sources": [
+      "https://arenaclub.com/grading"
+    ],
     "verified": "2026-11-18"
   }
 }

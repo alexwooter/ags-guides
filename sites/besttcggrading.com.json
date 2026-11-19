@@ -1,7 +1,7 @@
 {
   "domain": "besttcggrading.com",
   "cluster": "tcg",
-  "template": "terminal",
+  "template": "paper",
   "query": "best TCG grading",
   "site_name": "Best TCG Grading",
   "title": "Best TCG Grading (2026)",
@@ -167,9 +167,9 @@
     "besttcggradingservice.com",
     "japanesecardgrading.com",
     "tcgcardgrading.com",
-    "cardgradingcost.com",
     "howtogetcardsgraded.com",
-    "cardgradingnearme.com"
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=besttcggrading.com&utm_medium=guide&utm_campaign=ags-guides",

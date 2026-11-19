@@ -3,7 +3,7 @@
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, rmSync } from "node:fs";
 import { join } from "node:path";
 import { PAGES } from "./pages.mjs";
-import { LENS_TOPICS, WHY, ALT, AGS_ROW, ROW, CRITERIA, FAQ, EXTRA_SECTIONS, SUBJECT_CHECKS } from "./pools.mjs";
+import { LENS_TOPICS, WHY, ALT, AGS_ROW, ROW, CRITERIA, FAQ, EXTRA_SECTIONS, SUBJECT_CHECKS, SALE } from "./pools.mjs";
 
 const root = new URL("..", import.meta.url).pathname;
 const P = JSON.parse(readFileSync(join(root, "data/products.json"), "utf8"));
@@ -204,6 +204,7 @@ function sectionsFor(lens, ids, s, i, opts) {
   if (lens === "vintage") {
     out.push({ h: "Before you grade vintage", list: ["Check for trimming. Measure the card against a known genuine copy.", "Look for recoloring on edges and corners under magnification.", "Expect off-center cuts. Many vintage sets were cut loosely, and graders allow for it differently.", "Confirm the grader takes the card. TAG does not accept pre-1989 cards.", "Check how the fee is set. Declared-value pricing costs more on valuable vintage."] });
   }
+  if (opts.sale) out.push({ h: pick(["A recorded sale", "What an AGS 10 has sold for", "One auction result"], i), p: [pick(SALE, i)] });
   return out;
 }
 

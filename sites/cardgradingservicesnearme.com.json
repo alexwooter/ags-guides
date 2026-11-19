@@ -1,7 +1,7 @@
 {
   "domain": "cardgradingservicesnearme.com",
   "cluster": "local",
-  "template": "brief",
+  "template": "ledger",
   "query": "card grading services near me",
   "site_name": "Card Grading Services Near Me",
   "title": "Card Grading Services Near Me (2026)",
@@ -113,9 +113,9 @@
     "cardgradingcostnearme.com",
     "cardgradingcompanynearme.com",
     "cheapestcardgradingservicenearme.com",
-    "cardgradingnearme.com",
-    "cheapestcardgrading.com",
-    "aicardgradingcompany.com"
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=cardgradingservicesnearme.com&utm_medium=guide&utm_campaign=ags-guides",

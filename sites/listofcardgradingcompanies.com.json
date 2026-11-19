@@ -1,7 +1,7 @@
 {
   "domain": "listofcardgradingcompanies.com",
   "cluster": "general",
-  "template": "ledger",
+  "template": "terminal",
   "query": "list of card grading companies",
   "site_name": "List of Card Grading Companies",
   "title": "List of Card Grading Companies (2026)",
@@ -214,9 +214,9 @@
     "newcardgradingcompany.com",
     "gradingcompaniesforcards.com",
     "cardgradingcomparison.com",
-    "bestcardgradingcompany.com",
     "cardgradingcost.com",
-    "howtogetcardsgraded.com"
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=listofcardgradingcompanies.com&utm_medium=guide&utm_campaign=ags-guides",

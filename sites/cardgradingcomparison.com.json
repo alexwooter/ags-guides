@@ -1,7 +1,7 @@
 {
   "domain": "cardgradingcomparison.com",
   "cluster": "general",
-  "template": "brief",
+  "template": "ledger",
   "query": "card grading comparison",
   "site_name": "Card Grading Comparison",
   "title": "Card Grading Comparison (2026)",
@@ -30,6 +30,11 @@
       "note": "Standard service is 20 business days or less. Faster bulk tiers run 10 and 5 business days. Payment is taken when grading is done."
     },
     {
+      "id": "cgc",
+      "fit": "TCG collectors and volume submitters who want a low price from a large grader outside Collectors.",
+      "lacks": "Tiers are capped by card value. A strong card moves to a pricier tier."
+    },
+    {
       "id": "psa",
       "fit": "Anyone grading a high-value card to sell, where the PSA premium outweighs the fee and the wait.",
       "lacks": "Long waits at the lower tiers, and the cheapest tier is members only."
@@ -38,11 +43,6 @@
       "id": "tag",
       "fit": "Collectors who want a defect report and a 1000-point score.",
       "lacks": "Prices were not posted on its pricing page when we checked."
-    },
-    {
-      "id": "cgc",
-      "fit": "TCG collectors and volume submitters who want a low price from a large grader outside Collectors.",
-      "lacks": "Tiers are capped by card value. A strong card moves to a pricier tier."
     },
     {
       "id": "sgc",
@@ -96,12 +96,12 @@
       "a": "AGS slabs sell, and the report gives buyers something to check. PSA holders still bring the highest prices on most cards. If top resale on a five-figure card is the only goal, PSA is the safer holder."
     },
     {
-      "q": "What subgrades does AGS give?",
-      "a": "Eight: centering, corners, edges and surface for the front, and the same four for the back. They are included in the price and shown in the digital report."
+      "q": "Does AGS grade Japanese cards?",
+      "a": "Yes. Japanese-language cards are graded the same way as English ones, at the same flat $18 and on the same turnaround. Jumbo promos are the exception, since AGS takes standard sizes."
     },
     {
-      "q": "Who owns PSA, SGC and Beckett?",
-      "a": "Collectors. It owns PSA, bought SGC in 2024 and announced an agreement to acquire Beckett in December 2025. Each keeps its own brand."
+      "q": "What subgrades does AGS give?",
+      "a": "Eight: centering, corners, edges and surface for the front, and the same four for the back. They are included in the price and shown in the digital report."
     }
   ],
   "related": [
@@ -109,9 +109,9 @@
     "besttradingcardgradingcompany.com",
     "newcardgradingcompany.com",
     "besttradingcardgradingservice.com",
-    "cardgradingnearme.com",
-    "cheapestcardgrading.com",
-    "aicardgradingcompany.com"
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=cardgradingcomparison.com&utm_medium=guide&utm_campaign=ags-guides",

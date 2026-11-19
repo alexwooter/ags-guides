@@ -1,7 +1,7 @@
 {
   "domain": "howtogradecards.com",
   "cluster": "howto",
-  "template": "terminal",
+  "template": "paper",
   "query": "how to grade cards",
   "site_name": "How to Grade Cards",
   "title": "How to Grade Cards (2026)",
@@ -146,9 +146,9 @@
     "wheretogradecards.com",
     "howtogetcardsgraded.com",
     "bestplacetogetcardsgraded.com",
-    "cardgradingcost.com",
     "cardgradingnearme.com",
-    "cheapestcardgrading.com"
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=howtogradecards.com&utm_medium=guide&utm_campaign=ags-guides",

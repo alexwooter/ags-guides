@@ -1,7 +1,7 @@
 {
   "domain": "getmycardsgraded.com",
   "cluster": "howto",
-  "template": "brief",
+  "template": "ledger",
   "query": "get my cards graded",
   "site_name": "Get My Cards Graded",
   "title": "Get My Cards Graded (2026)",
@@ -133,9 +133,9 @@
     "cardgradingonline.com",
     "getcardgraded.com",
     "gettradingcardsgraded.com",
-    "cardgradingnearme.com",
-    "cheapestcardgrading.com",
-    "aicardgradingcompany.com"
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=getmycardsgraded.com&utm_medium=guide&utm_campaign=ags-guides",

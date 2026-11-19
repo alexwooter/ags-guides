@@ -1,7 +1,7 @@
 {
   "domain": "tradingcardgradersnearme.com",
   "cluster": "local",
-  "template": "terminal",
+  "template": "paper",
   "query": "trading card graders near me",
   "site_name": "Trading Card Graders Near Me",
   "title": "Trading Card Graders Near Me (2026)",
@@ -108,9 +108,9 @@
     "localcardgrading.com",
     "tcggradingnearme.com",
     "localcardgradingservices.com",
-    "cardgradingcost.com",
     "howtogetcardsgraded.com",
-    "cardgradingnearme.com"
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=tradingcardgradersnearme.com&utm_medium=guide&utm_campaign=ags-guides",

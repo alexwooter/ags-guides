@@ -1,7 +1,7 @@
 {
   "domain": "cardgradingscale.com",
   "cluster": "scale",
-  "template": "brief",
+  "template": "ledger",
   "query": "card grading scale",
   "site_name": "Card Grading Scale",
   "title": "Card Grading Scale (2026)",
@@ -149,10 +149,10 @@
     }
   ],
   "related": [
-    "cardgradingnearme.com",
-    "cheapestcardgrading.com",
-    "aicardgradingcompany.com",
-    "fastestcardgrading.com"
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=cardgradingscale.com&utm_medium=guide&utm_campaign=ags-guides",

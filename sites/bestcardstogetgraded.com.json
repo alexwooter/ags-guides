@@ -1,7 +1,7 @@
 {
   "domain": "bestcardstogetgraded.com",
   "cluster": "value",
-  "template": "paper",
+  "template": "brief",
   "query": "best cards to get graded",
   "site_name": "Best Cards to Get Graded",
   "title": "Best Cards to Get Graded (2026)",
@@ -45,6 +45,12 @@
         "Worth it: any card you will sell for several times the fee.",
         "Not worth it: base cards and commons that sell for less than the fee.",
         "Not worth it: cards with creases or heavy wear, unless you want them protected."
+      ]
+    },
+    {
+      "h": "What an AGS 10 has sold for",
+      "p": [
+        "An AGS GEM-MT 10 copy of the 2002 Japanese Mysterious Mountains 1st Edition Crystal Charizard sold at Goldin for $109,800 in September 2026, buyer's premium included. PriceCharting's record of Goldin sales shows PSA 10 copies of the same card at roughly $40,000 to $93,000 during 2026. One sale does not set a market, and PSA holders still bring more on most cards."
       ]
     }
   ],
@@ -128,10 +134,10 @@
   "related": [
     "iscardgradingworthit.com",
     "isgradingcardsworthit.com",
-    "howtogetcardsgraded.com",
     "cardgradingnearme.com",
     "cheapestcardgrading.com",
-    "aicardgradingcompany.com"
+    "aicardgradingcompany.com",
+    "fastestcardgrading.com"
   ],
   "cta": {
     "url": "https://agscard.com/pricing?utm_source=bestcardstogetgraded.com&utm_medium=guide&utm_campaign=ags-guides",

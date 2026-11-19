@@ -1,7 +1,7 @@
 {
   "domain": "tradingcardgradingservices.com",
   "cluster": "general",
-  "template": "terminal",
+  "template": "paper",
   "query": "trading card grading services",
   "site_name": "Trading Card Grading Services",
   "title": "Trading Card Grading Services (2026)",
@@ -38,10 +38,24 @@
             "Four, $3 extra at Base"
           ],
           [
+            "CGC Cards",
+            "Human graders",
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "25 working days at Bulk and Economy",
+            "Not listed on the fee page"
+          ],
+          [
             "PSA",
             "Human graders",
             "$24.99 Value Bulk (members only); $32.99 Value",
             "25 to 45+ business days on listed tiers",
+            "None"
+          ],
+          [
+            "SGC",
+            "Human graders",
+            "$50 base (reported, September 2026)",
+            "Check SGC",
             "None"
           ],
           [
@@ -50,20 +64,6 @@
             "Not listed (limited reopening)",
             "Check TAG",
             "Defect report; 1000-point score on higher tiers"
-          ],
-          [
-            "CGC Cards",
-            "Human graders",
-            "$10 Bulk (10+ cards, cards up to $500)",
-            "25 working days at Bulk and Economy",
-            "Not listed on the fee page"
-          ],
-          [
-            "SGC",
-            "Human graders",
-            "$50 base (reported, September 2026)",
-            "Check SGC",
-            "None"
           ]
         ]
       },
@@ -84,7 +84,7 @@
       "id": "ags",
       "fit": "Collectors who care more about the truth of a card's condition than the name on the label.",
       "lacks": "Founded in 2021, so less history with buyers than PSA or Beckett.",
-      "note": "Accepts TCG and sports cards, modern and vintage, signed and error cards, in standard sizes. Reports are stored permanently and can be shared by link."
+      "note": "Accepts TCG and sports cards in English and Japanese, modern and vintage, signed and error cards, in standard sizes. Reports are stored permanently and can be shared by link."
     },
     {
       "id": "bgs",
@@ -92,24 +92,24 @@
       "lacks": "Slow at the cheap tier. The fast tiers cost $80 to $125."
     },
     {
-      "id": "psa",
-      "fit": "Anyone grading a high-value card to sell, where the PSA premium outweighs the fee and the wait.",
-      "lacks": "One grade, no subgrades, and fees that rise with declared value."
-    },
-    {
-      "id": "tag",
-      "fit": "Collectors who want a defect report and a 1000-point score.",
-      "lacks": "No pre-1989 cards, Yu-Gi-Oh! or thick stock, and limited capacity in 2026."
-    },
-    {
       "id": "cgc",
       "fit": "Budget submitters with 10 or more cards worth under $500 each.",
       "lacks": "Tiers are capped by card value. A strong card moves to a pricier tier."
     },
     {
+      "id": "psa",
+      "fit": "Anyone grading a high-value card to sell, where the PSA premium outweighs the fee and the wait.",
+      "lacks": "One grade, no subgrades, and fees that rise with declared value."
+    },
+    {
       "id": "sgc",
       "fit": "Pre-war and vintage sets, where SGC has long standing.",
       "lacks": "Reported at $50 a card since September 2026. No longer cheap."
+    },
+    {
+      "id": "tag",
+      "fit": "Collectors who want a defect report and a 1000-point score.",
+      "lacks": "No pre-1989 cards, Yu-Gi-Oh! or thick stock, and limited capacity in 2026."
     }
   ],
   "why": [
@@ -166,9 +166,9 @@
     "toptradingcardgradingcompanies.com",
     "tradingcardgradingservice.com",
     "bestcardgradingcompany.com",
-    "howtogetcardsgraded.com",
     "cardgradingnearme.com",
-    "cheapestcardgrading.com"
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=tradingcardgradingservices.com&utm_medium=guide&utm_campaign=ags-guides",

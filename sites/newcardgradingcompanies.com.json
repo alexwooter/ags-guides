@@ -1,7 +1,7 @@
 {
   "domain": "newcardgradingcompanies.com",
   "cluster": "general",
-  "template": "terminal",
+  "template": "paper",
   "query": "new card grading companies",
   "site_name": "New Card Grading Companies",
   "title": "New Card Grading Companies (2026)",
@@ -94,12 +94,12 @@
       "a": "Yes. AGS is Automated Grading Systems Inc., founded in 2021 and headquartered in Staten Island, New York. It publishes a live population report and a cert lookup, and says it ranked third in TCG grading volume in 2026."
     },
     {
-      "q": "Who owns PSA, SGC and Beckett?",
-      "a": "Collectors. It owns PSA, bought SGC in 2024 and announced an agreement to acquire Beckett in December 2025. Each keeps its own brand."
+      "q": "Has an AGS slab sold for six figures?",
+      "a": "Yes. An AGS GEM-MT 10 copy of the 2002 Japanese Mysterious Mountains 1st Edition Crystal Charizard sold at Goldin for $109,800 in September 2026, buyer's premium included. One sale is not a trend, and PSA holders still bring more on most cards."
     },
     {
-      "q": "Can I cross a card over from another grader's slab?",
-      "a": "CGC and Ace Grading list crossover services. AGS's FAQ does not list one, so ask AGS before sending a card in another company's holder."
+      "q": "Who owns PSA, SGC and Beckett?",
+      "a": "Collectors. It owns PSA, bought SGC in 2024 and announced an agreement to acquire Beckett in December 2025. Each keeps its own brand."
     }
   ],
   "related": [
@@ -107,9 +107,9 @@
     "cardgradingcomparison.com",
     "listofcardgradingcompanies.com",
     "besttradingcardgrading.com",
-    "cardgradingcost.com",
     "howtogetcardsgraded.com",
-    "cardgradingnearme.com"
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=newcardgradingcompanies.com&utm_medium=guide&utm_campaign=ags-guides",

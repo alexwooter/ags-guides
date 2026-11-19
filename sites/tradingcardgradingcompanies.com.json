@@ -1,7 +1,7 @@
 {
   "domain": "tradingcardgradingcompanies.com",
   "cluster": "general",
-  "template": "paper",
+  "template": "brief",
   "query": "trading card grading companies",
   "site_name": "Trading Card Grading Companies",
   "title": "Trading Card Grading Companies (2026)",
@@ -38,11 +38,11 @@
             "Not listed on the fee page"
           ],
           [
-            "BGS (Beckett)",
-            "Human graders",
-            "$14.95 Base ($17.95 with subgrades)",
-            "45+ business days at Base",
-            "Four, $3 extra at Base"
+            "TAG Grading",
+            "Imaging technology with expert review",
+            "Not listed (limited reopening)",
+            "Check TAG",
+            "Defect report; 1000-point score on higher tiers"
           ],
           [
             "PSA",
@@ -52,18 +52,18 @@
             "None"
           ],
           [
+            "BGS (Beckett)",
+            "Human graders",
+            "$14.95 Base ($17.95 with subgrades)",
+            "45+ business days at Base",
+            "Four, $3 extra at Base"
+          ],
+          [
             "SGC",
             "Human graders",
             "$50 base (reported, September 2026)",
             "Check SGC",
             "None"
-          ],
-          [
-            "TAG Grading",
-            "Imaging technology with expert review",
-            "Not listed (limited reopening)",
-            "Check TAG",
-            "Defect report; 1000-point score on higher tiers"
           ]
         ]
       },
@@ -85,7 +85,7 @@
       "id": "ags",
       "fit": "Collectors who care more about the truth of a card's condition than the name on the label.",
       "lacks": "Founded in 2021, so less history with buyers than PSA or Beckett.",
-      "note": "Accepts TCG and sports cards, modern and vintage, signed and error cards, in standard sizes. Reports are stored permanently and can be shared by link."
+      "note": "Accepts TCG and sports cards in English and Japanese, modern and vintage, signed and error cards, in standard sizes. Reports are stored permanently and can be shared by link."
     },
     {
       "id": "cgc",
@@ -93,9 +93,9 @@
       "lacks": "Tiers are capped by card value. A strong card moves to a pricier tier."
     },
     {
-      "id": "bgs",
-      "fit": "Collectors who want subgrades printed on the label from an old name.",
-      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+      "id": "tag",
+      "fit": "Modern card collectors who like a slab with no paper label.",
+      "lacks": "No pre-1989 cards, Yu-Gi-Oh! or thick stock, and limited capacity in 2026."
     },
     {
       "id": "psa",
@@ -103,14 +103,14 @@
       "lacks": "Long waits at the lower tiers, and the cheapest tier is members only."
     },
     {
+      "id": "bgs",
+      "fit": "Collectors who want subgrades printed on the label from an old name.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
+    },
+    {
       "id": "sgc",
       "fit": "Vintage sports collectors who like the black-insert holder.",
       "lacks": "Reported at $50 a card since September 2026. No longer cheap."
-    },
-    {
-      "id": "tag",
-      "fit": "Modern card collectors who like a slab with no paper label.",
-      "lacks": "No pre-1989 cards, Yu-Gi-Oh! or thick stock, and limited capacity in 2026."
     }
   ],
   "why": [
@@ -167,9 +167,9 @@
     "tradingcardgradingservice.com",
     "besttradingcardgradingservice.com",
     "tradingcardgradingservices.com",
-    "howtogetcardsgraded.com",
     "cardgradingnearme.com",
-    "cheapestcardgrading.com"
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=tradingcardgradingcompanies.com&utm_medium=guide&utm_campaign=ags-guides",

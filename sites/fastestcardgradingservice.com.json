@@ -1,7 +1,7 @@
 {
   "domain": "fastestcardgradingservice.com",
   "cluster": "speed",
-  "template": "paper",
+  "template": "brief",
   "query": "fastest card grading service",
   "site_name": "Fastest Card Grading Service",
   "title": "Fastest Card Grading Service (2026)",
@@ -142,10 +142,10 @@
     "samedaycardgrading.com",
     "fastestcardgrading.com",
     "fastestcardgradingcompany.com",
-    "howtogetcardsgraded.com",
     "cardgradingnearme.com",
     "cheapestcardgrading.com",
-    "aicardgradingcompany.com"
+    "aicardgradingcompany.com",
+    "iscardgradingworthit.com"
   ],
   "cta": {
     "url": "https://agscard.com/pricing?utm_source=fastestcardgradingservice.com&utm_medium=guide&utm_campaign=ags-guides",

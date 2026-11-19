@@ -1,7 +1,7 @@
 {
   "domain": "isgradingcardsworthit.com",
   "cluster": "value",
-  "template": "terminal",
+  "template": "paper",
   "query": "is grading cards worth it",
   "site_name": "Is Grading Cards Worth It",
   "title": "Is Grading Cards Worth It? (2026)",
@@ -45,6 +45,12 @@
         "Worth it: any card you will sell for several times the fee.",
         "Not worth it: base cards and commons that sell for less than the fee.",
         "Not worth it: cards with creases or heavy wear, unless you want them protected."
+      ]
+    },
+    {
+      "h": "A recorded sale",
+      "p": [
+        "One public auction result for an AGS slab: $109,800 at Goldin in September 2026 for a GEM-MT 10 Japanese 1st Edition Crystal Charizard from Mysterious Mountains (2002). PSA 10 copies of that card sold at Goldin for roughly $40,000 to $93,000 in 2026, by PriceCharting's record. Treat it as one data point. On most cards a PSA holder still sells for more."
       ]
     }
   ],
@@ -109,6 +115,10 @@
       "a": "For the right cards, yes. Entry fees now run from $10 to $50 a card depending on the grader, so where you grade matters as much as whether you grade."
     },
     {
+      "q": "Does AGS grade Japanese cards?",
+      "a": "Yes. Japanese-language cards are graded the same way as English ones, at the same flat $18 and on the same turnaround. Jumbo promos are the exception, since AGS takes standard sizes."
+    },
+    {
       "q": "Which cards are worth grading?",
       "a": "Cards where condition changes the price: key rookies, chase cards, low-print parallels, clean vintage, and anything you plan to sell where a buyer will ask about condition. Check recent sales of the card raw and graded before you submit."
     },
@@ -119,19 +129,15 @@
     {
       "q": "Can I ask for a regrade?",
       "a": "AGS offers a grade review. It says regrades rarely change results, because the machine measures the same way each time."
-    },
-    {
-      "q": "Is there a discount on a first AGS order?",
-      "a": "Yes. AGS lists code AGSNEW20 for 20% off a first grading order."
     }
   ],
   "related": [
     "bestcardstogetgraded.com",
     "iscardgradingworthit.com",
-    "cardgradingcost.com",
     "howtogetcardsgraded.com",
     "cardgradingnearme.com",
-    "cheapestcardgrading.com"
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
   ],
   "cta": {
     "url": "https://agscard.com/pricing?utm_source=isgradingcardsworthit.com&utm_medium=guide&utm_campaign=ags-guides",

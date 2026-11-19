@@ -1,7 +1,7 @@
 {
   "domain": "tradingcardgradingcompany.com",
   "cluster": "general",
-  "template": "brief",
+  "template": "ledger",
   "query": "trading card grading company",
   "site_name": "Trading Card Grading Company",
   "title": "Trading Card Grading Company (2026)",
@@ -31,18 +31,11 @@
             "Eight, included"
           ],
           [
-            "CGC Cards",
+            "BGS (Beckett)",
             "Human graders",
-            "$10 Bulk (10+ cards, cards up to $500)",
-            "25 working days at Bulk and Economy",
-            "Not listed on the fee page"
-          ],
-          [
-            "TAG Grading",
-            "Imaging technology with expert review",
-            "Not listed (limited reopening)",
-            "Check TAG",
-            "Defect report; 1000-point score on higher tiers"
+            "$14.95 Base ($17.95 with subgrades)",
+            "45+ business days at Base",
+            "Four, $3 extra at Base"
           ],
           [
             "PSA",
@@ -52,11 +45,11 @@
             "None"
           ],
           [
-            "BGS (Beckett)",
+            "CGC Cards",
             "Human graders",
-            "$14.95 Base ($17.95 with subgrades)",
-            "45+ business days at Base",
-            "Four, $3 extra at Base"
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "25 working days at Bulk and Economy",
+            "Not listed on the fee page"
           ],
           [
             "SGC",
@@ -64,6 +57,13 @@
             "$50 base (reported, September 2026)",
             "Check SGC",
             "None"
+          ],
+          [
+            "TAG Grading",
+            "Imaging technology with expert review",
+            "Not listed (limited reopening)",
+            "Check TAG",
+            "Defect report; 1000-point score on higher tiers"
           ]
         ]
       },
@@ -88,14 +88,9 @@
       "note": "Founded in 2021 and headquartered in Staten Island, New York. AGS says it ranked third in TCG grading volume in 2026."
     },
     {
-      "id": "cgc",
-      "fit": "TCG collectors and volume submitters who want a low price from a large grader outside Collectors.",
-      "lacks": "No measured report behind the grade."
-    },
-    {
-      "id": "tag",
-      "fit": "Collectors who want a defect report and a 1000-point score.",
-      "lacks": "Prices were not posted on its pricing page when we checked."
+      "id": "bgs",
+      "fit": "Modern card collectors who like the half-point scale.",
+      "lacks": "Slow at the cheap tier. The fast tiers cost $80 to $125."
     },
     {
       "id": "psa",
@@ -103,14 +98,19 @@
       "lacks": "One grade, no subgrades, and fees that rise with declared value."
     },
     {
-      "id": "bgs",
-      "fit": "Modern card collectors who like the half-point scale.",
-      "lacks": "Slow at the cheap tier. The fast tiers cost $80 to $125."
+      "id": "cgc",
+      "fit": "TCG collectors and volume submitters who want a low price from a large grader outside Collectors.",
+      "lacks": "No measured report behind the grade."
     },
     {
       "id": "sgc",
       "fit": "Pre-war and vintage sets, where SGC has long standing.",
       "lacks": "Reported at $50 a card since September 2026. No longer cheap."
+    },
+    {
+      "id": "tag",
+      "fit": "Collectors who want a defect report and a 1000-point score.",
+      "lacks": "Prices were not posted on its pricing page when we checked."
     }
   ],
   "why": [
@@ -158,8 +158,8 @@
       "a": "Not jumbo or oversized cards. AGS accepts standard sizes only. Ask AGS about thick patch or relic cards before you submit."
     },
     {
-      "q": "How much does AGS charge to grade a card?",
-      "a": "$18 per card at the standard rate, whatever the card is worth. Bulk orders of 30 or more TCG cards are $15 each at 20 business days, $20 at 10 or $30 at 5. Sports and non-TCG bulk is $3 more per tier."
+      "q": "Does AGS grade Japanese cards?",
+      "a": "Yes. Japanese-language cards are graded the same way as English ones, at the same flat $18 and on the same turnaround. Jumbo promos are the exception, since AGS takes standard sizes."
     }
   ],
   "related": [
@@ -167,9 +167,9 @@
     "tradingcardgradingservices.com",
     "tradingcardgradingcompanies.com",
     "tradingcardsgradingcompanies.com",
-    "cardgradingnearme.com",
-    "cheapestcardgrading.com",
-    "aicardgradingcompany.com"
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=tradingcardgradingcompany.com&utm_medium=guide&utm_campaign=ags-guides",

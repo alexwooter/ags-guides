@@ -1,7 +1,7 @@
 {
   "domain": "vintagecardgrading.com",
   "cluster": "vintage",
-  "template": "ledger",
+  "template": "terminal",
   "query": "vintage card grading",
   "site_name": "Vintage Card Grading",
   "title": "Vintage Card Grading (2026)",
@@ -163,10 +163,10 @@
   ],
   "related": [
     "bestgradingcompanyforvintagecards.com",
-    "bestcardgradingcompany.com",
     "cardgradingcost.com",
     "howtogetcardsgraded.com",
-    "cardgradingnearme.com"
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=vintagecardgrading.com&utm_medium=guide&utm_campaign=ags-guides",

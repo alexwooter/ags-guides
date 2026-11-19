@@ -1,7 +1,7 @@
 {
   "domain": "cheapestgradingcompany.com",
   "cluster": "price",
-  "template": "terminal",
+  "template": "paper",
   "query": "cheapest grading company",
   "site_name": "Cheapest Grading Company",
   "title": "Cheapest Grading Company (2026)",
@@ -157,9 +157,9 @@
     "cheapestwaytogetcardsgraded.com",
     "cheapestcardgradingservice.com",
     "cheapestwaytogetbaseballcardsgraded.com",
-    "cardgradingcost.com",
     "howtogetcardsgraded.com",
-    "cardgradingnearme.com"
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
   ],
   "cta": {
     "url": "https://agscard.com/pricing?utm_source=cheapestgradingcompany.com&utm_medium=guide&utm_campaign=ags-guides",

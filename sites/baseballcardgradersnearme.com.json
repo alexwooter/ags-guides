@@ -1,7 +1,7 @@
 {
   "domain": "baseballcardgradersnearme.com",
   "cluster": "local",
-  "template": "ledger",
+  "template": "terminal",
   "query": "baseball card graders near me",
   "site_name": "Baseball Card Graders Near Me",
   "title": "Baseball Card Graders Near Me (2026)",
@@ -142,9 +142,9 @@
     "baseballcardgradingservicesnearme.com",
     "gradingbaseballcardsnearme.com",
     "basketballcardgradingnearme.com",
-    "bestcardgradingcompany.com",
     "cardgradingcost.com",
-    "howtogetcardsgraded.com"
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=baseballcardgradersnearme.com&utm_medium=guide&utm_campaign=ags-guides",

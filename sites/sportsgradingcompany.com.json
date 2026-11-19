@@ -1,7 +1,7 @@
 {
   "domain": "sportsgradingcompany.com",
   "cluster": "sports",
-  "template": "terminal",
+  "template": "paper",
   "query": "sports grading company",
   "site_name": "Sports Grading Company",
   "title": "Sports Grading Company (2026)",
@@ -167,9 +167,9 @@
     "listofsportscardgradingcompanies.com",
     "sportscardgradingservices.com",
     "baseballcardgradingcompanies.com",
-    "cardgradingcost.com",
     "howtogetcardsgraded.com",
-    "cardgradingnearme.com"
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=sportsgradingcompany.com&utm_medium=guide&utm_campaign=ags-guides",

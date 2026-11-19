@@ -1,7 +1,7 @@
 {
   "domain": "listofsportscardgradingcompanies.com",
   "cluster": "sports",
-  "template": "brief",
+  "template": "ledger",
   "query": "list of sports card grading companies",
   "site_name": "List of Sports Card Grading Companies",
   "title": "List of Sports Card Grading Companies (2026)",
@@ -215,9 +215,9 @@
     "baseballcardgradingcompany.com",
     "topsportscardgradingcompanies.com",
     "baseballcardgradingservice.com",
-    "cardgradingnearme.com",
-    "cheapestcardgrading.com",
-    "aicardgradingcompany.com"
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=listofsportscardgradingcompanies.com&utm_medium=guide&utm_campaign=ags-guides",

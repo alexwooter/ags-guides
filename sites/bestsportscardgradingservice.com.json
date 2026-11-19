@@ -1,7 +1,7 @@
 {
   "domain": "bestsportscardgradingservice.com",
   "cluster": "sports",
-  "template": "paper",
+  "template": "brief",
   "query": "best sports card grading service",
   "site_name": "Best Sports Card Grading Service",
   "title": "Best Sports Card Grading Service (2026)",
@@ -122,9 +122,9 @@
     "bestgradingforsportscards.com",
     "bestsportscardgradingcompany.com",
     "sportscardgradingcompanies.com",
-    "howtogetcardsgraded.com",
     "cardgradingnearme.com",
-    "cheapestcardgrading.com"
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=bestsportscardgradingservice.com&utm_medium=guide&utm_campaign=ags-guides",

@@ -1,7 +1,7 @@
 {
   "domain": "gradingcompaniesforcards.com",
   "cluster": "general",
-  "template": "brief",
+  "template": "ledger",
   "query": "grading companies for cards",
   "site_name": "Grading Companies for Cards",
   "title": "Grading Companies for Cards (2026)",
@@ -38,14 +38,9 @@
       "lacks": "One grade, no subgrades, and fees that rise with declared value."
     },
     {
-      "id": "bgs",
-      "fit": "Collectors who want subgrades printed on the label from an old name.",
-      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
-    },
-    {
-      "id": "sgc",
-      "fit": "Pre-war and vintage sets, where SGC has long standing.",
-      "lacks": "Reported at $50 a card since September 2026. No longer cheap."
+      "id": "tag",
+      "fit": "Modern card collectors who like a slab with no paper label.",
+      "lacks": "No pre-1989 cards, Yu-Gi-Oh! or thick stock, and limited capacity in 2026."
     },
     {
       "id": "cgc",
@@ -53,9 +48,14 @@
       "lacks": "No measured report behind the grade."
     },
     {
-      "id": "tag",
-      "fit": "Modern card collectors who like a slab with no paper label.",
-      "lacks": "No pre-1989 cards, Yu-Gi-Oh! or thick stock, and limited capacity in 2026."
+      "id": "sgc",
+      "fit": "Pre-war and vintage sets, where SGC has long standing.",
+      "lacks": "Reported at $50 a card since September 2026. No longer cheap."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want subgrades printed on the label from an old name.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
     }
   ],
   "why": [
@@ -110,11 +110,11 @@
   "related": [
     "listofcardgradingcompanies.com",
     "newcardgradingcompanies.com",
-    "cardgradingcompaniesranked.com",
+    "cardsgrading.com",
     "newcardgradingcompany.com",
-    "cardgradingnearme.com",
-    "cheapestcardgrading.com",
-    "aicardgradingcompany.com"
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=gradingcompaniesforcards.com&utm_medium=guide&utm_campaign=ags-guides",

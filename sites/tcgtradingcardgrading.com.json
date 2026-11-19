@@ -1,7 +1,7 @@
 {
   "domain": "tcgtradingcardgrading.com",
   "cluster": "tcg",
-  "template": "terminal",
+  "template": "paper",
   "query": "TCG trading card grading",
   "site_name": "TCG Trading Card Grading",
   "title": "TCG Trading Card Grading (2026)",
@@ -166,9 +166,9 @@
     "japanesecardgrading.com",
     "tcggradingservices.com",
     "besttcggrading.com",
-    "cardgradingcost.com",
     "howtogetcardsgraded.com",
-    "cardgradingnearme.com"
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=tcgtradingcardgrading.com&utm_medium=guide&utm_campaign=ags-guides",

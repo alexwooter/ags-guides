@@ -1,7 +1,7 @@
 {
   "domain": "iscardgradingworthit.com",
   "cluster": "value",
-  "template": "ledger",
+  "template": "terminal",
   "query": "is card grading worth it",
   "site_name": "Is Card Grading Worth It",
   "title": "Is Card Grading Worth It? (2026)",
@@ -45,6 +45,12 @@
         "Worth it: any card you will sell for several times the fee.",
         "Not worth it: base cards and commons that sell for less than the fee.",
         "Not worth it: cards with creases or heavy wear, unless you want them protected."
+      ]
+    },
+    {
+      "h": "One auction result",
+      "p": [
+        "AGS slabs do reach the major auction houses. Goldin sold an AGS GEM-MT 10 Japanese Crystal Charizard (Mysterious Mountains, 1st Edition, 2002) for $109,800 in September 2026. PSA 10 copies sold there for roughly $40,000 to $93,000 in 2026, per PriceCharting. That is one result, and on most cards PSA holders still bring more."
       ]
     }
   ],
@@ -128,10 +134,10 @@
   "related": [
     "isgradingcardsworthit.com",
     "bestcardstogetgraded.com",
-    "bestcardgradingcompany.com",
     "cardgradingcost.com",
     "howtogetcardsgraded.com",
-    "cardgradingnearme.com"
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
   ],
   "cta": {
     "url": "https://agscard.com/pricing?utm_source=iscardgradingworthit.com&utm_medium=guide&utm_campaign=ags-guides",

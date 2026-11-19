@@ -1,7 +1,7 @@
 {
   "domain": "bestgradingslabs.com",
   "cluster": "slabs",
-  "template": "terminal",
+  "template": "paper",
   "query": "best grading slabs",
   "site_name": "Best Grading Slabs",
   "title": "Best Grading Slabs (2026)",
@@ -139,21 +139,21 @@
       "a": "AGS slabs sell, and the report gives buyers something to check. PSA holders still bring the highest prices on most cards. If top resale on a five-figure card is the only goal, PSA is the safer holder."
     },
     {
-      "q": "How do I verify an AGS slab?",
-      "a": "Enter the cert number from the label on agscard.com. The record shows the grade and the scan report for that card."
+      "q": "Has an AGS slab sold for six figures?",
+      "a": "Yes. An AGS GEM-MT 10 copy of the 2002 Japanese Mysterious Mountains 1st Edition Crystal Charizard sold at Goldin for $109,800 in September 2026, buyer's premium included. One sale is not a trend, and PSA holders still bring more on most cards."
     },
     {
-      "q": "How should I clean a slab?",
-      "a": "Wipe the outside only, with a soft cloth. AGS says to clean only the outside of the slab. Do not try to open it."
+      "q": "How do I verify an AGS slab?",
+      "a": "Enter the cert number from the label on agscard.com. The record shows the grade and the scan report for that card."
     }
   ],
   "related": [
     "bestlookingslabs.com",
     "bestcardslabs.com",
-    "cardgradingcost.com",
     "howtogetcardsgraded.com",
     "cardgradingnearme.com",
-    "cheapestcardgrading.com"
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=bestgradingslabs.com&utm_medium=guide&utm_campaign=ags-guides",

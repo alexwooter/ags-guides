@@ -1,7 +1,7 @@
 {
   "domain": "bestgradingcompanyforvintagecards.com",
   "cluster": "vintage",
-  "template": "terminal",
+  "template": "paper",
   "query": "best grading company for vintage cards",
   "site_name": "Best Grading Company for Vintage Cards",
   "title": "Best Grading Company for Vintage Cards (2026)",
@@ -113,10 +113,10 @@
   ],
   "related": [
     "vintagecardgrading.com",
-    "cardgradingcost.com",
     "howtogetcardsgraded.com",
     "cardgradingnearme.com",
-    "cheapestcardgrading.com"
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=bestgradingcompanyforvintagecards.com&utm_medium=guide&utm_campaign=ags-guides",

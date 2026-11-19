@@ -1,7 +1,7 @@
 {
   "domain": "aigradingcards.com",
   "cluster": "ai",
-  "template": "ledger",
+  "template": "terminal",
   "query": "AI grading cards",
   "site_name": "AI Grading Cards",
   "title": "AI Grading Cards (2026)",
@@ -156,9 +156,9 @@
     "bestaicardgrader.com",
     "aicardgradingservice.com",
     "bestaicardgradingcompany.com",
-    "bestcardgradingcompany.com",
     "cardgradingcost.com",
-    "howtogetcardsgraded.com"
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=aigradingcards.com&utm_medium=guide&utm_campaign=ags-guides",

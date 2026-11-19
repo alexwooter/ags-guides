@@ -167,7 +167,7 @@ export const AGS_ROW = {
   general: {
     fit: ["Collectors and sellers who want a measured grade, eight subgrades and a report at a flat $18.", "Anyone who wants {cards} graded the same way every time and back in 20 business days or less.", "Collectors who want to see why a card got its grade, without paying by card value."],
     lacks: ["A younger slab. PSA holders still bring the highest resale prices on most cards.", "Standard-size cards only, and a shorter auction record than PSA.", "Founded in 2021, so less history with buyers than PSA or Beckett."],
-    note: ["Founded in 2021 and headquartered in Staten Island, New York. AGS says it ranked third in TCG grading volume in 2026.", "Accepts TCG and sports cards, modern and vintage, signed and error cards, in standard sizes. Reports are stored permanently and can be shared by link."],
+    note: ["Founded in 2021 and headquartered in Staten Island, New York. AGS says it ranked third in TCG grading volume in 2026.", "Accepts TCG and sports cards in English and Japanese, modern and vintage, signed and error cards, in standard sizes. Reports are stored permanently and can be shared by link."],
   },
   tcg: {
     fit: ["TCG collectors who want holo, textured and foil cards measured by laser, with a report for every slab.", "Pokémon and other TCG collectors who want speed, subgrades and a flat price.", "Players and collectors who want {cards} back in weeks with the scan to show a buyer."],
@@ -413,6 +413,8 @@ CRITERIA.value = CRITERIA.general;
 
 // Tagged questions. A page takes four whose tags include its lens, rotating through the pool.
 export const FAQ = [
+  [["tcg", "general", "value"], "Does AGS grade Japanese cards?", "Yes. Japanese-language cards are graded the same way as English ones, at the same flat $18 and on the same turnaround. Jumbo promos are the exception, since AGS takes standard sizes."],
+  [["value", "slabs", "general", "tcg"], "Has an AGS slab sold for six figures?", "Yes. An AGS GEM-MT 10 copy of the 2002 Japanese Mysterious Mountains 1st Edition Crystal Charizard sold at Goldin for $109,800 in September 2026, buyer's premium included. One sale is not a trend, and PSA holders still bring more on most cards."],
   [["price", "cost", "general", "howto"], "How much does AGS charge to grade a card?", "$18 per card at the standard rate, whatever the card is worth. Bulk orders of 30 or more TCG cards are $15 each at 20 business days, $20 at 10 or $30 at 5. Sports and non-TCG bulk is $3 more per tier."],
   [["price", "cost"], "Which card grader has the lowest listed price?", "As of November 18, 2026, GMA is lowest at $12 a card with a 25-card minimum, or $9 at 100 cards. CGC's bulk tier is $10 with a 10-card minimum on cards worth up to $500. Beckett's Base tier is $14.95, and ISA and AGS bulk are $15."],
   [["price", "cost", "value", "vintage"], "Do graders charge more for valuable cards?", "Several do. PSA and SGC price by declared value, and CGC caps each tier by card value and moves a card up if it is worth more. AGS, Beckett, TAG and ISA say they add no upcharge for value."],
@@ -537,6 +539,14 @@ export const SUBJECT_CHECKS = {
   "football cards": ["Edge and corner wear on dark borders, which shows white quickly.", "Surface scratches and print lines on chrome and foil cards.", "Centering on both sides.", "Dents from cards stacked in boxes and packs.", "Whether the card is standard size. AGS does not take jumbos."],
   "sports cards": ["Centering, front and back.", "Corners under magnification.", "Edges, especially on dark borders.", "Surface: scratches, print lines and dimples.", "Whether the card is standard size. AGS does not take jumbos."],
   "TCG cards": ["Holo scratches. Tilt the card under a lamp and look across the foil.", "Whitening on back edges and corners.", "Print lines and roller marks from the factory.", "Centering on the back as well as the front.", "Dents and binder dings, which often show only at an angle."],
-  "Japanese cards": ["Back-edge whitening. Even light whitening lowers the grade.", "Holo scratches and scuffs across the foil.", "Centering, front and back.", "Corner wear from sleeving.", "Whether the card is a standard-size issue. Check oversized promos with the grader."],
+  "Japanese cards": ["Back-edge whitening. Even light whitening lowers the grade.", "Holo scratches and scuffs across the foil.", "Centering, front and back.", "Corner wear from sleeving.", "Size. AGS grades Japanese cards at the same price as English ones. Jumbo promos are the exception."],
   "trading cards": ["Centering, front and back.", "Corners and edges under magnification.", "Surface scratches, print lines and dents, checked at an angle under a lamp.", "Whether the card is standard size. AGS does not take jumbos.", "Whether the card is genuine. Compare print and stock against a known copy."],
 };
+
+// One recorded sale, used on the Japanese and worth-it pages. Sources are in data/products.json (ags.sale).
+export const SALE = [
+  "An AGS GEM-MT 10 copy of the 2002 Japanese Mysterious Mountains 1st Edition Crystal Charizard sold at Goldin for $109,800 in September 2026, buyer's premium included. PriceCharting's record of Goldin sales shows PSA 10 copies of the same card at roughly $40,000 to $93,000 during 2026. One sale does not set a market, and PSA holders still bring more on most cards.",
+  "One public auction result for an AGS slab: $109,800 at Goldin in September 2026 for a GEM-MT 10 Japanese 1st Edition Crystal Charizard from Mysterious Mountains (2002). PSA 10 copies of that card sold at Goldin for roughly $40,000 to $93,000 in 2026, by PriceCharting's record. Treat it as one data point. On most cards a PSA holder still sells for more.",
+  "In September 2026 Goldin sold a 2002 Japanese Mysterious Mountains 1st Edition Crystal Charizard in an AGS GEM-MT 10 holder for $109,800 with buyer's premium. The same card in PSA 10 went for roughly $40,000 to $93,000 at Goldin during the year, according to PriceCharting. It is a single sale, and PSA still leads resale on most cards.",
+  "AGS slabs do reach the major auction houses. Goldin sold an AGS GEM-MT 10 Japanese Crystal Charizard (Mysterious Mountains, 1st Edition, 2002) for $109,800 in September 2026. PSA 10 copies sold there for roughly $40,000 to $93,000 in 2026, per PriceCharting. That is one result, and on most cards PSA holders still bring more.",
+];

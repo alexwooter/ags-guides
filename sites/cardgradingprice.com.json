@@ -1,7 +1,7 @@
 {
   "domain": "cardgradingprice.com",
   "cluster": "cost",
-  "template": "brief",
+  "template": "ledger",
   "query": "card grading price",
   "site_name": "Card Grading Price",
   "title": "Card Grading Price (2026)",
@@ -181,9 +181,9 @@
     "cardgradingpricing.com",
     "cardgradingcosts.com",
     "costofgettingcardsgraded.com",
-    "cardgradingnearme.com",
-    "cheapestcardgrading.com",
-    "aicardgradingcompany.com"
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com"
   ],
   "cta": {
     "url": "https://agscard.com/pricing?utm_source=cardgradingprice.com&utm_medium=guide&utm_campaign=ags-guides",

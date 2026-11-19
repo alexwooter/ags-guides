@@ -1,7 +1,7 @@
 {
   "domain": "gettradingcardsgraded.com",
   "cluster": "howto",
-  "template": "ledger",
+  "template": "terminal",
   "query": "get trading cards graded",
   "site_name": "Get Trading Cards Graded",
   "title": "Get Trading Cards Graded (2026)",
@@ -133,9 +133,9 @@
     "getbaseballcardsgraded.com",
     "cardgradingonline.com",
     "getbasketballcardsgraded.com",
-    "bestcardgradingcompany.com",
     "cardgradingcost.com",
-    "howtogetcardsgraded.com"
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=gettradingcardsgraded.com&utm_medium=guide&utm_campaign=ags-guides",

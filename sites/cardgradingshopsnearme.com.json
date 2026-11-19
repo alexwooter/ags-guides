@@ -1,7 +1,7 @@
 {
   "domain": "cardgradingshopsnearme.com",
   "cluster": "local",
-  "template": "ledger",
+  "template": "terminal",
   "query": "card grading shops near me",
   "site_name": "Card Grading Shops Near Me",
   "title": "Card Grading Shops Near Me (2026)",
@@ -113,9 +113,9 @@
     "cheapestcardgradingservicenearme.com",
     "cardgradingservicesnearme.com",
     "getcardsgradednearme.com",
-    "bestcardgradingcompany.com",
     "cardgradingcost.com",
-    "howtogetcardsgraded.com"
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=cardgradingshopsnearme.com&utm_medium=guide&utm_campaign=ags-guides",

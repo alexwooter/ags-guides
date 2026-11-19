@@ -1,7 +1,7 @@
 {
   "domain": "bestgradingforsportscards.com",
   "cluster": "sports",
-  "template": "ledger",
+  "template": "terminal",
   "query": "best grading for sports cards",
   "site_name": "Best Grading for Sports Cards",
   "title": "Best Grading for Sports Cards (2026)",
@@ -167,9 +167,9 @@
     "sportscardgradingcompany.com",
     "bestgradingcompanyforsportscards.com",
     "sportscardgradingservice.com",
-    "bestcardgradingcompany.com",
     "cardgradingcost.com",
-    "howtogetcardsgraded.com"
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=bestgradingforsportscards.com&utm_medium=guide&utm_campaign=ags-guides",

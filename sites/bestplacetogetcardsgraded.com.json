@@ -1,7 +1,7 @@
 {
   "domain": "bestplacetogetcardsgraded.com",
   "cluster": "howto",
-  "template": "ledger",
+  "template": "terminal",
   "query": "best place to get cards graded",
   "site_name": "Best Place to Get Cards Graded",
   "title": "Best Place to Get Cards Graded (2026)",
@@ -133,9 +133,9 @@
     "getcardgraded.com",
     "wheretogradecards.com",
     "getmycardsgraded.com",
-    "bestcardgradingcompany.com",
     "cardgradingcost.com",
-    "howtogetcardsgraded.com"
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=bestplacetogetcardsgraded.com&utm_medium=guide&utm_campaign=ags-guides",

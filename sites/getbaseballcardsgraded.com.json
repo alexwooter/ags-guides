@@ -1,7 +1,7 @@
 {
   "domain": "getbaseballcardsgraded.com",
   "cluster": "howto",
-  "template": "terminal",
+  "template": "paper",
   "query": "get baseball cards graded",
   "site_name": "Get Baseball Cards Graded",
   "title": "Get Baseball Cards Graded (2026)",
@@ -133,9 +133,9 @@
     "howtogetcardsgraded.com",
     "gettingsportscardsgraded.com",
     "howtogradecards.com",
-    "cardgradingcost.com",
     "cardgradingnearme.com",
-    "cheapestcardgrading.com"
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=getbaseballcardsgraded.com&utm_medium=guide&utm_campaign=ags-guides",

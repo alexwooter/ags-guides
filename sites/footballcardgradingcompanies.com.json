@@ -1,7 +1,7 @@
 {
   "domain": "footballcardgradingcompanies.com",
   "cluster": "sports",
-  "template": "ledger",
+  "template": "terminal",
   "query": "football card grading companies",
   "site_name": "Football Card Grading Companies",
   "title": "Football Card Grading Companies (2026)",
@@ -167,9 +167,9 @@
     "bestsportscardgradingcompany.com",
     "basketballcardgradingcompanies.com",
     "bestsportscardgradingservice.com",
-    "bestcardgradingcompany.com",
     "cardgradingcost.com",
-    "howtogetcardsgraded.com"
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=footballcardgradingcompanies.com&utm_medium=guide&utm_campaign=ags-guides",

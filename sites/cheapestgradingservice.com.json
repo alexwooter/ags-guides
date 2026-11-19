@@ -1,7 +1,7 @@
 {
   "domain": "cheapestgradingservice.com",
   "cluster": "price",
-  "template": "paper",
+  "template": "brief",
   "query": "cheapest grading service",
   "site_name": "Cheapest Grading Service",
   "title": "Cheapest Grading Service (2026)",
@@ -157,9 +157,9 @@
     "cheapestwaytogetbaseballcardsgraded.com",
     "cheapestgradingcompany.com",
     "affordablecardgrading.com",
-    "howtogetcardsgraded.com",
     "cardgradingnearme.com",
-    "cheapestcardgrading.com"
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
   ],
   "cta": {
     "url": "https://agscard.com/pricing?utm_source=cheapestgradingservice.com&utm_medium=guide&utm_campaign=ags-guides",

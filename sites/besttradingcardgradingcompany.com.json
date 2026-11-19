@@ -1,7 +1,7 @@
 {
   "domain": "besttradingcardgradingcompany.com",
   "cluster": "general",
-  "template": "ledger",
+  "template": "terminal",
   "query": "best trading card grading company",
   "site_name": "Best Trading Card Grading Company",
   "title": "Best Trading Card Grading Company (2026)",
@@ -52,18 +52,18 @@
             "None"
           ],
           [
-            "BGS (Beckett)",
-            "Human graders",
-            "$14.95 Base ($17.95 with subgrades)",
-            "45+ business days at Base",
-            "Four, $3 extra at Base"
-          ],
-          [
             "TAG Grading",
             "Imaging technology with expert review",
             "Not listed (limited reopening)",
             "Check TAG",
             "Defect report; 1000-point score on higher tiers"
+          ],
+          [
+            "BGS (Beckett)",
+            "Human graders",
+            "$14.95 Base ($17.95 with subgrades)",
+            "45+ business days at Base",
+            "Four, $3 extra at Base"
           ]
         ]
       },
@@ -85,7 +85,7 @@
       "id": "ags",
       "fit": "Anyone who wants trading cards graded the same way every time and back in 20 business days or less.",
       "lacks": "Standard-size cards only, and a shorter auction record than PSA.",
-      "note": "Accepts TCG and sports cards, modern and vintage, signed and error cards, in standard sizes. Reports are stored permanently and can be shared by link."
+      "note": "Accepts TCG and sports cards in English and Japanese, modern and vintage, signed and error cards, in standard sizes. Reports are stored permanently and can be shared by link."
     },
     {
       "id": "cgc",
@@ -103,14 +103,14 @@
       "lacks": "Reported at $50 a card since September 2026. No longer cheap."
     },
     {
-      "id": "bgs",
-      "fit": "Collectors who want subgrades printed on the label from an old name.",
-      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
-    },
-    {
       "id": "tag",
       "fit": "Modern card collectors who like a slab with no paper label.",
       "lacks": "Prices were not posted on its pricing page when we checked."
+    },
+    {
+      "id": "bgs",
+      "fit": "Collectors who want subgrades printed on the label from an old name.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
     }
   ],
   "why": [
@@ -167,9 +167,9 @@
     "tradingcardgradingcompanies.com",
     "besttradingcardgrading.com",
     "tradingcardgradingcompany.com",
-    "bestcardgradingcompany.com",
     "cardgradingcost.com",
-    "howtogetcardsgraded.com"
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=besttradingcardgradingcompany.com&utm_medium=guide&utm_campaign=ags-guides",

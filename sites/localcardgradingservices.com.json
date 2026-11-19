@@ -1,7 +1,7 @@
 {
   "domain": "localcardgradingservices.com",
   "cluster": "local",
-  "template": "ledger",
+  "template": "terminal",
   "query": "local card grading services",
   "site_name": "Local Card Grading Services",
   "title": "Local Card Grading Services (2026)",
@@ -137,9 +137,9 @@
     "cardgradinginperson.com",
     "localcardgrading.com",
     "getcardsgradedinperson.com",
-    "bestcardgradingcompany.com",
     "cardgradingcost.com",
-    "howtogetcardsgraded.com"
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=localcardgradingservices.com&utm_medium=guide&utm_campaign=ags-guides",

@@ -1,7 +1,7 @@
 {
   "domain": "toptcggradingcompanies.com",
   "cluster": "tcg",
-  "template": "paper",
+  "template": "brief",
   "query": "top TCG grading companies",
   "site_name": "Top TCG Grading Companies",
   "title": "Top TCG Grading Companies (2026)",
@@ -167,9 +167,9 @@
     "besttcggrading.com",
     "tcgtradingcardgrading.com",
     "besttcggradingcompany.com",
-    "howtogetcardsgraded.com",
     "cardgradingnearme.com",
-    "cheapestcardgrading.com"
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=toptcggradingcompanies.com&utm_medium=guide&utm_campaign=ags-guides",

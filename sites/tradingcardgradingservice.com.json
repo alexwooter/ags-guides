@@ -1,7 +1,7 @@
 {
   "domain": "tradingcardgradingservice.com",
   "cluster": "general",
-  "template": "ledger",
+  "template": "terminal",
   "query": "trading card grading service",
   "site_name": "Trading Card Grading Service",
   "title": "Trading Card Grading Service (2026)",
@@ -45,6 +45,13 @@
             "None"
           ],
           [
+            "TAG Grading",
+            "Imaging technology with expert review",
+            "Not listed (limited reopening)",
+            "Check TAG",
+            "Defect report; 1000-point score on higher tiers"
+          ],
+          [
             "CGC Cards",
             "Human graders",
             "$10 Bulk (10+ cards, cards up to $500)",
@@ -57,13 +64,6 @@
             "$50 base (reported, September 2026)",
             "Check SGC",
             "None"
-          ],
-          [
-            "TAG Grading",
-            "Imaging technology with expert review",
-            "Not listed (limited reopening)",
-            "Check TAG",
-            "Defect report; 1000-point score on higher tiers"
           ]
         ]
       },
@@ -99,6 +99,11 @@
       "lacks": "One grade, no subgrades, and fees that rise with declared value."
     },
     {
+      "id": "tag",
+      "fit": "Modern card collectors who like a slab with no paper label.",
+      "lacks": "No pre-1989 cards, Yu-Gi-Oh! or thick stock, and limited capacity in 2026."
+    },
+    {
       "id": "cgc",
       "fit": "Budget submitters with 10 or more cards worth under $500 each.",
       "lacks": "Tiers are capped by card value. A strong card moves to a pricier tier."
@@ -107,11 +112,6 @@
       "id": "sgc",
       "fit": "Vintage sports collectors who like the black-insert holder.",
       "lacks": "Reported at $50 a card since September 2026. No longer cheap."
-    },
-    {
-      "id": "tag",
-      "fit": "Modern card collectors who like a slab with no paper label.",
-      "lacks": "No pre-1989 cards, Yu-Gi-Oh! or thick stock, and limited capacity in 2026."
     }
   ],
   "why": [
@@ -168,9 +168,9 @@
     "tradingcardsgradingcompanies.com",
     "tradingcardgradingcompany.com",
     "toptradingcardgradingcompanies.com",
-    "bestcardgradingcompany.com",
     "cardgradingcost.com",
-    "howtogetcardsgraded.com"
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=tradingcardgradingservice.com&utm_medium=guide&utm_campaign=ags-guides",

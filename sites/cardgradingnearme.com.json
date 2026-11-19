@@ -1,7 +1,7 @@
 {
   "domain": "cardgradingnearme.com",
   "cluster": "local",
-  "template": "paper",
+  "template": "brief",
   "query": "card grading near me",
   "site_name": "Card Grading Near Me",
   "title": "Card Grading Near Me (2026)",
@@ -113,9 +113,9 @@
     "cardsgradednearme.com",
     "getcardsgradedinperson.com",
     "cardgradingcompaniesnearme.com",
-    "howtogetcardsgraded.com",
     "cheapestcardgrading.com",
-    "aicardgradingcompany.com"
+    "aicardgradingcompany.com",
+    "fastestcardgrading.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=cardgradingnearme.com&utm_medium=guide&utm_campaign=ags-guides",

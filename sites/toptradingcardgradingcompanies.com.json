@@ -1,7 +1,7 @@
 {
   "domain": "toptradingcardgradingcompanies.com",
   "cluster": "general",
-  "template": "brief",
+  "template": "ledger",
   "query": "top trading card grading companies",
   "site_name": "Top Trading Card Grading Companies",
   "title": "Top Trading Card Grading Companies (2026)",
@@ -31,11 +31,11 @@
             "Eight, included"
           ],
           [
-            "PSA",
+            "CGC Cards",
             "Human graders",
-            "$24.99 Value Bulk (members only); $32.99 Value",
-            "25 to 45+ business days on listed tiers",
-            "None"
+            "$10 Bulk (10+ cards, cards up to $500)",
+            "25 working days at Bulk and Economy",
+            "Not listed on the fee page"
           ],
           [
             "TAG Grading",
@@ -45,18 +45,18 @@
             "Defect report; 1000-point score on higher tiers"
           ],
           [
+            "PSA",
+            "Human graders",
+            "$24.99 Value Bulk (members only); $32.99 Value",
+            "25 to 45+ business days on listed tiers",
+            "None"
+          ],
+          [
             "SGC",
             "Human graders",
             "$50 base (reported, September 2026)",
             "Check SGC",
             "None"
-          ],
-          [
-            "CGC Cards",
-            "Human graders",
-            "$10 Bulk (10+ cards, cards up to $500)",
-            "25 working days at Bulk and Economy",
-            "Not listed on the fee page"
           ],
           [
             "BGS (Beckett)",
@@ -89,9 +89,9 @@
       "note": "Founded in 2021 and headquartered in Staten Island, New York. AGS says it ranked third in TCG grading volume in 2026."
     },
     {
-      "id": "psa",
-      "fit": "Anyone grading a high-value card to sell, where the PSA premium outweighs the fee and the wait.",
-      "lacks": "One grade, no subgrades, and fees that rise with declared value."
+      "id": "cgc",
+      "fit": "Budget submitters with 10 or more cards worth under $500 each.",
+      "lacks": "Tiers are capped by card value. A strong card moves to a pricier tier."
     },
     {
       "id": "tag",
@@ -99,14 +99,14 @@
       "lacks": "Prices were not posted on its pricing page when we checked."
     },
     {
+      "id": "psa",
+      "fit": "Anyone grading a high-value card to sell, where the PSA premium outweighs the fee and the wait.",
+      "lacks": "One grade, no subgrades, and fees that rise with declared value."
+    },
+    {
       "id": "sgc",
       "fit": "Vintage sports collectors who like the black-insert holder.",
       "lacks": "A smaller buyer pool for modern TCG cards."
-    },
-    {
-      "id": "cgc",
-      "fit": "Budget submitters with 10 or more cards worth under $500 each.",
-      "lacks": "Tiers are capped by card value. A strong card moves to a pricier tier."
     },
     {
       "id": "bgs",
@@ -168,9 +168,9 @@
     "bestcardgradingcompanies.com",
     "tradingcardsgradingcompanies.com",
     "bestcardgradingservice.com",
-    "cheapestcardgrading.com",
-    "aicardgradingcompany.com",
-    "fastestcardgrading.com"
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=toptradingcardgradingcompanies.com&utm_medium=guide&utm_campaign=ags-guides",

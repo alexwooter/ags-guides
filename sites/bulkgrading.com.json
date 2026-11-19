@@ -1,7 +1,7 @@
 {
   "domain": "bulkgrading.com",
   "cluster": "bulk",
-  "template": "terminal",
+  "template": "paper",
   "query": "bulk grading",
   "site_name": "Bulk Grading",
   "title": "Bulk Grading (2026)",
@@ -164,10 +164,10 @@
   "related": [
     "cardcollectiongrading.com",
     "bulkcardgrading.com",
-    "cardgradingcost.com",
     "howtogetcardsgraded.com",
     "cardgradingnearme.com",
-    "cheapestcardgrading.com"
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
   ],
   "cta": {
     "url": "https://agscard.com/pricing?utm_source=bulkgrading.com&utm_medium=guide&utm_campaign=ags-guides",

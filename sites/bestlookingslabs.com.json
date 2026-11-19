@@ -1,7 +1,7 @@
 {
   "domain": "bestlookingslabs.com",
   "cluster": "slabs",
-  "template": "paper",
+  "template": "brief",
   "query": "best looking slabs",
   "site_name": "Best Looking Slabs",
   "title": "Best Looking Slabs (2026)",
@@ -150,10 +150,10 @@
   "related": [
     "bestcardslabs.com",
     "bestgradingslabs.com",
-    "howtogetcardsgraded.com",
     "cardgradingnearme.com",
     "cheapestcardgrading.com",
-    "aicardgradingcompany.com"
+    "aicardgradingcompany.com",
+    "fastestcardgrading.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=bestlookingslabs.com&utm_medium=guide&utm_campaign=ags-guides",

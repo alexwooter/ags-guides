@@ -1,7 +1,7 @@
 {
   "domain": "inpersoncardgrading.com",
   "cluster": "local",
-  "template": "terminal",
+  "template": "paper",
   "query": "in person card grading",
   "site_name": "In Person Card Grading",
   "title": "In Person Card Grading (2026)",
@@ -108,9 +108,9 @@
     "getcardsgradedinperson.com",
     "localcardgradingservices.com",
     "cardgradingnearme.com",
-    "cardgradingcost.com",
     "howtogetcardsgraded.com",
-    "cheapestcardgrading.com"
+    "cheapestcardgrading.com",
+    "aicardgradingcompany.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=inpersoncardgrading.com&utm_medium=guide&utm_campaign=ags-guides",

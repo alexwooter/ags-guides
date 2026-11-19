@@ -1,7 +1,7 @@
 {
   "domain": "tradingcardsgradingcompanies.com",
   "cluster": "general",
-  "template": "paper",
+  "template": "brief",
   "query": "trading cards grading companies",
   "site_name": "Trading Cards Grading Companies",
   "title": "Trading Cards Grading Companies (2026)",
@@ -40,19 +40,14 @@
       "note": "Standard service is 20 business days or less. Faster bulk tiers run 10 and 5 business days. Payment is taken when grading is done."
     },
     {
-      "id": "bgs",
-      "fit": "Modern card collectors who like the half-point scale.",
-      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
-    },
-    {
-      "id": "cgc",
-      "fit": "TCG collectors and volume submitters who want a low price from a large grader outside Collectors.",
-      "lacks": "No measured report behind the grade."
-    },
-    {
       "id": "psa",
       "fit": "Sellers who want the widest buyer pool and the highest resale prices.",
       "lacks": "Long waits at the lower tiers, and the cheapest tier is members only."
+    },
+    {
+      "id": "tag",
+      "fit": "Modern card collectors who like a slab with no paper label.",
+      "lacks": "No pre-1989 cards, Yu-Gi-Oh! or thick stock, and limited capacity in 2026."
     },
     {
       "id": "sgc",
@@ -60,9 +55,14 @@
       "lacks": "Reported at $50 a card since September 2026. No longer cheap."
     },
     {
-      "id": "tag",
-      "fit": "Modern card collectors who like a slab with no paper label.",
-      "lacks": "No pre-1989 cards, Yu-Gi-Oh! or thick stock, and limited capacity in 2026."
+      "id": "cgc",
+      "fit": "TCG collectors and volume submitters who want a low price from a large grader outside Collectors.",
+      "lacks": "No measured report behind the grade."
+    },
+    {
+      "id": "bgs",
+      "fit": "Modern card collectors who like the half-point scale.",
+      "lacks": "Subgrades by eye, and 45 business days or more at the Base tier."
     }
   ],
   "why": [
@@ -119,9 +119,9 @@
     "bestcardgradingcompany.com",
     "tradingcardgradingservices.com",
     "bestcardgradingcompanies.com",
-    "cardgradingnearme.com",
     "cheapestcardgrading.com",
-    "aicardgradingcompany.com"
+    "aicardgradingcompany.com",
+    "fastestcardgrading.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=tradingcardsgradingcompanies.com&utm_medium=guide&utm_campaign=ags-guides",

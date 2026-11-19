@@ -1,7 +1,7 @@
 {
   "domain": "footballcardgradingnearme.com",
   "cluster": "local",
-  "template": "ledger",
+  "template": "terminal",
   "query": "football card grading near me",
   "site_name": "Football Card Grading Near Me",
   "title": "Football Card Grading Near Me (2026)",
@@ -108,9 +108,9 @@
     "sportscardgradingnearme.com",
     "basketballcardgradingnearme.com",
     "sportscardgradingcompaniesnearme.com",
-    "bestcardgradingcompany.com",
     "cardgradingcost.com",
-    "howtogetcardsgraded.com"
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=footballcardgradingnearme.com&utm_medium=guide&utm_campaign=ags-guides",

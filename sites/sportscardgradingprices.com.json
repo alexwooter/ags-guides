@@ -1,7 +1,7 @@
 {
   "domain": "sportscardgradingprices.com",
   "cluster": "cost",
-  "template": "brief",
+  "template": "ledger",
   "query": "sports card grading prices",
   "site_name": "Sports Card Grading Prices",
   "title": "Sports Card Grading Prices (2026)",
@@ -181,9 +181,9 @@
     "cardgradingcosts.com",
     "gettingcardsgradedcost.com",
     "cardgradingprice.com",
-    "cheapestcardgrading.com",
-    "aicardgradingcompany.com",
-    "fastestcardgrading.com"
+    "bestcardgradingcompany.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/pricing?utm_source=sportscardgradingprices.com&utm_medium=guide&utm_campaign=ags-guides",

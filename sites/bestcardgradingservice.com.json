@@ -86,7 +86,7 @@
       "id": "ags",
       "fit": "Sellers who want a report a buyer can open, at a price that does not depend on the card.",
       "lacks": "Founded in 2021, so less history with buyers than PSA or Beckett.",
-      "note": "Accepts TCG and sports cards, modern and vintage, signed and error cards, in standard sizes. Reports are stored permanently and can be shared by link."
+      "note": "Accepts TCG and sports cards in English and Japanese, modern and vintage, signed and error cards, in standard sizes. Reports are stored permanently and can be shared by link."
     },
     {
       "id": "psa",
@@ -151,16 +151,16 @@
       "a": "Yes. It is real-time and includes every card AGS has graded."
     },
     {
+      "q": "Does AGS grade Japanese cards?",
+      "a": "Yes. Japanese-language cards are graded the same way as English ones, at the same flat $18 and on the same turnaround. Jumbo promos are the exception, since AGS takes standard sizes."
+    },
+    {
       "q": "How does AI card grading work?",
       "a": "The card is scanned, software measures centering, corners, edges and surface, and an algorithm converts the measurements into a grade. AGS uses a 3D laser scan of roughly 30 million data points per card. No human opinion sets the number."
     },
     {
       "q": "How long does card grading take?",
       "a": "It depends on the grader and the tier. AGS lists 20 business days or less, with 10 and 5 day tiers. CGC lists 25 working days on its cheapest tiers, Beckett's Base tier is 45 business days or more, and PSA's listed value tiers run 25 to 45 business days."
-    },
-    {
-      "q": "Can I cross a card over from another grader's slab?",
-      "a": "CGC and Ace Grading list crossover services. AGS's FAQ does not list one, so ask AGS before sending a card in another company's holder."
     }
   ],
   "related": [

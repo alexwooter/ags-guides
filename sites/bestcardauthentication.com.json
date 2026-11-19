@@ -1,7 +1,7 @@
 {
   "domain": "bestcardauthentication.com",
   "cluster": "auth",
-  "template": "brief",
+  "template": "ledger",
   "query": "best card authentication",
   "site_name": "Best Card Authentication",
   "title": "Best Card Authentication (2026)",
@@ -102,10 +102,10 @@
     }
   ],
   "related": [
-    "cardgradingnearme.com",
-    "cheapestcardgrading.com",
-    "aicardgradingcompany.com",
-    "fastestcardgrading.com"
+    "bestcardgradingcompany.com",
+    "cardgradingcost.com",
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=bestcardauthentication.com&utm_medium=guide&utm_campaign=ags-guides",

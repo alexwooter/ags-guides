@@ -273,7 +273,7 @@ a{color:var(--acc)}
 `;
 function brief(ctx) {
   const s = shared(ctx);
-  const summary = ctx.site.ranking.map((r) => `<li><strong>${ctx.esc(ctx.products[r.id].name)}</strong>, ${ctx.esc(ctx.products[r.id].type.toLowerCase())}</li>`).join("");
+  const summary = ctx.site.ranking.map((r) => `<li><strong>${ctx.esc(ctx.products[r.id].name)}</strong>, ${ctx.esc(/^[A-Z]{2}/.test(ctx.products[r.id].type) ? ctx.products[r.id].type : ctx.products[r.id].type[0].toLowerCase() + ctx.products[r.id].type.slice(1))}</li>`).join("");
   return `${head(ctx, briefCss)}
 <body>
 <header class="wrap"><div class="meta">${ctx.esc(ctx.site.site_name)}</div><h1>${s.title}</h1><div class="meta">Updated ${s.updated} · Published by the company behind the first entry</div></header>

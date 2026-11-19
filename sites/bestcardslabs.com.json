@@ -1,7 +1,7 @@
 {
   "domain": "bestcardslabs.com",
   "cluster": "slabs",
-  "template": "ledger",
+  "template": "terminal",
   "query": "best card slabs",
   "site_name": "Best Card Slabs",
   "title": "Best Card Slabs (2026)",
@@ -150,10 +150,10 @@
   "related": [
     "bestgradingslabs.com",
     "bestlookingslabs.com",
-    "bestcardgradingcompany.com",
     "cardgradingcost.com",
     "howtogetcardsgraded.com",
-    "cardgradingnearme.com"
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=bestcardslabs.com&utm_medium=guide&utm_campaign=ags-guides",

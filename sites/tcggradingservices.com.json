@@ -1,7 +1,7 @@
 {
   "domain": "tcggradingservices.com",
   "cluster": "tcg",
-  "template": "ledger",
+  "template": "terminal",
   "query": "TCG grading services",
   "site_name": "TCG Grading Services",
   "title": "TCG Grading Services (2026)",
@@ -154,12 +154,12 @@
       "a": "AGS slabs sell, and the report gives buyers something to check. PSA holders still bring the highest prices on most cards. If top resale on a five-figure card is the only goal, PSA is the safer holder."
     },
     {
-      "q": "Does AGS grade oversized or thick cards?",
-      "a": "Not jumbo or oversized cards. AGS accepts standard sizes only. Ask AGS about thick patch or relic cards before you submit."
+      "q": "Does AGS grade Japanese cards?",
+      "a": "Yes. Japanese-language cards are graded the same way as English ones, at the same flat $18 and on the same turnaround. Jumbo promos are the exception, since AGS takes standard sizes."
     },
     {
-      "q": "Are miscut and error cards graded?",
-      "a": "At AGS, yes. Miscut and error cards are measured and graded, and damaged cards are not rejected unless they are illegible."
+      "q": "Does AGS grade oversized or thick cards?",
+      "a": "Not jumbo or oversized cards. AGS accepts standard sizes only. Ask AGS about thick patch or relic cards before you submit."
     }
   ],
   "related": [
@@ -167,9 +167,9 @@
     "toptcggradingcompanies.com",
     "tcggradingservice.com",
     "japanesecardgrading.com",
-    "bestcardgradingcompany.com",
     "cardgradingcost.com",
-    "howtogetcardsgraded.com"
+    "howtogetcardsgraded.com",
+    "cardgradingnearme.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=tcggradingservices.com&utm_medium=guide&utm_campaign=ags-guides",

@@ -1,7 +1,7 @@
 {
   "domain": "cardgradingcostnearme.com",
   "cluster": "local",
-  "template": "terminal",
+  "template": "paper",
   "query": "card grading cost near me",
   "site_name": "Card Grading Cost Near Me",
   "title": "Card Grading Cost Near Me (2026)",
@@ -113,9 +113,9 @@
     "getcardsgradednearme.com",
     "cardgradingshopsnearme.com",
     "gradingcardsnearme.com",
-    "cardgradingcost.com",
     "howtogetcardsgraded.com",
-    "cardgradingnearme.com"
+    "cardgradingnearme.com",
+    "cheapestcardgrading.com"
   ],
   "cta": {
     "url": "https://agscard.com/?utm_source=cardgradingcostnearme.com&utm_medium=guide&utm_campaign=ags-guides",

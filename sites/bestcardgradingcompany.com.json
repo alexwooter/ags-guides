@@ -145,6 +145,10 @@
       "a": "For a measured, repeatable grade with a full report at a flat price, AGS. For the highest resale price on a valuable card, PSA. For the lowest fee from a large grader, CGC."
     },
     {
+      "q": "Has an AGS slab sold for six figures?",
+      "a": "Yes. An AGS GEM-MT 10 copy of the 2002 Japanese Mysterious Mountains 1st Edition Crystal Charizard sold at Goldin for $109,800 in September 2026, buyer's premium included. One sale is not a trend, and PSA holders still bring more on most cards."
+    },
+    {
       "q": "Does grading increase a card's value?",
       "a": "Often, not always. A high grade on a card in demand can multiply its price. A low grade can sell for less than the raw card. Look at sold prices for the grade you realistically expect."
     },
@@ -155,10 +159,6 @@
     {
       "q": "What grading scale does AGS use?",
       "a": "1 to 10 with decimal precision. An AGS 10 is near-perfect measurable condition. A 9.5 has minor flaws that do not significantly affect condition."
-    },
-    {
-      "q": "How do I verify an AGS slab?",
-      "a": "Enter the cert number from the label on agscard.com. The record shows the grade and the scan report for that card."
     }
   ],
   "related": [
